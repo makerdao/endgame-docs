@@ -25,9 +25,7 @@ Initially, Maker will create EtherDai as a simple ERC20 token wrapper around Lid
 Later, Maker will be able to upgrade the EtherDai implementation, converting it into a full synthetic asset.
 
 ## Related Pages
-{% content-ref url="elixir.md" %} Elixir {% endcontent-ref %}  
-{% content-ref url="subDAOs.md" %} SubDAOs {% endcontent-ref %}  
-{% content-ref url="protocol-owned-vault.md" %} Protocol Owned Vault {% endcontent-ref %}  
+{% content-ref url="elixir.md" %} Elixir {% endcontent-ref %}{% content-ref url="subDAOs.md" %} SubDAOs {% endcontent-ref %}{% content-ref url="protocol-owned-vault.md" %} Protocol Owned Vault {% endcontent-ref %}
 
 >Page last reviewed: 2023-01-09    
 >Next review due: 2023-04-09    

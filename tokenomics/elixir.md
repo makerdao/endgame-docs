@@ -23,9 +23,7 @@ In the first version, Elixir will be a simple Balancer pool that consists of one
 In its final form, Elixir will consist of one third Dai, one third EtherDai and one third MKR.
 
 ## Related Pages
-{% content-ref url="etherdai.md" %} EtherDai {% endcontent-ref %}  
-{% content-ref url="subelixir.md" %} SubElixir {% endcontent-ref %}  
-{% content-ref url="subDAOs.md" %} SubDAOs {% endcontent-ref %}  
+{% content-ref url="etherdai.md" %} EtherDai {% endcontent-ref %}{% content-ref url="subelixir.md" %} SubElixir {% endcontent-ref %}{% content-ref url="subDAOs.md" %} SubDAOs {% endcontent-ref %}  
 
 >Page last reviewed: 2023-01-09    
 >Next review due: 2023-04-09    
