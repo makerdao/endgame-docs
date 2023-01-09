@@ -1,13 +1,9 @@
 # Elixir
 
-{% hint style="info" %}
-This documentation describes planned functionality and processes that MakerDAO has not yet implemented.
-{% endhint %}
-
 Elixir is the long term liquidity solution for Dai, EtherDai and MKR. It is a liquidity pool token of one third DAI, one third liquid staked Ether derivatives and one third MKR. Elixir will be used to provide sustainable liquidity on ethereum mainnet and all L2 networks. 
 
 {% hint style="warning" %}
-The Endgame plan is currently in a dynamic and evolving state. Be aware that parts of this documentation may be out of date or incorrect.
+This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts of this documentation may be inaccurate or out of date.
 {% endhint %}
 
 ## Endgame Interactions

@@ -1,13 +1,9 @@
 # EtherDai
 
-{% hint style="info" %}
-This documentation describes planned functionality and processes that MakerDAO has not yet implemented.
-{% endhint %}
-
 EtherDai is a synthetic Ether token backed by liquid staked Ether derivatives and debt issued by Maker. It is one of the central products of the Endgame Plan. 
 
 {% hint style="warning" %}
-The Endgame plan is currently in a dynamic and evolving state. Be aware that parts of this documentation may be out of date or incorrect.
+This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts of this documentation may be inaccurate or out of date.
 {% endhint %}
 
 ## Endgame Interactions

@@ -5,12 +5,8 @@ description: >-
 
 # Maker Endgame Documentation
 
-{% hint style="info" %}
-This documentation describes planned functionality and processes that MakerDAO has not yet implemented.
-{% endhint %}
-
 {% hint style="warning" %}
-The Endgame plan is currently in a dynamic and evolving state. Be aware that parts of this documentation may be out of date or incorrect.
+This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts of this documentation may be inaccurate or out of date.
 {% endhint %}
 
 ## More MakerDAO Documentation
