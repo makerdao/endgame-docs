@@ -16,6 +16,7 @@ EtherDai is a component of the Elixir liquidity pool token.
 
 The Protocol Owned Vault will accumulate EtherDAI using generated Dai. This will slightly increase the ratio of decentralized collateral backing Dai.
 
+Responsibility for EtherDai comes under the Protocol Engineering Scope.
 
 ## EtherDai Development
 

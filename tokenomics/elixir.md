@@ -12,7 +12,7 @@ Maker Core accumulates Elixir using a share of its surplus capital. This Elixir 
 
 SubDAOs also accumulate Elixir using their surplus capital. The relative amount of Elixir held by each subDAO will determine their share of MKR emissions from Maker Core. The more Elixir a MetaDAO holds, the more MKR MakerCore will use to buy SubElixir.
 
-SubDAOs burn a small percentage of their governance token each year if their accumulated Elixir exceeds their token's market cap. This delivers value back to the subDAOs token holders.
+SubDAOs burn a small percentage of their governance token each year if the value of their accumulated Elixir exceeds their token's market cap. This delivers value back to the subDAO's token holders.
 
 Responsibility for Elixir comes under the Protocol Engineering Scope.
 
