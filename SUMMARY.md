@@ -15,5 +15,6 @@
 * Test4
 
 ## Tokenomics
-* Test5
+* [EtherDai](tokenomics/etherdai.md)
+* [Elixir](tokenomics/elixir.md)
 
