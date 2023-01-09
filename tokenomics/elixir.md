@@ -10,7 +10,7 @@ Elixir is the long term liquidity solution for Dai, EtherDai and MKR. It is a li
 The Endgame plan is currently in a dynamic and evolving state. Be aware that parts of this documentation may be out of date or incorrect.
 {% endhint %}
 
-## Interactions
+## Endgame Interactions
 
 Maker Core accumulates Elixir using a share of its surplus capital. This Elixir will be used to burn MKR in bursts, when the MKR price is favourable.
 
@@ -22,14 +22,14 @@ Responsibility for Elixir comes under the Protocol Engineering Scope.
 
 ## Elixir Development
 
-In the first version, Elixir will be a simple Balancer pool that consists of one third Dai, one third stETH and one third MKR. This initial implementation has no dependency on EtherDAI which speeds up deployment. Later, the Balancer pool will be modified to replace stETH with EtherDAI.
+In the first version, Elixir will be a simple Balancer pool that consists of one third Dai, one third Lido stETH and one third MKR. This initial implementation has no dependency on EtherDAI which speeds up deployment. Later, the Balancer pool will be modified to replace stETH with EtherDAI.
 
 In its final form, Elixir will consist of one third Dai, one third EtherDai and one third MKR.
 
 ## Related Pages
 {% content-ref url="etherdai.md" %} EtherDai {% endcontent-ref %}  
 {% content-ref url="subelixir.md" %} SubElixir {% endcontent-ref %}  
-{% content-ref url="..\subDAOs\subDAOs.md" %} SubDAOs {% endcontent-ref %}  
+{% content-ref url="subDAOs.md" %} SubDAOs {% endcontent-ref %}  
 
 >Page last reviewed: 2023-01-09    
 >Next review due: 2023-04-09    
