@@ -1,6 +1,6 @@
 # Elixir
 
-Elixir is the long term liquidity solution for Dai, EtherDai and MKR. It is a liquidity pool token of one third DAI, one third liquid staked Ether derivatives and one third MKR. Elixir will be used to provide sustainable liquidity on ethereum mainnet and all L2 networks. 
+Elixir is the long term liquidity solution for Dai, EtherDai and MKR. It is a liquidity pool token of one third DAI, one third liquid staked Ether tokens and one third MKR. Elixir will be used to provide sustainable liquidity on ethereum mainnet and all L2 networks. 
 
 {% hint style="warning" %}
 This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
@@ -10,7 +10,7 @@ This documentation describes planned functionality and processes that MakerDAO h
 
 Maker Core accumulates Elixir using a share of its surplus capital. This Elixir will be used to burn MKR in bursts, when the MKR price is favourable.
 
-SubDAOs also accumulate Elixir using their surplus capital. The relative amount of Elixir held by each subDAO will determine their share of MKR emissions from Maker Core. The more Elixir a MetaDAO holds, the more MKR MakerCore will use to buy SubElixir.
+SubDAOs also accumulate Elixir using their surplus capital. The relative amount of Elixir held by each subDAO will determine their share of MKR emissions from Maker Core. The more Elixir a SubDAO holds, the more MKR emissions it will recieve.
 
 SubDAOs burn a small percentage of their governance token each year if the value of their accumulated Elixir exceeds their token's market cap. This delivers value back to the subDAO's token holders.
 
