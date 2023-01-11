@@ -17,4 +17,5 @@
 ## Tokenomics
 * [EtherDai](tokenomics/etherdai.md)
 * [Elixir](tokenomics/elixir.md)
+* [SubElixir](tokenomics/subelixir.md)
 
