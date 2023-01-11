@@ -1,6 +1,6 @@
 # SubElixir
 
-SubElixir is the core liquidity solution for SubDAO tokens. SubElixir is a set of liquidity pool tokens (one for each subDAO) made up 50% MKR and 50% subDAO token.
+SubElixir is the core liquidity solution for SubDAO tokens. SubElixir is a set of liquidity pool tokens (one for each SubDAO) made up 50% MKR and 50% SubDAO token.
 
 Each SubDAO has both a SubDAO token and a SubElixir LP token.
 
@@ -23,7 +23,7 @@ Maker will create the SubElixir tokens for the initial SubDAOs as a simple Unisw
 ## Related Pages
 {% content-ref url="etherdai.md" %} EtherDai {% endcontent-ref %}
 {% content-ref url="elixir.md" %} Elixir {% endcontent-ref %}
-{% content-ref url="subDAOs.md" %} SubDAOs {% endcontent-ref %}  
+{% content-ref url="SubDAOs.md" %} SubDAOs {% endcontent-ref %}  
 
 >Page last reviewed: 2023-01-11    
 >Next review due: 2023-04-11   
