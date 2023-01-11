@@ -3,7 +3,7 @@
 * [Maker Endgame Documentation](README.md)
 
 ## Overview
-* Test
+* [Endgame Resources](misc/resources.md)
 
 ## SubDAOs
 * Test2
