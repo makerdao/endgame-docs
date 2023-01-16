@@ -25,7 +25,7 @@ These resources describe planned functionality and processes that MakerDAO has n
 | 2022-12-01 | [Scope Framework Example Draft](https://forum.makerdao.com/t/wip-scope-framework-example-draft-scope-3-the-real-world-asset-collateral-scope-framework/19016)                                | Rune          |
 | 2022-12-07 | [Final Endgame Tokenomics](https://forum.makerdao.com/t/final-endgame-tokenomics/19086)                                                                                                      | Rune          |
 
-## Dentralized Voter Committee Calls
+## Decentralized Voter Committee Calls
 
 | Date       | Title                                                                                                                                                                                        | Author        |
 |------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
