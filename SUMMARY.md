@@ -6,6 +6,10 @@
 
 * [Endgame Resources](misc/resources.md)
 
+## Scopes and Frameworks
+
+* [List of Scopes](scopes-and-frameworks/list-of-scopes.md)
+
 ## SubDAOs
 
 * [Test2](subdaos/test2.md)
