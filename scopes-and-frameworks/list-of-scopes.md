@@ -23,3 +23,9 @@ The following scopes are the supporting scopes of the Endgame Constitution.
 7. **Governance Security (M):** This scope ensures that the protocol is secure from governance attacks. This includes ensuring that there is enough MKR on the hat, monitoring how easily MKR can be borrowed from lending platforms, reviewing emergency shutdown parameters, etc.
 8. **Arbitration (M):** This scope handles providing final arbitration on governance disputes involving SubDAOs, delegates, and Decentralized Voter Committees (DVCs).
 
+## Related Pages
+{% content-ref url="scopes-and-frameworks.md" %} Scopes and Frameworks {% endcontent-ref %}
+
+>Page last reviewed: 2023-01-20   
+>Next review due: 2023-04-20    
+
