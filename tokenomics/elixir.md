@@ -27,5 +27,5 @@ In its final form, Elixir will consist of one third Dai, one third EtherDai and 
 {% content-ref url="subelixir.md" %} SubElixir {% endcontent-ref %}
 {% content-ref url="subDAOs.md" %} SubDAOs {% endcontent-ref %}  
 
->Page last reviewed: 2023-01-09    
->Next review due: 2023-04-09    
+>Page last reviewed: -    
+>Next review due: -   

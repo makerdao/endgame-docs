@@ -20,7 +20,7 @@
 
 ## Concepts
 
-* [Test4](concepts/test4.md)
+* [Collateral Breakdown](concepts/collateral-breakdown.md)
 
 ## Tokenomics
 
@@ -29,4 +29,3 @@
 * [SubElixir](tokenomics/subelixir.md)
 * [MKR Tokenomics](tokenomics/mkr-tokenomics.md)
 * [SubDAO Tokenomics](tokenomics/subdao-tokenomics.md)
-* [Collateral Breakdown](tokenomics/collateral-breakdown.md)

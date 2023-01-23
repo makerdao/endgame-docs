@@ -25,5 +25,5 @@ Maker will create the SubElixir tokens for the initial SubDAOs as a simple Unisw
 {% content-ref url="elixir.md" %} Elixir {% endcontent-ref %}
 {% content-ref url="SubDAOs.md" %} SubDAOs {% endcontent-ref %}  
 
->Page last reviewed: 2023-01-11    
->Next review due: 2023-04-11   
+>Page last reviewed: -    
+>Next review due: -   
