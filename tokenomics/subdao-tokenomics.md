@@ -35,5 +35,5 @@ Additionally, each SubDAO emits 3% of their total supply each year.
 {% content-ref url="etherdai.md" %} EtherDai {% endcontent-ref %}
 {% content-ref url="SubDAOs.md" %} SubDAOs {% endcontent-ref %}  
 
->Page last reviewed: 2023-01-23    
->Next review due: 2023-04-23   
+>Page last reviewed: -    
+>Next review due: -   

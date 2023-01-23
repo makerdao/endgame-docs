@@ -12,15 +12,15 @@
 
 ## SubDAOs
 
-* [Test2](subdaos/test2.md)
+* [Placeholder Two](subdaos/test2.md)
 
 ## Maker Core
 
-* [Test3](maker-core/test3.md)
+* [Placeholder Three](maker-core/test3.md)
 
 ## Concepts
 
-* [Test4](concepts/test4.md)
+* [Collateral Breakdown](concepts/collateral-breakdown.md)
 
 ## Tokenomics
 
@@ -29,4 +29,3 @@
 * [SubElixir](tokenomics/subelixir.md)
 * [MKR Tokenomics](tokenomics/mkr-tokenomics.md)
 * [SubDAO Tokenomics](tokenomics/subdao-tokenomics.md)
-* [Collateral Breakdown](tokenomics/collateral-breakdown.md)

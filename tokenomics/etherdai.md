@@ -29,5 +29,5 @@ Later, Maker will be able to upgrade the EtherDai implementation, converting it 
 {% content-ref url="subDAOs.md" %} SubDAOs {% endcontent-ref %}
 {% content-ref url="protocol-owned-vault.md" %} Protocol Owned Vault {% endcontent-ref %}
 
->Page last reviewed: 2023-01-09    
->Next review due: 2023-04-09    
+>Page last reviewed: -    
+>Next review due: -   
