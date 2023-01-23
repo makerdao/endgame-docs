@@ -6,6 +6,10 @@ Each Maker SubDAO has its own SubDAO token. Each SubDAO token is a new token tha
 This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
 {% endhint %}
 
+## Overview
+
+![](..\assets\images\subdao-tokenomics.png)
+
 ## SubDAO Token Emissions
 
 The initial supply of each subDAO token is 2.6 billion. 
