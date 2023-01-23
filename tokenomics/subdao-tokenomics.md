@@ -6,10 +6,6 @@ Each Maker SubDAO has its own SubDAO token. Each SubDAO token is a new token tha
 This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
 {% endhint %}
 
-## Launch Overview
-
-![SubDAO Tokenomics](../assets/images/subdao-tokenomics.png)
-
 ## SubDAO Token Emissions
 
 The initial supply of each subDAO token is 2.6 billion. 
@@ -29,6 +25,10 @@ Additionally, each SubDAO emits 3% of their total supply each year.
 40% of the initial SubDAO token distriubtion is farmable by EtherDai vault owners.
 
 40% of the initial SubDAO token distribution is farmable by MKR holders that are active in Maker Core governance.
+
+## Launch Overview
+
+![SubDAO Tokenomics](../assets/images/subdao-tokenomics.png)
 
 ## Related Pages
 

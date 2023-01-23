@@ -27,5 +27,6 @@
 * [EtherDai](tokenomics/etherdai.md)
 * [Elixir](tokenomics/elixir.md)
 * [SubElixir](tokenomics/subelixir.md)
+* [Endgame Launch Tokenomics](tokenomics/launch-tokenomics.md)
 * [MKR Tokenomics](tokenomics/mkr-tokenomics.md)
 * [SubDAO Tokenomics](tokenomics/subdao-tokenomics.md)
