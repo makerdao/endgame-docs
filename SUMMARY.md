@@ -24,3 +24,4 @@
 * [Elixir](tokenomics/elixir.md)
 * [SubElixir](tokenomics/subelixir.md)
 * [MKR Tokenomics](tokenomics/mkr-tokenomics.md)
+* [SubDAO Tokenomics](tokenomics/subdao-tokenomics.md)

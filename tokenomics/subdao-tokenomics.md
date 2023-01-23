@@ -6,7 +6,7 @@ Each Maker SubDAO has its own SubDAO token. Each SubDAO token is a new token tha
 This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
 {% endhint %}
 
-## Overview
+## Launch Overview
 
 ![SubDAO Tokenomics](../assets/images/subdao-tokenomics.png)
 

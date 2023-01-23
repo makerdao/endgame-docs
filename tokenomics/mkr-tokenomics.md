@@ -6,7 +6,7 @@ MKR (Maker) is the preexisting governance token for the Maker Protocol. Under th
 This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
 {% endhint %}
 
-## Overview
+## Launch Overview
 
 ![Maker Core Tokenomics](../assets/images/core-tokenomics.png)
 
