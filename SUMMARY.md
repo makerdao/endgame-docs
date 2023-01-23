@@ -12,11 +12,11 @@
 
 ## SubDAOs
 
-* [Test2](subdaos/test2.md)
+* [Placeholder Two](subdaos/test2.md)
 
 ## Maker Core
 
-* [Test3](maker-core/test3.md)
+* [Placeholder Three](maker-core/test3.md)
 
 ## Concepts
 
