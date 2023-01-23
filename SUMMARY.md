@@ -28,4 +28,5 @@
 * [Elixir](tokenomics/elixir.md)
 * [SubElixir](tokenomics/subelixir.md)
 * [MKR Tokenomics](tokenomics/mkr-tokenomics.md)
+* [SubDAO Tokenomics](tokenomics/subdao-tokenomics.md)
 * [Collateral Breakdown](tokenomics/collateral-breakdown.md)
