@@ -8,7 +8,7 @@ This documentation describes planned functionality and processes that MakerDAO h
 
 ## Overview
 
-![](..\assets\images\core-tokenomics.png)
+![Maker Core Tokenomics](../assets/images/core-tokenomics.png)
 
 ## Endgame MKR Emissions
 

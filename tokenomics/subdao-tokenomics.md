@@ -8,7 +8,7 @@ This documentation describes planned functionality and processes that MakerDAO h
 
 ## Overview
 
-![](..\assets\images\subdao-tokenomics.png)
+![SubDAO Tokenomics](../assets/images/subdao-tokenomics.png)
 
 ## SubDAO Token Emissions
 
