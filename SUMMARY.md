@@ -1,19 +1,33 @@
-# Table of Contents
+# Table of contents
 
 * [Maker Endgame Documentation](README.md)
 
 ## Overview
-* Test
+
+* [Overview](overview.md)
+* [Endgame Resources](misc/resources.md)
+
+## Scopes and Frameworks
+
+* [List of Scopes](scopes-and-frameworks/list-of-scopes.md)
 
 ## SubDAOs
-* Test2
+
+* [Placeholder Two](subdaos/test2.md)
 
 ## Maker Core
-* Test3
+
+* [Placeholder Three](maker-core/test3.md)
 
 ## Concepts
-* Test4
+
+* [Collateral Breakdown](concepts/collateral-breakdown.md)
 
 ## Tokenomics
-* Test5
 
+* [EtherDai](tokenomics/etherdai.md)
+* [Elixir](tokenomics/elixir.md)
+* [SubElixir](tokenomics/subelixir.md)
+* [Endgame Launch Tokenomics](tokenomics/launch-tokenomics.md)
+* [MKR Tokenomics](tokenomics/mkr-tokenomics.md)
+* [SubDAO Tokenomics](tokenomics/subdao-tokenomics.md)
