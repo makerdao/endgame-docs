@@ -21,5 +21,5 @@ Collateral assets held by the Maker Protocol or its SubDAOs can be broken up int
 {% content-ref url="subelixir.md" %} SubElixir {% endcontent-ref %}
 {% content-ref url="subDAOs.md" %} SubDAOs {% endcontent-ref %}  
 
->Page last reviewed: 2023-01-20   
->Next review due: 2023-04-20    
+>Page last reviewed: -    
+>Next review due: -   
