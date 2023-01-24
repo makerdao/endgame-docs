@@ -36,7 +36,7 @@ The Endgame Plan consists of the following main components:
 - [Decentalized Voter Committees](addlink.com)
     - Decentralized Voter Committees (DVCs) are a group of voters with aligned overall values and views. DVCs directly engage in the important high-level questions of Maker Governance.
     - The objective of DVCs is to ensure that they represent MKR voters that are aligned with the values of that DVC. Members of DVCs will be compensated for their engagement under certain conditions, thereby incentivizing active governance. 
-- [Updated Tokenomics](tokenomics/endgame-launch-tokenomics.md)
+- [Updated Tokenomics](tokenomics/launch-tokenomics.md)
     - The Endgame Plan has two major tokenomics updates. First, annual MKR minting will be used to incubate SubDAOs, fund DVCs, and incentivize the workforce. These emissions counteract the MKR burn and reduce the likelihood of MKR becoming concentrated in the hands of large holders.
     - The Endgame Plan introduces [Elixir](tokenomics/elixir.md) and [SubElixir](tokenomics/subelixir.md), which are liquidity pool tokens representing liquidity pools holding various combinations of MKR, ETH, DAI and SubDAO governance tokens. The aim of these tokens is twofold. It ensures alignment of interests between Maker Core and SubDAOs and also improves liquidity for all these tokens on the open market. 
 - Other Aspects
