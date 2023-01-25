@@ -9,8 +9,8 @@
 
 ## Maker Core
 
-* [List of Scopes](maker-core/list-of-scopes.md)
 * [TBC - Scopes and Frameworks](maker-core/scopes-and-frameworks.md)
+* [List of Scopes](maker-core/list-of-scopes.md)
 * TBC - Governance
     * [TBC - DVCs](maker-core/dvc.md)
     * [TBC - Delegates](maker-core/delegates.md)
