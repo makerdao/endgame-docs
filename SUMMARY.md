@@ -40,5 +40,6 @@
 * [Stances](concepts/stances.md)
 * [Collateral Breakdown](concepts/collateral-breakdown.md)
 * [TBC - Peg Stability Mechanisms](concepts/peg-stability-mechanisms.md)
+* [TBC - Target Rate](concepts/target-rate.md)
 
 
