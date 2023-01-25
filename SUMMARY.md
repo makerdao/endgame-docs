@@ -2,25 +2,18 @@
 
 * [Maker Endgame Documentation](README.md)
 
-## Overview
+## Endgame
 
-* [Endgame Resources](misc/resources.md)
+* [Resources](misc/resources.md)
 
-## Scopes and Frameworks
+## Maker Core
 
-* [List of Scopes](scopes-and-frameworks/list-of-scopes.md)
+* [List of Scopes](maker-core/list-of-scopes.md)
+* [Placeholder Three](maker-core/test3.md)
 
 ## SubDAOs
 
 * [Placeholder Two](subdaos/test2.md)
-
-## Maker Core
-
-* [Placeholder Three](maker-core/test3.md)
-
-## Concepts
-
-* [Collateral Breakdown](concepts/collateral-breakdown.md)
 
 ## Tokenomics
 
@@ -30,3 +23,9 @@
 * [Endgame Launch Tokenomics](tokenomics/launch-tokenomics.md)
 * [MKR Tokenomics](tokenomics/mkr-tokenomics.md)
 * [SubDAO Tokenomics](tokenomics/subdao-tokenomics.md)
+
+## Concepts
+
+* [Collateral Breakdown](concepts/collateral-breakdown.md)
+
+
