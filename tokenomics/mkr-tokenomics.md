@@ -6,6 +6,15 @@ MKR (Maker) is the preexisting governance token for the Maker Protocol. Under th
 This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
 {% endhint %}
 
+## Stated Goals
+
+There are a multiple goals that Maker intends to meet via the new MKR tokenomics.
+
+1. To successfully incubate Maker SubDAOs.
+2. To link the value and success of Maker Core with that of its SubDAOs and vice versa.
+3. To incentivize talented individuals to work as part of Maker Core.
+
+
 ## Endgame MKR Emissions
 
 Maker Core will emit a total of 60,000 MKR each year which is allocated to benefit its subDAOs. Depending on whether each SubDAO token is undervalued or overvalued, MKR emissions will be used in one of two ways:
