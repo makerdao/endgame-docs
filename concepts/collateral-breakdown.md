@@ -7,7 +7,7 @@ Collateral assets held by the Maker Protocol or its SubDAOs can be broken up int
 ## Decentralized collateral
 1. Ether: Examples include Ether, Liquid Staking Derivatives such as stETH or rETH, ETH/DAI liquidity pool tokens or [EtherDAI](etherdai.md).
 2. Miscellaneous: Examples include ERC-20 tokens such as UNI, LINK, etc. as well as liquidity pool tokens involving these assets.
-3. MKR: Note that MKR no longer functions as the backstop used if the protocol is insolvent.
+3. MKR: Note that MKR no longer functions as the backstop if the protocol is insolvent.
 4. SubDAO tokens: Note that the maximum exposure to subDAO tokens via [SubElixir](subelixir.md) is limited in Endgame. 
 
 ## RWA collateral
