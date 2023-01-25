@@ -10,7 +10,7 @@ The Endgame Plan requires the Maker Protocol to handle significant changes in re
 
 The switch to a new stance is triggered by certain predetermined conditions that are part of the Endgame Plan approval. 
 
-Each Stance also has automatic targeting rules for the Dai Savings Rate, the Stability Fee Base Rate, the [Target Rate](target-rate.md) that determines the Target Price of DAI, and restrictions on the types of assets that may be held as collateral.
+Each Stance also has automatic targeting rules for the Dai Savings Rate, the Stability Fee Base Rate, the [Target Rate](peg-stability-mechanisms.md) that determines the Target Price of DAI, and restrictions on the types of assets that may be held as collateral.
 
 ## Pigeon Stance 
 
