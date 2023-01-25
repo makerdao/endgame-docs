@@ -6,6 +6,18 @@ Each Maker SubDAO has its own SubDAO token. Each SubDAO token is a new token tha
 This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
 {% endhint %}
 
+## Stated Goals
+
+There are a multiple goals that Maker intends to meet via the SubDAO tokenomics.
+
+1. To distribute the ownership of each SubDAO as widely as possible.
+2. To ensure that SubDAO creation drives value to Maker Core in the form of:
+	a) Dai demand
+	b) Stability Fees
+	c) EtherDai adoption
+	d) Governance participation
+3. To incentivize talented individuals to work to make each SubDAO a success.
+
 ## SubDAO Token Emissions
 
 The initial supply of each subDAO token is 2.6 billion. 
