@@ -12,10 +12,10 @@ There are a multiple goals that Maker intends to meet via the SubDAO tokenomics.
 
 1. To distribute the ownership of each SubDAO as widely as possible.
 2. To ensure that SubDAO creation drives value to Maker Core in the form of:
-	a) Dai demand
-	b) Stability Fees
-	c) EtherDai adoption
-	d) Governance participation
+    a) Dai demand
+    b) Stability Fees
+    c) EtherDai adoption
+    d) Governance participation
 3. To incentivize talented individuals to work to make each SubDAO a success.
 
 ## SubDAO Token Emissions
