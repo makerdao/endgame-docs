@@ -9,6 +9,7 @@
 
 ## Maker Core
 
+* [TBC - Constitution](maker-core/endgame-constitution.md)
 * [TBC - Scopes and Frameworks](maker-core/scopes-and-frameworks.md)
 * [List of Scopes](maker-core/list-of-scopes.md)
 * TBC - Governance
