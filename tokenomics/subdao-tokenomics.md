@@ -48,18 +48,17 @@ Additionally, each SubDAO emits 3% of their total supply each year. These emissi
 
 20% of the initial SubDAO token distribution is farmable by Dai holders.
 
-40% of the initial SubDAO token distriubtion is farmable by EtherDai vault owners.
+40% of the initial SubDAO token distriubtion is farmable by [EtherDai](etherdai.md) vault owners.
 
 40% of the initial SubDAO token distribution is farmable by MKR holders that are active in Maker Core governance.
+
+## SubDAO Token Burn
+
+SubDAOs use locked [Elixir](elixir.md) to burn a small percentage of their governance token each year if the value of their locked Elixir exceeds their token's market cap. This delivers value back to the SubDAO's token holders.
 
 ## Launch Overview
 
 ![SubDAO Tokenomics](../assets/images/subdao-tokenomics.png)
-
-## Related Pages
-
-{% content-ref url="etherdai.md" %} EtherDai {% endcontent-ref %}
-{% content-ref url="SubDAOs.md" %} SubDAOs {% endcontent-ref %}  
 
 >Page last reviewed: -    
 >Next review due: -   

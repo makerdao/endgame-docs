@@ -10,10 +10,5 @@ This documentation describes planned functionality and processes that MakerDAO h
 
 ![Endgame Launch Target Tokenomics](../assets/images/earlygame-tokenomics.png)
 
-
-## Related Pages
-{% content-ref url="elixir.md" %} Elixir {% endcontent-ref %}
-{% content-ref url="subelixir.md" %} SubElixir {% endcontent-ref %}
-
 >Page last reviewed: -    
 >Next review due: -   
