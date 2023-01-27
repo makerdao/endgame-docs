@@ -27,6 +27,8 @@ Maker Core also emits a total of 5,000 MKR each year which it uses to:
 * Incubate new SubDAOs
 * Provide decentralized workforce bonuses.
 
+Additionally, MKR is no longer automatically used as a backstop for Dai value in the event of bad debt in the Maker Protocol. Instead, MKR may be minted for this purpose at the discretion of Maker Governance.
+
 ## Endgame MKR Burns
 
 The Endgame plan introduces the Maker Burn Engine. The Maker Burn Engine accumulates Elixir using Maker Core protocol surplus. This accumulation of Elixir benefits Dai, EtherDai and MKR liquidity.
