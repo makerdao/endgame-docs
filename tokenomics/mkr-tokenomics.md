@@ -17,13 +17,13 @@ There are a multiple goals that Maker intends to meet via the new MKR tokenomics
 
 ## Endgame MKR Emissions
 
-Maker Core will emit a total of 60,000 MKR each year which is allocated to benefit its subDAOs. Depending on whether each SubDAO token is undervalued or overvalued, MKR emissions will be used in one of two ways:
-* If a SubDAO token is undervalued, Maker Core will accumulate SubElixir. 
-* If a SubDAO token is overvalued, Maker Core will accumulate Elixir and transfer it to the SubDAO. 
+Maker Core emits a total of 60,000 MKR each year which is allocated to benefit its subDAOs. Depending on whether each SubDAO token is undervalued or overvalued, MKR emissions are used in one of two ways:
+* If a SubDAO token is undervalued, Maker Core accumulates SubElixir. 
+* If a SubDAO token is overvalued, Maker Core accumulates Elixir and transfers it to the SubDAO. 
 
 Each path results in the emitted MKR entering a liquidity pool. In the first case MKR is paired with SubDAO tokens, and in the latter case paired MKR is paired with EtherDai and Dai.
 
-Maker Core will also emit a total of 5,000 MKR each year which it will use to:
+Maker Core also emits a total of 5,000 MKR each year which it uses to:
 * Incubate new SubDAOs
 * Provide decentralized workforce bonuses.
 
