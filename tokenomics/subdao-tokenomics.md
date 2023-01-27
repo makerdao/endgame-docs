@@ -26,7 +26,7 @@ The initial supply of each subDAO token is 2.6 billion.
 
 200 million SubDAO tokens are sold for DAI over a period of 2 years and used to fund the SubDAO treasury.
 
-2 billion of each SubDAO's tokens will be available for yield farming during the first 10 years of the SubDAO's lifespan. 1 billion will be distributed in the first 2 years, half of that in the next 2 years, and so on.
+2 billion of each SubDAO's tokens are used for yield farming during the first 10 years of the SubDAO's lifespan. 1 billion are distributed in the first 2 years, half of that in the next 2 years, and so on.
 
 Additionally, each SubDAO emits 3% of their total supply each year.
 
