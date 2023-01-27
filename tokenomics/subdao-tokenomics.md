@@ -40,9 +40,9 @@ The initial supply of each subDAO token is 2.6 billion.
 | Year 8  |         62,500,000 |
 | Year 9  |         62,500,000 |
 | Year 10 |         62,500,000 |
-| **Total**   |      2,000,000,000 |
+| **Total**   |      **2,000,000,000** |
 
-Additionally, each SubDAO emits 3% of their total supply each year. Emissions are directed to the SubDAO's token farms.
+Additionally, each SubDAO emits 3% of their total supply each year. These emissions are directed to the SubDAO's token farms.
 
 ## SubDAO Token Farming
 
