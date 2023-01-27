@@ -14,7 +14,7 @@ This documentation describes planned functionality and processes that MakerDAO h
 * [Technical](https://docs.makerdao.com/) @ docs.makerdao.com
 * [Collateral Onboarding](https://collateral.makerdao.com/) @ collateral.makerdao.com
 * [MIPs Portal](https://mips.makerdao.com/) @ mips.makerdao.com
-* [Endgame](https://endgame-docs.makerdao.com/) @ endgame-docs.makerdao.com **<-- You are here**
+* [Endgame](https://endgame.makerdao.com/) @ endgame.makerdao.com **<-- You are here**
 
 >Page last reviewed: 2023-01-09    
 >Next review due: 2023-04-09    
