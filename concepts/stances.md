@@ -36,7 +36,8 @@ Phoenix Stance is Maker's most resilient stance. It is only triggered if there a
 
 The main changes to the protocol under this stance are:
 - No easily seizable RWA collateral is allowed.
-- The Target Rate and Target Price of DAI are determined without reference to [Peg Stability Mechanisms](peg-stability-mechanisms.md) or prices of other currencies respectively.
+- The Target Rate of DAI is determined without reference to [Peg Stability Mechanisms](peg-stability-mechanisms.md).
+- The Target Price of DAI is determined without reference to prices of other currencies.
 
 >Page last reviewed: 2023-01-27    
 >Next review due: 2023-04-27  
