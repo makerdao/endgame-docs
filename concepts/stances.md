@@ -10,7 +10,7 @@ The Endgame Plan requires the Maker Protocol to handle significant changes in re
 
 The switch to a new stance is triggered by certain predetermined conditions that are part of the Endgame Plan approval. 
 
-Each Stance also has automatic targeting rules for the Dai Savings Rate, the Stability Fee Base Rate, the [Target Rate](concepts/peg-stability-mechanisms.md) that determines the Target Price of DAI, and restrictions on the types of assets that may be held as collateral.
+Each Stance also has automatic targeting rules for the Dai Savings Rate, the Stability Fee Base Rate, the [Target Rate](peg-stability-mechanisms.md) that determines the Target Price of DAI, and restrictions on the types of assets that may be held as collateral.
 
 ## Pigeon Stance 
 
@@ -36,7 +36,7 @@ Phoenix Stance is Maker's most resilient stance. It is only triggered if there a
 
 The main changes to the protocol under this stance are:
 - No easily seizable RWA collateral is allowed.
-- The Target Rate and Target Price of DAI are determined without reference to [Peg Stability Mechanisms](concepts/peg-stability-mechanisms.md) or prices of other currencies respectively.
+- The Target Rate and Target Price of DAI are determined without reference to [Peg Stability Mechanisms](peg-stability-mechanisms.md) or prices of other currencies respectively.
 
 >Page last reviewed: 2023-01-27    
 >Next review due: 2023-04-27  
