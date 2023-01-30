@@ -20,5 +20,5 @@ Maker Core benefits from the success of SubDAOs because it holds each SubDAOs Su
 
 Maker will create the SubElixir tokens for the initial SubDAOs as Uniswap V2 liquidity pool tokens. 
 
->Page last reviewed: -    
->Next review due: -   
+>Page last reviewed: 2023-01-30    
+>Next review due: 2023-04-30   
