@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Endgame Plan allows the Maker Protocol to dynamically impact supply and demand of DAI. These mechanisms are called Peg Stability Mechanims. Note that should not be confused with the similarly-named [Peg Stability Modules (PSMs)](https://manual.makerdao.com/module-index/module-psm)
+The Endgame Plan allows the Maker Protocol to dynamically impact the supply and demand of DAI. These mechanisms are called Peg Stability Mechanisms. Note that should not be confused with the similarly-named [Peg Stability Modules (PSMs)](https://manual.makerdao.com/module-index/module-psm)
 
 {% hint style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% endhint %}
 
@@ -22,7 +22,7 @@ By changing the stability fee base rate, Maker Governance can make it more or le
 
 Certain [Stances](stances.md) in the Endgame Plan allow DAI to depeg from the US Dollar. The Target Rate determines the rate at which the Target Price of DAI changes over time. 
 
-A positive TR increases demand for DAI and reduces supply of DAI while a negative TR has the opposite effect. 
+A positive TR increases demand for DAI and reduces the supply of DAI while a negative TR has the opposite effect. 
 
 ## Protocol-Owned Vault
 
