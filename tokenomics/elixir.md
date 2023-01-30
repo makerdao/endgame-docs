@@ -20,5 +20,5 @@ In the first version, Elixir will be a simple Balancer pool that consists of one
 
 In its final form, Elixir will consist of one third Dai, one third EtherDai and one third MKR.
 
->Page last reviewed: -    
->Next review due: -   
+>Page last reviewed: 2023-01-30    
+>Next review due: 2023-04-30   

@@ -38,5 +38,5 @@ The Maker Burn Engine uses its accumulated Elixir to burn MKR when MKR is judged
 
 ![Maker Core Tokenomics](../assets/images/core-tokenomics.png)
 
->Page last reviewed: -    
->Next review due: -   
+>Page last reviewed: 2023-01-30    
+>Next review due: 2023-04-30   
