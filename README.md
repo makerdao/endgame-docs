@@ -5,12 +5,8 @@ description: >-
 
 # Maker Endgame Documentation
 
-{% hint style="info" %}
-This documentation describes planned functionality and processes that MakerDAO has not yet implemented.
-{% endhint %}
-
 {% hint style="warning" %}
-The Endgame plan is currently in a dynamic and evolving state. Be aware that parts of this documentation may be out of date or incorrect.
+This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
 {% endhint %}
 
 ## More MakerDAO Documentation
@@ -18,7 +14,7 @@ The Endgame plan is currently in a dynamic and evolving state. Be aware that par
 * [Technical](https://docs.makerdao.com/) @ docs.makerdao.com
 * [Collateral Onboarding](https://collateral.makerdao.com/) @ collateral.makerdao.com
 * [MIPs Portal](https://mips.makerdao.com/) @ mips.makerdao.com
-* [Endgame](https://endgame-docs.makerdao.com/) @ endgame-docs.makerdao.com **<-- You are here**
+* [Endgame](https://endgame.makerdao.com/) @ endgame.makerdao.com **<-- You are here**
 
 >Page last reviewed: 2023-01-09    
 >Next review due: 2023-04-09    
