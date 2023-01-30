@@ -16,7 +16,7 @@ The Endgame Plan remains in active development, led by Rune Christensen. The lat
 The Endgame Plan has many goals which come together to create the Endgame State. A list of these goals is below:
 - Ensure that Maker Core is more resilient to external risks such as regulatory action.
 - Ensure that the Maker Ecosystem can scale in a decentralized manner.
-- Create positive community culture and engagement, known as good "meta" and design processes that promote and preserve good meta.
+- Create positive community culture and engagement, known as good "meta", and design processes that promote and preserve good meta.
 - Realign incentives for various parties in the Maker Ecosystem.
 - Reduce governance overhead for MKR holders and Maker delegates.
 - Cut scope creep in Maker Core.
@@ -56,7 +56,7 @@ The Endgame Plan introduces [Elixir](tokenomics/elixir.md) and [SubElixir](token
 
 The Endgame Plan has two major tokenomics updates. First, annual MKR minting will be used to incubate SubDAOs, fund DVCs, and incentivize the workforce. These emissions counteract the MKR burn and reduce the likelihood of MKR becoming concentrated in the hands of large holders.
 
-ETH and staked ETH will play a major role in ensuring the financial resilience of Maker Core. [EtherDAI]((tokenomics/etherdai.md)) is a synthetic Ether token backed by liquid staked Ether tokens and Maker-issued debt. EtherDai is one of the central products of the Endgame Plan. 
+ETH and staked ETH will play a major role in ensuring the financial resilience of Maker Core. [EtherDAI](tokenomics/etherdai.md) is a synthetic Ether token backed by liquid staked Ether tokens and Maker-issued debt. EtherDai is one of the central products of the Endgame Plan. 
 
 In the final stages of Endgame, DAI will turn into an Unbiased World Currency. In particular, it is not expected to remain pegged to the US Dollar and will instead have alternative mechanisms that determine its Target Price. 
 
