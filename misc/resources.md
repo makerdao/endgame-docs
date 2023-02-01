@@ -24,7 +24,7 @@ These resources describe planned functionality and processes that MakerDAO has n
 | 2022-11-11 | [Endgame Plan Next Steps 2023 Milestones ](https://forum.makerdao.com/t/endgame-plan-next-steps-2023-milestones-for-metadao-launch/18770)                                                    | Rune   |
 | 2022-12-01 | [Scope Framework Example Draft](https://forum.makerdao.com/t/wip-scope-framework-example-draft-scope-3-the-real-world-asset-collateral-scope-framework/19016)                                | Rune   |
 | 2022-12-07 | [Final Endgame Tokenomics](https://forum.makerdao.com/t/final-endgame-tokenomics/19086)                                                                                                      | Rune   |
-| 2023-01-31 | [Pregame Consitution Draft](https://forum.makerdao.com/t/wip-pregame-maker-constitution-mip-draft/19621)                                                                                                      | Rune   |
+| 2023-01-31 | [Pregame Constitution Draft](https://forum.makerdao.com/t/wip-pregame-maker-constitution-mip-draft/19621)                                                                                                      | Rune   |
 
 ## Decentralized Voter Committee Calls
 
