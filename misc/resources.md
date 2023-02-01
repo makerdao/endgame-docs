@@ -24,6 +24,7 @@ These resources describe planned functionality and processes that MakerDAO has n
 | 2022-11-11 | [Endgame Plan Next Steps 2023 Milestones ](https://forum.makerdao.com/t/endgame-plan-next-steps-2023-milestones-for-metadao-launch/18770)                                                    | Rune   |
 | 2022-12-01 | [Scope Framework Example Draft](https://forum.makerdao.com/t/wip-scope-framework-example-draft-scope-3-the-real-world-asset-collateral-scope-framework/19016)                                | Rune   |
 | 2022-12-07 | [Final Endgame Tokenomics](https://forum.makerdao.com/t/final-endgame-tokenomics/19086)                                                                                                      | Rune   |
+| 2023-01-31 | [Pregame Consitution Draft](https://forum.makerdao.com/t/wip-pregame-maker-constitution-mip-draft/19621)                                                                                                      | Rune   |
 
 ## Decentralized Voter Committee Calls
 
@@ -63,6 +64,7 @@ These resources describe planned functionality and processes that MakerDAO has n
 | 2023-01-04 | [DVC: Endgame Constitution - P3](https://www.youtube.com/watch?v=ncprL4iKE4Y&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=1)                      | Rune   |
 | 2023-01-11 | [DVC: Endgame Constitution - P4](https://www.youtube.com/watch?v=O5mBaVolIuU)                                                                      | Rune   |
 | 2023-01-18 | [DVC: Endgame Constitution - P5](https://www.youtube.com/watch?v=if9JoSEetvM)                                                                      | Rune   |
+| 2023-01-25 | [DVC: Endgame Constitution - P6](https://www.youtube.com/watch?v=HuAx6yvQ6vM)                                                                      | Rune   |
 
 ## Summaries
 
@@ -92,5 +94,5 @@ These resources describe planned functionality and processes that MakerDAO has n
 | 2022-12-09 | [Endgame Products and User Personas](https://docs.google.com/spreadsheets/d/1dV9HflyvD4dvI77O8QnfcbSH0kZ5jBVVu_nQLoyoxqk/edit#gid=1641036014)                                                | M C (CES)     |
 | 2022-12-06 | [Un-Fuzzing the Endgame Plan](https://www.youtube.com/watch?v=4fPA6SODsT4)                                                                                                                   | Eth Barcelona |
 
->Page last reviewed: 2023-01-11    
->Next review due: 2023-04-11    
+>Page last reviewed: 2023-02-01    
+>Next review due: 2023-05-01    
