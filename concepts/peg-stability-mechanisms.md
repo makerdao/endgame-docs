@@ -2,34 +2,44 @@
 
 ## Introduction
 
-The Endgame Plan allows the Maker Protocol to dynamically impact the supply and demand of DAI. These mechanisms are called Peg Stability Mechanisms. Note that should not be confused with the similarly-named [Peg Stability Modules (PSMs)](https://manual.makerdao.com/module-index/module-psm)
+The Endgame Plan introduces new mechanisms to complement existing mechanisms in the Maker Protocol to dynamically impact the supply and demand of Dai. These mechanisms are called Peg Stability Mechanisms. Note that this term should not be confused with the similarly-named [Peg Stability Modules (PSMs)](https://manual.makerdao.com/module-index/module-psm).
 
 {% hint style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% endhint %}
 
-## DAI Savings Rate (DSR)
+## Dai Savings Rate (DSR)
 
-The [DAI Savings Rate](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate) already exists in Maker and remains unchanged in Endgame. It allows DAI holders to deposit DAI into the DSR contract and earn interest. The interest is paid from the protocol's profits. 
+The [Dai Savings Rate](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate) already exists in Maker and remains unchanged in Endgame. It allows Dai holders to deposit Dai into the DSR contract and earn yield at a rate known as the DSR. The yield is paid from the protocol's system surplus. 
 
-By changing the interest rate, Maker Governance can increase or decrease the circulating supply of DAI, which in turn influences the price of DAI on the open market.
+By changing the DSR rate, Maker Governance can increase or decrease the circulating supply of Dai, which in turn influences the price of Dai on the open market.
 
 ## Stability Fee Base Rate (SBFR)
 
 The Stability Fee Base Rate increases the stability fee of some or all vaults, increasing income to help fund the DSR. A related and similar parameter that already exists in Maker is the [Global Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee#considerations) parameter.
 
-By changing the stability fee base rate, Maker Governance can make it more or less profitable to mint DAI using vaults. This increases or decreases the circulating supply of DAI, which in turn influences the price of DAI on the open market.
+By changing the Stability Fee Base Rate, Maker Governance can make it more or less expensive to mint Dai using vaults. This increases or decreases the circulating supply of Dai, which in turn influences the price of Dai on the open market.
 
 ## Target Rate (TR)
 
-Certain [Stances](stances.md) in the Endgame Plan allow DAI to depeg from the US Dollar. The Target Rate determines the rate at which the Target Price of DAI changes over time. 
+Certain [Stances](stances.md) in the Endgame Plan allow Dai to depeg from the US Dollar. The Target Rate determines the rate at which the Target Price of Dai changes over time. 
 
-A positive TR increases demand for DAI and reduces the supply of DAI while a negative TR has the opposite effect. 
+A positive TR increases demand for Dai and reduces the supply of Dai while a negative TR has the opposite effect.
+
+For example, a TR of -5% implies that the protocol aims to decrease the Target Price of Dai at the rate of 5% per year. 
+
+The TR is an extremely powerful tool as it accomplishes several goals, especially when it is negative.
+ - It enables Maker to withstand a regulatory crackdown that seizes RWA collateral. The target rate may become more negative to reflect a higher risk of RWA collateral being seized.
+ - It encourages Dai generation by ordinary users from decentralized collateral such as EtherDai. This is because the decrease in Dai price offsets the stability fee they must pay. 
+
+Despite these benefits, the cost of breaking from the USD peg is also very high. Once the peg has been broken, the selling point that 1 Dai is always worth 1 USD can never be regained.
 
 ## Protocol-Owned Vault
 
-The Protocol-Owned Vault is a special Maker Vault only usable by Maker Governance. It holds [EtherDAI](../tokenomics/etherdai.md) and potentially other decentralized assets as collateral. DAI can be minted by this vault. Note that this vault cannot be liquidated and has no Stability Fee.
+The Protocol-Owned Vault is a special Maker Vault only usable by Maker Governance. It holds [EtherDai](../tokenomics/etherdai.md) and potentially other decentralized assets as collateral. Governance can mint Dai against the collateral held in this vault. Note that this vault cannot be automatically liquidated and has no Stability Fee.
 
-Maker Governance may then purchase more EtherDAI with DAI minted from the Protocol-Owned Vault. This puts the protocol in a leveraged long position on EtherDAI and increases the supply of DAI. This action also increases the share of DAI backed by decentralized collateral and takes advantage of a potential negative TR. 
+Maker Governance may then purchase more EtherDai with Dai minted from the Protocol-Owned Vault. This puts the protocol in a leveraged long position on EtherDai and slightly increases the supply of Dai. This action also slightly increases the share of Dai backed by decentralized collateral. 
+
+Finally, one notes that a leveraged long position on EtherDai is more profitable when the value of Dai decreases. Hence, when the Target Rate is negative, the Protocol-Owned Vault can take advantage of this.
 
 
->Page last reviewed: 2023-01-31    
->Next review due: 2023-04-31  
+>Page last reviewed: 2023-02-03    
+>Next review due: 2023-05-03  
