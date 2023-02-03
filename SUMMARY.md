@@ -6,6 +6,7 @@
 
 * [Overview](overview.md)
 * [Resources](misc/resources.md)
+* [Glossary](misc/glossary.md)
 
 ## Maker Core
 
