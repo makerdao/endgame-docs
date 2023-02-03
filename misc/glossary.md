@@ -136,8 +136,8 @@
 
 **Workforce Bonus Pool:** A pool initially consisting of SubDAO tokens that is distributed based upon SubDAO token governance to incentivize the creation and maintenance of SubDAOs.
 
-  
 
+  
 ## Deprecated terms
 
 **Anti Reflexivity Mechanic:** System that sells a fixed amount of MKR or SubDAO tokens for Dai at fixed prices.  
