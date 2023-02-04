@@ -29,5 +29,4 @@ The following scopes are the supporting scopes of the Endgame Constitution.
 9. **Arbitration (M):** This scope handles providing final arbitration on governance disputes involving SubDAOs, delegates, and Constitutional Voter Committees (CVCs).
 
 >Page last reviewed: 2023-02-04     
->Next review due: 2023-05-04    
-
+>Next review due: 2023-05-04
