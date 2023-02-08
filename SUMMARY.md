@@ -16,6 +16,7 @@
     * [TBC - DVCs](maker-core/dvc.md)
     * [TBC - Delegates](maker-core/delegates.md)
     * [TBC - Councils and Tribunals](maker-core/councils-and-tribunals.md)
+    * [Easy Governance Frontend](maker-core/easy-governance-frontend.md)
 * [TBC - Interactions](maker-core/interactions.md)
 
 ## SubDAOs

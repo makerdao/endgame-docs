@@ -18,7 +18,7 @@ A key goal is that MKR Holders lacking context and interest in Maker Governance 
 
 During pre-game, after the initial launch of the EGF, users will be able to generate DAI against their delegated MKR.
 
-At the start of early-game, [SubDAO tokens](../subdao-tokenomics.md) will also be farmable with delegated MKR.
+At the start of early-game, [SubDAO tokens](../tokenomics/subdao-tokenomics.md) will also be farmable with delegated MKR.
 
 ## Technical Goals
 
