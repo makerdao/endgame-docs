@@ -52,7 +52,7 @@ Scope Frameworks limit the governance overhead by ensuring that Maker Core only 
 
 ### [Constitutional Voter Committees](maker-core/cvc.md)
 
-Constitutional Voter Committees (CVCs) are a group of voters with aligned values and views. CVCs engage in the important high-level questions of Maker Governance. Every CVC must include a [Constitutional Conserver](maker-core/constitutional-conserver.md), an entity that has pledged to support the Constitution. 
+Constitutional Voter Committees (CVCs) are a group of voters with aligned values and views. CVCs engage in the important high-level questions of Maker Governance. Every CVC must include a [Constitutional Conserver](maker-core/constitutional-conservers.md), an entity that has pledged to support the Constitution. 
 
 The objective of CVCs is to ensure that they represent MKR voters that are aligned with the values of that CVC. Members of CVCs will be compensated for their engagement under certain conditions, thereby incentivizing active governance. 
 
