@@ -14,7 +14,7 @@
 * [TBC - Scopes and Frameworks](maker-core/scopes-and-frameworks.md)
 * [List of Scopes](maker-core/list-of-scopes.md)
 * TBC - Governance
-    * [TBC - DVCs](maker-core/dvc.md)
+    * [TBC - CVCs](maker-core/cvc.md)
     * [TBC - Delegates](maker-core/delegates.md)
     * [TBC - Councils and Tribunals](maker-core/councils-and-tribunals.md)
 * [TBC - Interactions](maker-core/interactions.md)
