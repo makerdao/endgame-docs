@@ -1,8 +1,6 @@
 # Endgame Resources
 
-{% hint style="warning" %}
 These resources describe planned functionality and processes that MakerDAO has not yet implemented. Be aware that many of these are already out of date.
-{% endhint %}
 
 ## Forum Posts
 

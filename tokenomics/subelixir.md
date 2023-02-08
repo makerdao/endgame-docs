@@ -4,9 +4,7 @@ SubElixir is the core liquidity solution for SubDAO tokens. SubElixir is a set o
 
 Each SubDAO has both a SubDAO token and a SubElixir token.
 
-{% hint style="warning" %}
 This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
-{% endhint %}
 
 ## Endgame Interactions
 

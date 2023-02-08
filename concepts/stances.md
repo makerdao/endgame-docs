@@ -4,7 +4,7 @@
 
 The Endgame Plan requires the Maker Protocol to handle significant changes in regulatory frameworks and macroeconomic circumstances. The protocol can adopt three possible stances to balance risk and long-term reward as it reacts to these changes. 
 
-{% hint style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% endhint %}
+This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
 
 ## Operational aspects
 

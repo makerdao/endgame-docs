@@ -2,7 +2,7 @@
 
 The Endgame Scopes are divided into two categories, primary and supporting. Further, some scopes are Exclusive or Mandatory and these are denoted by **(E)** and **(M)** respectively. More details on the categorizations and tagging are provided in the [Scopes and Frameworks page](scopes-and-frameworks.md).
 
-{% hint style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% endhint %}
+This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
 
 
 ## Primary Scopes
