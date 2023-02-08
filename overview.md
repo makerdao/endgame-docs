@@ -64,7 +64,7 @@ The Endgame Plan introduces [Elixir](tokenomics/elixir.md) and [SubElixir](token
 
 The Endgame Plan has two major tokenomics updates. First, annual MKR minting will be used to incubate SubDAOs, fund DVCs, and incentivize the workforce. These emissions counteract the MKR burn and reduce the likelihood of MKR becoming concentrated in the hands of large holders.
 
-ETH and staked ETH will play a major role in ensuring the financial resilience of Maker Core. [EtherDai]((tokenomics/etherdai.md)) is a synthetic Ether token backed by liquid staked Ether tokens and Maker-issued debt. EtherDai is one of the central products of the Endgame Plan. 
+ETH and staked ETH will play a major role in ensuring the financial resilience of Maker Core. [EtherDai](tokenomics/etherdai.md) is a synthetic Ether token backed by liquid staked Ether tokens and Maker-issued debt. EtherDai is one of the central products of the Endgame Plan. 
 
 In the final stages of Endgame, Dai will turn into an Unbiased World Currency. In particular, it is not expected to remain pegged to the US Dollar and will instead have alternative mechanisms that determine its Target Price. 
 
