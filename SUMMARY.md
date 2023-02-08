@@ -16,7 +16,7 @@
 * TBC - Governance
     * [TBC - CVCs](maker-core/cvc.md)
     * [TBC - Delegates](maker-core/delegates.md)
-    * [TBC - Councils and Tribunals](maker-core/councils-and-tribunals.md)
+    * [TBC - Advisory Councils](maker-core/advisory-councils.md)
 * [TBC - Interactions](maker-core/interactions.md)
 
 ## SubDAOs
