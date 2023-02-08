@@ -5,9 +5,7 @@ description: >-
 
 # Maker Endgame Documentation
 
-{% hint style="warning" %}
 This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
-{% endhint %}
 
 ## More MakerDAO Documentation
 * [Governance](https://manual.makerdao.com/) @ manual.makerdao.com
