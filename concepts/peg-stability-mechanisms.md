@@ -28,9 +28,9 @@ For example, a TR of -5% implies that the protocol aims to decrease the Target P
 
 The TR is an extremely powerful tool as it accomplishes several goals, especially when it is negative.
  - It enables Maker to withstand a regulatory crackdown that seizes RWA collateral. The target rate may become more negative to reflect a higher risk of RWA collateral being seized.
- - It encourages Dai generation by ordinary users from decentralized collateral such as EtherDai. This is because the decrease in Dai price offsets the stability fee they must pay. 
+ - It encourages Dai generation by ordinary users from decentralized collateral such as EtherDai. This is because of the expectation that Dai price will be lower when repaying the loan than it was when the vault was opened. 
 
-Despite these benefits, the cost of breaking from the USD peg is also very high. Once the peg has been broken, the selling point that 1 Dai is always worth 1 USD can never be regained.
+Despite these benefits, the cost of breaking from the USD peg is also very high. Once the peg has been broken, the expectation that 1 Dai is always worth 1 USD can never be regained.
 
 ## Protocol-Owned Vault
 
@@ -38,7 +38,7 @@ The Protocol-Owned Vault is a special Maker Vault only usable by Maker Governanc
 
 Maker Governance may then purchase more EtherDai with Dai minted from the Protocol-Owned Vault. This puts the protocol in a leveraged long position on EtherDai and slightly increases the supply of Dai. This action also slightly increases the share of Dai backed by decentralized collateral. 
 
-Finally, one notes that a leveraged long position on EtherDai is more profitable when the value of Dai decreases. Hence, when the Target Rate is negative, the Protocol-Owned Vault can take advantage of this.
+Finally, a leveraged long position using the Protocol-Owned Vault is synergistic with a negative Target Rate. This is because debt denominated in Dai becomes cheaper to repay as the Target Price of Dai decreases.
 
 
 >Page last reviewed: 2023-02-03    

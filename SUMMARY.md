@@ -25,7 +25,7 @@
 
 * [TBC - Overview](subdaos/overview.md)
 * TBC - Classes
-    * [TBC - Governor](subdaos/governor.md)
+    * [TBC - Governor](subdaos/facilitator.md)
     * [TBC - Creator](subdaos/creator.md)
     * [TBC - Protector](subdaos/protector.md)
 * [TBC - Clusters](subdaos/clusters.md)
