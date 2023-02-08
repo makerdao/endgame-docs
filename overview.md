@@ -9,7 +9,7 @@ The Endgame Plan was [introduced](https://forum.makerdao.com/t/decentralized-vot
 The Endgame Plan remains in active development, led by Rune Christensen. The latest complete and published description of the Endgame Plan is available [here](https://forum.makerdao.com/t/endgame-plan-v3-complete-overview/17427). Note that some parts are now out of date.  
 
 
-{%  style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% end %}
+This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
 
 ## Goals
 
