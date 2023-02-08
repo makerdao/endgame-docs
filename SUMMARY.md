@@ -12,7 +12,7 @@
 * [TBC - Constitution](maker-core/constitution.md)
 * [TBC - Scopes and Frameworks](maker-core/scopes-and-frameworks.md)
 * [List of Scopes](maker-core/list-of-scopes.md)
-* TBC - Governance
+* Governance
     * [TBC - DVCs](maker-core/dvc.md)
     * [TBC - Delegates](maker-core/delegates.md)
     * [TBC - Councils and Tribunals](maker-core/councils-and-tribunals.md)

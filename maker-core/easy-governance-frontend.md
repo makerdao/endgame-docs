@@ -10,7 +10,7 @@ This documentation describes planned functionality and processes that MakerDAO h
 
 The primary goal of the EGF is to provide a standardized and unbiased platform used for delegation. This will include:
 * Viewing [delegates](delegates.md) and their profiles.
-* Viewing [constitutional voter committee](dvc.md) profile pages and members.
+* Viewing [constitutional voter committee](cvc.md) profile pages and members.
 * Viewing voting strategies.
 * Representing the interactions between the above.
 
