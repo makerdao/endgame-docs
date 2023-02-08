@@ -134,7 +134,7 @@
 
 **Workforce Bonus:** MKR that is utilized to compensate Delegates, Council, and Core Unit members.
 
-**Workforce Bonus Pool:** A pool initially consisting of SubDAO tokens that is distributed based upon SubDAO token governance to incentivize the creation and maintenance of SubDAOs.
+**Workforce Bonus Pool:** Token pool initially consisting of SubDAO tokens that is distributed based upon SubDAO token governance to incentivize the creation and maintenance of SubDAOs.
 
 
   
