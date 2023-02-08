@@ -6,7 +6,7 @@ The Endgame Plan is a proposal to overhaul and improve the governance and tokeno
 
 The Endgame Plan was [introduced](https://forum.makerdao.com/t/decentralized-voter-committee-on-tuesday-5pm-cest-all-mkr-holders-welcome/15166) by Rune Christensen, the co-founder of Maker. After a series of initial discussions, Maker Governance accepted the [MIP set](https://vote.makerdao.com/polling/QmTmS5Nf) ratifying this plan on 24 October 2022. 
 
-The Endgame Plan remains in active development, led by Rune Christensen. The latest complete and published description of the Endgame Plan is available [here](https://forum.makerdao.com/t/endgame-plan-v3-complete-overview/17427). The Endgame Constitution, covering the  proposed by Christensen is available [here](https://forum.makerdao.com/t/mip101-the-maker-constitution/19621). Note that some parts are now out of date.  
+The Endgame Plan remains in active development, led by Rune Christensen. The latest complete and published description of the Endgame Plan is available [here](https://forum.makerdao.com/t/endgame-plan-v3-complete-overview/17427). Note that some parts are now out of date.  
 
 
 {% hint style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% endhint %}
@@ -15,7 +15,7 @@ The Endgame Plan remains in active development, led by Rune Christensen. The lat
 
 The Endgame Plan has many goals which come together to create the Endgame State. A list of these goals is below:
 - Providing access to an Unbiased World Currency in the form of the decentralized stablecoin Dai.
-- Ensure that Maker has a meaningful charitable impact through financial success.
+- Ensure that Maker has a meaningful charitable impact.
 - Ensure that Maker Core is more resilient to external risks such as regulatory action.
 - Ensure that the Maker Ecosystem can scale in a decentralized manner.
 - Alignment engineering for all participants in the Maker Ecosystem resulting in positive community culture and engagement, known as good meta.
@@ -28,7 +28,7 @@ The Endgame Plan has many goals which come together to create the Endgame State.
 The Endgame Plan consists of the following main components:
 
 ### [The Maker Constitution](maker-core/constitution.md)
-The Maker Constitution specifies the core scope of Maker Governance. The Constitution is meant to be immutable as much as possible. This simplicity and immutability guarantees long-term transparency about the purpose of MakerDAO.
+The Maker Constitution specifies the core scope of Maker Governance. The Constitution is meant to be as immutable as possible. This simplicity and immutability guarantees long-term transparency about the purpose of MakerDAO.
 
 The Endgame Constitution draft is available [here](https://forum.makerdao.com/t/mip101-the-maker-constitution/19621). Note that some parts may be out of date.  
 
@@ -52,7 +52,7 @@ Scope Frameworks limit the governance overhead by ensuring that Maker Core only 
 
 ### [Constitutional Voter Committees](maker-core/cvc.md)
 
-Constitutional Voter Committees (CVCs) are a group of voters with aligned values and views. CVCs engage in the important high-level questions of Maker Governance.
+Constitutional Voter Committees (CVCs) are a group of voters with aligned values and views. CVCs engage in the important high-level questions of Maker Governance. Every CVC must include a [Constitutional Conserver](maker-core/constitutional-conservers.md), an entity that has pledged to support the Constitution. 
 
 The objective of CVCs is to ensure that they represent MKR voters that are aligned with the values of that CVC. Members of CVCs will be compensated for their engagement under certain conditions, thereby incentivizing active governance. 
 
@@ -66,9 +66,9 @@ The Endgame Plan has two major tokenomics updates. First, annual MKR minting wil
 
 ETH and staked ETH will play a major role in ensuring the financial resilience of Maker Core. [EtherDai](tokenomics/etherdai.md) is a synthetic Ether token backed by liquid staked Ether tokens and Maker-issued debt. EtherDai is one of the central products of the Endgame Plan. 
 
-In the final stages of Endgame, Dai will turn into an Unbiased World Currency. In particular, it is not expected to remain pegged to the US Dollar and will instead have alternative mechanisms that determine its Target Price. 
+In the final stages of Endgame, Dai will turn into an Unbiased World Currency. It may not remain pegged to the US dollar and may instead either peg to another reference currency, or become free-floating. In the latter case, incentive mechanisms will determine Dai's target price. 
 
-MKR tokens will no longer function as a backstop in the event that Maker is insolvent - instead, this will be reflected in the Target Price of Dai. 
+Maker Governance no longer guarantees that MKR tokens will function as a backstop in the event that Maker is insolvent. Governance may choose to change the Target Price of Dai to reflect this. 
 
 
 >Page last reviewed: 2023-01-27    
