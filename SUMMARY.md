@@ -14,6 +14,7 @@
 * [TBC - Scopes and Frameworks](maker-core/scopes-and-frameworks.md)
 * [List of Scopes](maker-core/list-of-scopes.md)
 * TBC - Governance
+    * [TBC - Constitutional Conservers](maker-core/constitutional-conservers.md)
     * [TBC - CVCs](maker-core/cvc.md)
     * [TBC - Delegates](maker-core/delegates.md)
     * [TBC - Advisory Councils](maker-core/advisory-councils.md)
