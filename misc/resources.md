@@ -65,6 +65,7 @@ These resources describe planned functionality and processes that MakerDAO has n
 | 2023-01-11 | [DVC: Endgame Constitution - P4](https://www.youtube.com/watch?v=O5mBaVolIuU)                                                                      | Rune   |
 | 2023-01-18 | [DVC: Endgame Constitution - P5](https://www.youtube.com/watch?v=if9JoSEetvM)                                                                      | Rune   |
 | 2023-01-25 | [DVC: Endgame Constitution - P6](https://www.youtube.com/watch?v=HuAx6yvQ6vM)                                                                      | Rune   |
+| 2023-02-01 | [DVC: Endgame Constitution - P7](https://youtu.be/mIMaW-pJgkw?list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF)                    | Rune   |
 
 ## Summaries
 
