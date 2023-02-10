@@ -52,7 +52,7 @@ Scope Frameworks limit the governance overhead by ensuring that Maker Core only 
 
 ### [Constitutional Voter Committees](maker-core/cvc.md)
 
-Constitutional Voter Committees (CVCs) are a group of voters with aligned values and views. CVCs engage in the important high-level questions of Maker Governance. Every CVC must include a [Constitutional Conserver](maker-core/constitutional-conservers.md), an entity that has pledged to support the Constitution. 
+Constitutional Voter Committees (CVCs) are groups of voters with aligned values and views. CVCs engage in the important high-level questions of Maker Governance. Every CVC must include a [Constitutional Conserver](maker-core/constitutional-conservers.md), an entity that has pledged to support the Constitution. 
 
 The objective of CVCs is to ensure that they represent MKR voters that are aligned with the values of that CVC. Members of CVCs will be compensated for their engagement under certain conditions, thereby incentivizing active governance. 
 
@@ -68,7 +68,7 @@ ETH and staked ETH will play a major role in ensuring the financial resilience o
 
 In the final stages of Endgame, Dai will turn into an Unbiased World Currency. It may not remain pegged to the US dollar and may instead either peg to another reference currency, or become free-floating. In the latter case, incentive mechanisms will determine Dai's target price. 
 
-Maker Governance no longer guarantees that MKR tokens will function as a backstop in the event that Maker is insolvent. Governance may choose to change the Target Price of Dai to reflect this. 
+Maker Governance no longer guarantees that the MKR token will function as a backstop in the event that Maker becomes insolvent. Governance may instead choose to adjust the Target Price of Dai which would result in a loss in value for all Dai holders.
 
 
 >Page last reviewed: 2023-01-27    
