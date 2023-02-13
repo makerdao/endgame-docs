@@ -104,6 +104,8 @@
 
 **RWA Services:** External services that require interaction with the physical world in order to obtain assets.
 
+**[Sagittarius Engine](../tokenomics/sagittarius-engine.md):** Module that allows MKR delegators to farm SubDAO tokens and open vaults using delegated MKR as collateral.
+
 **[Scope](../maker-core/scopes-and-frameworks.md):** Broad focus area of work within which SubDAOs, Ecosystem Actors and Maker Governance operate.
 
 **[Scope Framework](../maker-core/scopes-and-frameworks.md):** Set of regulations governing all activities under a Scope. 
