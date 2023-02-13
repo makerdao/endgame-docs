@@ -16,7 +16,7 @@ There are multiple goals that Maker intends to meet via the new MKR tokenomics.
 
 ## MKR Utility
 
-MKR may now be used to borrow Dai by holders that have delegated their governance power to a [Delegate](../maker-core/delegates.md). This is made possible through the [Easy Governance Frontend](../maker-core/easy-governance-frontend.md) and the [Sagittarius Engine](sagittarius-engine.md).
+MKR may now be used to borrow Dai by holders that have delegated their governance power to a [Delegate](../maker-core/delegates.md). This is made possible through the [Easy Governance Frontend](../maker-core/easy-governance-frontend.md).
 
 
 SubDAO tokens will also be farmable using delegated MKR.
