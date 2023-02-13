@@ -8,7 +8,7 @@ This documentation describes planned functionality and processes that MakerDAO h
 
 ## Stated Goals
 
-There are a multiple goals that Maker intends to meet via the new MKR tokenomics.
+There are multiple goals that Maker intends to meet via the new MKR tokenomics.
 
 1. To successfully incubate Maker SubDAOs.
 2. To link the value and success of Maker Core with that of its SubDAOs and vice versa.
@@ -26,7 +26,7 @@ Maker Core emits a total of 60,000 MKR each year which is allocated to benefit i
 * If a SubDAO token is undervalued, Maker Core accumulates [SubElixir](subelixir.md). 
 * If a SubDAO token is overvalued, Maker Core accumulates [Elixir](elixir.md) and transfers it to the SubDAO. 
 
-Each path results in the emitted MKR entering a liquidity pool. In the first case MKR is paired with SubDAO tokens, and in the latter case paired MKR is paired with [EtherDai](etherdai.md) and Dai.
+Each path results in the emitted MKR entering a liquidity pool. In the first case, MKR is paired with SubDAO tokens, and in the second case, MKR is paired with Dai.
 
 Maker Core also emits a total of 5,000 MKR each year which it uses to:
 * Incubate new SubDAOs
@@ -36,7 +36,7 @@ Additionally, Maker Governance may now opt to interrupt the automatic use of MKR
 
 ## MKR Burns
 
-The Endgame plan introduces the Maker Burn Engine. The Maker Burn Engine accumulates Elixir using Maker Core protocol surplus. This accumulation of Elixir benefits Dai, EtherDai and MKR liquidity.
+The Endgame plan introduces the Maker Burn Engine. The Maker Burn Engine accumulates Elixir using Maker Core protocol surplus. This accumulation of Elixir benefits Dai and MKR liquidity.
 
 The Maker Burn Engine uses its accumulated Elixir to burn MKR when MKR is judged to be undervalued according to a valuation model.
 
