@@ -1,5 +1,7 @@
 # Glossary
 
+{% hint style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% endhint %}
+
 ## Current terms
 
 **Active Ecosystem Actors:** Ecosystem Actors that work according to the specifications of Scope Frameworks and receive funding for performing specific projects.
