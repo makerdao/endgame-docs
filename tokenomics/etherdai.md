@@ -20,5 +20,5 @@ Initially, Maker will create EtherDai as a simple ERC20 token wrapper around Lid
 
 Later, Maker will be able to upgrade the EtherDai implementation, converting it into a full synthetic asset. This will require a new deployment of the Multi-Collateral Dai smart contracts, with EtherDai taking the place of Dai in this deployment.
 
->Page last reviewed: 2023-01-30    
->Next review due: 2023-04-30   
+>Page last reviewed: 2023-02-13    
+>Next review due: 2023-05-13   
