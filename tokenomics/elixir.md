@@ -18,5 +18,5 @@ SubDAOs use locked Elixir to burn a small percentage of their governance token e
 
 In the first version, Elixir will be Uniswap V2 DAI/MKR liquidity pool tokens.
 
->Page last reviewed: 2023-01-30    
->Next review due: 2023-04-30   
+>Page last reviewed: 2023-02-13    
+>Next review due: 2023-05-13   
