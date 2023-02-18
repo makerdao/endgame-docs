@@ -15,7 +15,7 @@ When users make their deposit, they can choose one of several ERC-20 tokens to f
 
 Maker Governance can later add farmable SubDAO governance tokens, making the first version of the Sagittarius Engine compatible with the launch of SubDAOs.
 
-Token farming automatically ends when the user wishes to withdraw their MKR from the Sagittarius Engine.
+Token farming ends when the user withdraws their MKR from the Sagittarius Engine.
 
 ## MKR Vaults
 The Sagittarius Engine allows users to use deposited MKR as collateral to generate Dai, similar to normal Maker Vaults. 
