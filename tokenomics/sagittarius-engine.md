@@ -22,7 +22,7 @@ The Sagittarius Engine allows users to use deposited MKR as collateral to genera
 
 The oracle for MKR prices used to manage these MKR vaults has constrained upwards movement. That is, Maker Governance can choose to limit the speed at which the reported price of MKR increases, regardless of how fast the price is actually increasing. This constraint does not apply to downward price movement. 
 
-When an MKR vault is liquidated, the MKR is automatically undelegated and put up for auction. Token farming also automatically stops when a vault is liquidated.
+When an MKR vault is liquidated, the MKR is undelegated and put up for auction. Token farming also stops when a vault is liquidated.
 
 
 >Page last reviewed: 2023-02-13    
