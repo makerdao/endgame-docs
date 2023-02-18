@@ -11,7 +11,7 @@ The Sagittarius Engine adds new two new utilities to the MKR token. MKR can be u
 Users may deposit MKR into the Sagittarius Engine. When depositing, they automatically delegate the deposited MKR through the Protocol Delegation System (PDS). Depositors must specify a target delegate smart contract through the PDS when making their deposit.
 
 ## Farming
-When users make their deposit, they can choose one of several ERC-20 tokens to farm. This functionality is initially meant to be disabled with no available tokens to farm. 
+When users make their deposit, they can choose one of several ERC-20 tokens to farm. This functionality will initially be disabled with no available tokens to farm. 
 
 Maker Governance can later add farmable SubDAO governance tokens, making the first version of the Sagittarius Engine compatible with the launch of SubDAOs.
 
