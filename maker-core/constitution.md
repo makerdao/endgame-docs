@@ -53,3 +53,6 @@ The full text of the Maker Constitution may be found here.
 Constitutional Conservers in the form of Voter Committees and Delegates commit to maintaining and protecting the Endgame Constitution against corruption.
 
 Each scope framework must adhere to the consitutional boundaries defined in the Maker Constitution.
+
+>Page last reviewed: -  
+>Next review due: -  
