@@ -20,25 +20,25 @@ Describes the purpose of Dai focusing on Dai as:
 Describes the aspiration to keep Dai stable, decentralized and free of existential risk.
 
 **3: The Easy Governance Frontend**  
-Describes the standardized and regulated application that will be used for incentivised governance of the Maker Protocol.
+Describes the standardized and regulated [application](easy-governance-frontend.md) that will be used for incentivised governance of the Maker Protocol.
 
 **4: Constitutional Conservers**  
-Describes the role of Constitutional Conservers that protect and defend the Maker Constitution from corruption and orginizational drift.
+Describes the role of [Constitutional Conservers](constitutional-conservers) that protect and defend the Maker Constitution from corruption and orginizational drift.
 
 **5: Constitutional Voter Committees**  
-Describes the role of CVCs, a type of Constitutional Conserver that participate in MakerDAOs governance processes.
+Describes the role of [CVCs](cvc.md), a type of Constitutional Conserver that participate in MakerDAOs governance processes.
 
 **6: Constitutional Delegates**  
-Describes the role of Constitutional Delegates, a second type of Constitutional Conserver that participates in MakerDAOs governance processes.
+Describes the role of [Constitutional Delegates](delegates.md), a second type of Constitutional Conserver that participates in MakerDAOs governance processes.
 
 **7: Professional Actors**  
 Describes the roles in MakerDAO which can be fulfilled by profit-seeking entities.
 
 **8: Pregame SubDAO Communities**  
-Describes the initial management of SubDAO communities.
+Describes the initial management of [SubDAO](../subdaos/overview.md) communities.
 
 **9: Scope Frameworks**  
-Describes the concept of 'Scope Frameworks', a document that encapsulates all of MakerDAO's rules and activities within a specific area.
+Describes the concept of [Scope Frameworks](scopes-and-frameworks.md), documents that encapsulate all of MakerDAO's rules and activities within a specific area.
 
 **10: List of Scope Framework Constutional Boundaries**  
 Describes in detail what each scope must achieve to be compatible with the Maker Constitution.
