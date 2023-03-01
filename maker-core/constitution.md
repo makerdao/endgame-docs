@@ -2,7 +2,7 @@
 
 The Endgame Plan includes a Constitution. The Maker Constitution defines key elements of the endgame plan. Actors in the MakerDAO ecosystem must adhere to its contents. The goal of the Maker Constitution is to ensure the success and resilience of the Maker Protocol over the long term.
 
-Maker Constitution is currently unfinished and will be improved over the Pregame Phase.
+The Maker Constitution is currently unfinished and will be improved over the Pregame Phase.
 
 {% hint style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% endhint %}
 
