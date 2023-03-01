@@ -1,5 +1,7 @@
 # Glossary
 
+{% hint style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% endhint %}
+
 ## Current terms
 
 **Active Ecosystem Actors:** Ecosystem Actors that work according to the specifications of Scope Frameworks and receive funding for performing specific projects.
@@ -101,6 +103,8 @@
 **[RWA Collateral Scope](../maker-core/list-of-scopes.md):** Primary Scope that interacts with real-world assets that include: cashlike (centralized stable coins & bonds), clean money (renewable energy projects), physically resilient, and miscellaneous (WBTC) assets.
 
 **RWA Services:** External services that require interaction with the physical world in order to obtain assets.
+
+**[Sagittarius Engine](../tokenomics/sagittarius-engine.md):** Module that allows MKR delegators to farm SubDAO tokens and open vaults using delegated MKR as collateral.
 
 **[Scope](../maker-core/scopes-and-frameworks.md):** Broad focus area of work within which SubDAOs, Ecosystem Actors and Maker Governance operate.
 
