@@ -23,7 +23,7 @@ Describes the aspiration to keep Dai stable, decentralized, and free of existent
 Describes the standardized and regulated [application](easy-governance-frontend.md) that will incentivize effective governance of the Maker Protocol.
 
 **[4: Constitutional Conservers](https://mips.makerdao.com/mips/details/MIP101#4-constitutional-conservers)**  
-Describes the role of [Constitutional Conservers](constitutional-conservers) that protect and defend the Maker Constitution from corruption and organizational drift.
+Describes the role of [Constitutional Conservers](constitutional-conservers.md) that protect and defend the Maker Constitution from corruption and organizational drift.
 
 **[5: Constitutional Voter Committees](https://mips.makerdao.com/mips/details/MIP101#5-constitutional-voter-committees-cvcs-)**  
 Describes the role of [CVCs](cvc.md), a type of Constitutional Conserver that takes part in MakerDAO's governance processes.
