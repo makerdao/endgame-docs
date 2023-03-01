@@ -12,7 +12,7 @@ Maker Core accumulates Elixir using a share of its surplus capital. This Elixir 
 
 SubDAOs also accumulate Elixir using their surplus capital. SubDAOs may lock their Elixir. The relative amount of Elixir locked by each SubDAO determines their share of MKR emissions from Maker Core. The more locked Elixir a SubDAO holds, the more MKR emissions it recieves.
 
-SubDAOs use locked Elixir to burn a small percentage of their governance token each year if the value of their locked Elixir exceeds their token's market cap. This transfers value back to the SubDAO's token holders.
+SubDAOs use locked Elixir to burn a small percentage of their governance token each year if the value of their locked Elixir exceeds their token's market cap. This delivers value back to the SubDAO's token holders.
 
 ## Elixir Development
 
