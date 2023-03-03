@@ -5,7 +5,7 @@ A Scope is a broad focus area for Maker Governance and for any developmental wor
 
 Every Scope has a Scope Framework. Scope Frameworks are modifiable subcomponents of the [Maker Constitution](constitution.md). They contain the rules for all work, governance, and other processes that take place under that Scope. 
 
-The Maker Constitution's Articles and twelve Scope Frameworks together cover all possible rules and processes of MakerDAO.
+The Maker Constitution's Articles and twelve Scope Frameworks together contain all of the rules and processes of MakerDAO.
 
 ## Types of Scopes
 Scopes are divided into three categories: Primary, Supporting, and Governance. 
