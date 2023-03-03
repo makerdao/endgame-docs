@@ -35,7 +35,7 @@ Each Scope has an Advisory Council. This Council consists of members who must fu
 
 The exception to this is the Arbitration Scope, which does not have an Advisory Council.
 
-## Example
+## Example Scopes
 An example of a Scope is the Decentralized Collateral Scope. Any governance action or work pertaining to vaults holding decentralized collateral e.g. onboarding and offboarding, changing of parameters, research on collateral types, etc. would fall under this Scope.
 
 An example of an item that would belong to the Decentralized Collateral Framework is to define minimum liquidation thresholds for decentralized collateral. Any SubDAO offering the use of vaults with decentralized collateral must ensure that the liquidation threshold parameter used is at least as large as the value allowed by the Framework.
