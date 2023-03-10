@@ -11,7 +11,7 @@
 ## Maker Core
 
 * [Constitution](maker-core/constitution.md)
-* [TBC - Scopes and Frameworks](maker-core/scopes-and-frameworks.md)
+* [Scopes and Frameworks](maker-core/scopes-and-frameworks.md)
 * [List of Scopes](maker-core/list-of-scopes.md)
 * TBC - Governance
     * [TBC - Constitutional Conservers](maker-core/constitutional-conservers.md)
@@ -39,6 +39,7 @@
 * [MKR Tokenomics](tokenomics/mkr-tokenomics.md)
 * [SubDAO Tokenomics](tokenomics/subdao-tokenomics.md)
 * [Endgame Launch Tokenomics](tokenomics/launch-tokenomics.md)
+* [Sagittarius Engine](tokenomics/sagittarius-engine.md)
 
 ## Concepts
 * [Stances](concepts/stances.md)
