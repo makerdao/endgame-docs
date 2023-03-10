@@ -44,9 +44,9 @@ Additionally, each SubDAO emits 3% of their total supply each year. These emissi
 
 ## SubDAO Token Farming
 
-50% of the initial SubDAO token distribution is farmable by Dai holders.
+75% of the initial SubDAO token distribution is farmable by Dai holders.
 
-50% of the initial SubDAO token distribution is farmable by MKR holders that are active in Maker Core governance.
+25% of the initial SubDAO token distribution is farmable by MKR holders that are active in Maker Core governance.
 
 ## SubDAO Token Burn
 
