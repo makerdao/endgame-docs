@@ -1,7 +1,7 @@
 # Scopes and Frameworks
 
 ## Overview
-A Scope is a broad area of focus for products, protocol-related work, and/or governance in MakerDAO. All work done within the Maker Ecosystem must fall under the twelve Endgame Scopes.
+A Scope is a broad area of focus for products, protocol-related work, and/or governance in MakerDAO. All work done within the Maker Ecosystem must fall under one of the twelve Endgame Scopes.
 
 Every Scope has a Scope Framework. Scope Frameworks are modifiable subcomponents of the [Maker Constitution](constitution.md). They contain the rules for all work, governance, and other processes that take place under that Scope. 
 
