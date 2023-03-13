@@ -1,6 +1,6 @@
 # EtherDai
 
-EtherDai is a synthetic Ether token backed by liquid staked Ether tokens and debt issued by Maker. It is pegged to the value of Ether. EtherDai is one of the central products of the Endgame Plan. 
+EtherDai is a synthetic Ether token backed by liquid staked Ether tokens and debt issued by Maker. It is pegged to the value of Ether.
 
 {% hint style="warning" %}
 This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
@@ -16,7 +16,7 @@ The Protocol-Owned Vault accumulates EtherDAI using generated Dai. This slightly
 
 ## EtherDai Development
 
-Initially, Maker will create EtherDai as a simple ERC20 token wrapper around Lido stETH. This will reduce the time required for implementation, allowing Maker to release EtherDai as soon as possible.
+Initially, Maker will create EtherDai as a simple ERC20 token wrapper around Lido stETH. This will reduce the time required for implementation.
 
 Later, Maker will be able to upgrade the EtherDai implementation, converting it into a full synthetic asset. This will require a new deployment of the Multi-Collateral Dai smart contracts, with EtherDai taking the place of Dai in this deployment.
 

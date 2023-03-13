@@ -12,7 +12,7 @@ The [Dai Savings Rate](https://manual.makerdao.com/parameter-index/core/param-da
 
 By changing the DSR rate, Maker Governance can increase or decrease the circulating supply of Dai, which in turn influences the price of Dai on the open market.
 
-## Stability Fee Base Rate (SBFR)
+## Stability Fee Base Rate (SFBR)
 
 The Stability Fee Base Rate increases the stability fee of some or all vaults, increasing income to help fund the DSR. A related and similar parameter that already exists in Maker is the [Global Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee#considerations) parameter.
 

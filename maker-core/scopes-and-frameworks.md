@@ -12,8 +12,6 @@ Scopes are divided into three categories: Primary, Supporting, and Governance.
 
 Primary Scopes pertain to work done towards customer-facing products of MakerDAO e.g. vault-related work, SubDAO incubation, etc. Supporting Scopes pertain to work that improves Maker Core. Governance Scopes handle arbitration and governance security matters.
 
-Certain Scopes are also tagged as Exclusive Scopes or Mandatory Scopes. The rules for Scopes with these tags have not yet been decided at the time of writing.
-
 ## Modification of Scope Frameworks
 Scope Frameworks are modifiable within the constraints of Constitutional Boundaries that are immutably defined in the Maker Constitution. An ossification rule is also applied to elements of Scope Frameworks - broadly speaking, an element of a Scope Framework cannot undergo large changes if it has been unchanged for a relatively long period of time. There exist soft clauses that are not required to follow the ossification rule. 
 
