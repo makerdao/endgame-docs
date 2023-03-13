@@ -42,7 +42,6 @@
 * [Sagittarius Engine](tokenomics/sagittarius-engine.md)
 
 ## Concepts
-* [Stances](concepts/stances.md)
 * [Collateral Breakdown](concepts/collateral-breakdown.md)
 * [Peg Stability Mechanisms](concepts/peg-stability-mechanisms.md)
 
