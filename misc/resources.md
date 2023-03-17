@@ -26,6 +26,7 @@ These resources describe planned functionality and processes that MakerDAO has n
 | 2022-12-07 | [Final Endgame Tokenomics](https://forum.makerdao.com/t/final-endgame-tokenomics/19086)                                                                                                      | Rune   |
 | 2023-01-31 | [Pregame Constitution Draft](https://forum.makerdao.com/t/wip-pregame-maker-constitution-mip-draft/19621)                                                                                    | Rune   |
 | 2023-03-06 | [Sagittarius Engine](https://forum.makerdao.com/t/the-sagittarius-engine-and-how-to-generate-intelligence-through-incentives-using-mkr-as-collateral/20067)                                  | Rune   |
+| 2023-03-14 | [Long Term Features and Product Changes](https://forum.makerdao.com/t/tuesdays-endgame-call-discussing-long-term-features-and-product-changes/20183)                                         | Rune   |
 
 ## Decentralized Voter Committee Calls
 
