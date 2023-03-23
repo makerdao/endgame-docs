@@ -1,18 +1,18 @@
 # Constitutional Delegates (CDs)
 
-# Overview
+## Overview
 Delegates are ecosystem actors who operate through Protocol Delegation System smart contracts. MKR holders can delegate their voting power to them without the need to hand over the custody of their MKR.
 
 Constitutional Delegates (CDs) are one type of [Constitutional Conservers](https://endgame.makerdao.com/maker-core/tbc-governance/constitutional-conservers). They receive various benefits and are subject to specific requirements. They must put in place the governance strategies defined by the CVCs.
 
 CDs must not engage with other ecosystem actors or in operational activities. They are not allowed to compensate MKR holders that delegate to them. They must aim to provide governance information and research material to MKR holders.
 
-# Purpose
+## Purpose
 
 The Constitutional Delegate role spares Delegates from having to create governance strategies. CDs must follow strategies that have been designed by CVC members.
 CDs do not take part in the creation of the strategies, they execute them. The risk of Delegates following their own agenda, since they are not required to hold any MKR, is then  eliminated.
 
-# Income
+## Income
 CDs can receive compensation from the Maker Protocol. The compensation goes to the top 14 CDs that have the highest amount of combined MKR delegated to their delegate contracts and fulfill the participation requirements.
 
 There are two income levels for the top 14 qualified CDs: Prime and Reserve.  The 7 top qualified CDs are called the Prime Constitutional Delegates (PCDs). The top 8 to 14 qualified CDs are called the Reserve Constitutional Delegates (RCDs).
@@ -20,7 +20,7 @@ There are two income levels for the top 14 qualified CDs: Prime and Reserve.  Th
 Each income level has a monthly total compensation.
 Qualified CDs can earn an equal share of their income level total compensation. If a CD loses its qualification, their slot goes to the next qualified CD by the amount of delegated MKR.
 
-## Eligibility Requirements
+### Eligibility Requirements
 To get a share of the total compensation of their income level, CDs must fulfill the following requirements:
 1) Participation in CVC Subcommittee Meetings (monthly)
     - PCDs must participate in 16+
