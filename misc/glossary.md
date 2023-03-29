@@ -6,8 +6,6 @@
 
 **Active Ecosystem Actors:** Ecosystem Actors that work according to the specifications of Scope Frameworks and receive funding for performing specific projects.
 
-**Administrative Team:** Team that directly interfaces with SubDAO governance, makes proposals, receives budgets and has governance privileges.
-
 **[Advisory Council](../maker-core/advisory-councils.md):** Entity that is responsible for the creation and adherence to Scope Frameworks.
 
 **Advisory Ecosystem Actors:** Ecosystem Actors that perform research and publish advice for the DAO to use in its governance process.
@@ -28,8 +26,6 @@
 
 **[Constitutional Voter Committee (CVC)](../maker-core/cvc.md):** Group of individuals with similar values and goals that delegate MKR for governance voting and have at least one Constitutional Conserver.
 
-**Contribution Team:** Team that is funded by Administrative Teams and focuses on specialized work.
-
 **Core Unit:** Entity that is responsible for budget allocation for a particular scope and can fast track proposals within governance. This terms may also refer to existing [Core Units](https://mips.makerdao.com/mips/details/MIP39) in the current MakerDAO Governance system.
 
 **[Creator DAO](../subdaos/creator.md):** Type of SubDAO that focuses on decentralized collateral.
@@ -48,9 +44,9 @@
 
 **Ecosystem Actors:** External entity that offers services to Maker Core and SubDAOs. Divided into Advisory Ecosystem Actors and Active Ecosystem Actors.
 
-**[Ecosystem Operations Scope](../maker-core/list-of-scopes.md):** Primary Scope involved with governance process and communications. 
+**[Ecosystem Scope](../maker-core/list-of-scopes.md):** Primary Scope involved with governance process and communications. 
 
-**[Elixir](../tokenomics/elixir.md):** Balancer pool that consists of ⅓ Dai, ⅓ EtherDai, and ⅓ MKR.
+**[Elixir](../tokenomics/elixir.md):** Balancer pool that consists of $1/2$ Dai and $1/2$ MKR.
 
 **[EtherDai](../tokenomics/etherdai.md):** Synthetic ETH token backed by staked ETH collateral.
 
@@ -84,7 +80,7 @@
 
 **[Phoenix Stance](../concepts/stances.md):** Endgame Stance where Dai does not allow RWA except for Physically Resilient RWA.
 
-**[Physical Resilience](../maker-core/list-of-scopes.md):** Supporting Scope that is involved with RWA that cannot be easily seized.
+**[Physical Resilience Scope](../maker-core/list-of-scopes.md):** Scope that identifies and mitigates legal, legislative, and regulatory threats to the protocol.
 
 **[Physically Resilient RWA](../concepts/collateral-breakdown.md):** RWA Asset that cannot be easily seized via legal means.
 
@@ -140,9 +136,13 @@
 
 ## Deprecated terms
 
+**Administrative Team:** Team that directly interfaces with SubDAO governance, makes proposals, receives budgets and has governance privileges.
+
 **Anti Reflexivity Mechanic:** System that sells a fixed amount of MKR or SubDAO tokens for Dai at fixed prices.  
 
 **Cluster Facilitator:** Individual that leads a SubDAO cluster.
+
+**Contribution Team:** Team that is funded by Administrative Teams and focuses on specialized work.
 
 **Council:** See Advisory Council.
 
@@ -161,8 +161,3 @@
 **Tribunal:** Entity that is responsible for the creation and adherence to Supporting Scope Frameworks. See Advisory Council.
 
 **Unrecognized Delegates:** Delegates that are completely anonymous who do not receive compensation for governance voting.
-
-
-
-
-
