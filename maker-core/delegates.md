@@ -33,7 +33,6 @@ To get a share of the total compensation of their income level, CDs must fulfill
 If these amounts are not reached, then CDs receive a reduced amount of the total CD income they are eligible for.
 
 ## Visibility
-
 The EGF displays all CDs who follow two different CVC Governance Strategies. To do this, the CD must have two separate Protocol Delegation System smart contracts. Each of them is attached to the CVC whose Governance Strategy they follow. To calculate the income level, the total amounts of MKR delegated to both Governance Strategies of the CD are counted.
 
 When a [CVC](https://endgame.makerdao.com/maker-core/tbc-governance/cvc) bans a CD, the MKR holders decide through a vote if the CD can continue to be displayed with one Independent Governance Strategy.
