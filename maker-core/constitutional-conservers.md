@@ -5,7 +5,7 @@ Constitutional Conservers (CC) are the guardians of the [Maker Constitution](htt
 
 CC may never change the Constitution or governance dynamics, unless they do it within the Constitution processes and frameworks. Only during Pregame, CVC Members are allowed and encouraged to help refine the Maker Constitution.
 
-There are many types of CCs. The Arbitration Scope gives recognition to each type of CC. CC may not assume multiple CC types simultaneously or any other ecosystem role. During Pregame, CC can be a [CVC](link to CVC page) Member or a [Constitutional Delegate](link to CD page).
+There are many types of CCs. The Arbitration Scope gives recognition to each type of CC. CC may not assume multiple CC types simultaneously or any other ecosystem role. During Pregame, CC can be a [CVC](cvc.md) Member or a [Constitutional Delegate](delegates.md).
 
 
 ## Purpose
