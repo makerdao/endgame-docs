@@ -39,7 +39,6 @@
 * [MKR Tokenomics](tokenomics/mkr-tokenomics.md)
 * [SubDAO Tokenomics](tokenomics/subdao-tokenomics.md)
 * [Endgame Launch Tokenomics](tokenomics/launch-tokenomics.md)
-* [Sagittarius Engine](tokenomics/sagittarius-engine.md)
 
 ## Concepts
 * [Collateral Breakdown](concepts/collateral-breakdown.md)
