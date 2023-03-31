@@ -16,5 +16,5 @@ Protector subDAOs can use its internal governance processes to allocate up to it
 
 Adopted vaults impose a first-loss position for the adopting protector subDAO on all downsides.
 
->Page last reviewed: 2023-03-22    
->Next review due: 2024-03-22    
+>Page last reviewed: 2023-03-30    
+>Next review due: 2024-06-30    
