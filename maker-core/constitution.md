@@ -54,5 +54,5 @@ Constitutional Conservers commit to maintaining and protecting the Endgame Const
 
 Each scope framework must adhere to the constitutional boundaries defined in the Maker Constitution.
 
->Page last reviewed: -  
->Next review due: -  
+>Page last reviewed: 2023-03-10   
+>Next review due: 2023-09-10  
