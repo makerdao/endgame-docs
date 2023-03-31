@@ -26,54 +26,7 @@ These resources describe planned functionality and processes that MakerDAO has n
 | 2022-12-07 | [Final Endgame Tokenomics](https://forum.makerdao.com/t/final-endgame-tokenomics/19086)                                                                                                      | Rune   |
 | 2023-01-31 | [Pregame Constitution Draft](https://forum.makerdao.com/t/wip-pregame-maker-constitution-mip-draft/19621)                                                                                    | Rune   |
 | 2023-03-06 | [Sagittarius Engine](https://forum.makerdao.com/t/the-sagittarius-engine-and-how-to-generate-intelligence-through-incentives-using-mkr-as-collateral/20067)                                  | Rune   |
-
-## Decentralized Voter Committee Calls
-
-| Date       | Title                                                                                                                                              | Author     |
-|------------|----------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| 2022-05-24 | [DVC: Planning, Structure, Initiatives & Challenges](https://www.youtube.com/watch?v=6ArOPRZhf6o&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=30) | Rune       |
-| 2022-06-01 | [DVC: Strategic Finance Updates & Endgame](https://www.youtube.com/watch?v=sGeA07E7XrQ&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=29)           | Rune       |
-| 2022-06-08 | [DVC: Endgame Pre-Launch](https://www.youtube.com/watch?v=gGA_EkM88s8&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=28)                            | Rune       |
-| 2022-06-09 | [DVC: Endgame Decentralized Workforce](https://www.youtube.com/watch?v=wtNklAS6M4M&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=27)               | Rune       |
-| 2022-06-15 | [DVC: Endgame Focus Objectives](https://www.youtube.com/watch?v=eqZ3kobXKAE&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=26)                      | Rune       |
-| 2022-06-16 | [DVC: Understanding MetaDAOs](https://www.youtube.com/watch?v=5dbVmaoGI4I&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=25)                        | Rune       |
-| 2022-06-22 | [DVC: Endgame Governance](https://www.youtube.com/watch?v=YVPamJ3Cxkc&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=24)                            | Rune       |
-| 2022-06-23 | [DVC: Early Pre-Game Products](https://www.youtube.com/watch?v=nUeisgkh9tg&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=23)                       | Rune       |
-| 2022-06-29 | [DVC: Short-term Endgame Plan](https://www.youtube.com/watch?v=yO0i2bP_UZM&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=22)                       | Rune       |
-| 2022-06-30 | [DVC: Long-term Endgame Plan](https://www.youtube.com/watch?v=v4i3RqzMoxE&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=21)                        | Rune       |
-| 2022-07-06 | [DVC: Collateral Engineering Services on Endgame](https://www.youtube.com/watch?v=fAkKrDHpDoA&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=20)    | Rune       |
-| 2022-07-12 | [DVC: Oracles OCU Roadmap & Initiatives on Endgame](https://www.youtube.com/watch?v=DEAk4VPZfeI&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=19)  | Rune       |
-| 2022-07-20 | [DVC: Intro Launch Clustering & Transition](https://www.youtube.com/watch?v=u-nFkEn0lY0&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=18)          | Rune       |
-| 2022-07-21 | [DVC: Launch Clustering & Transition](https://www.youtube.com/watch?v=alr9vPRjync&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=17)                | Rune       |
-| 2022-07-27 | [DVC: Launch Clustering & Transition #2](https://www.youtube.com/watch?v=FNe7DNYS6PA&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=16)             | Rune       |
-| 2022-08-04 | [DVC: Metas & Target Collateral Portfolio](https://www.youtube.com/watch?v=z_CKZmqsu5U&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=15)           | Rune       |
-| 2022-08-10 | [DVC: Introducing Endgame v3](https://www.youtube.com/watch?v=DmR4LDPX9LA&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=14)                        | Rune       |
-| 2022-08-11 | [DVC: Endgame v3](https://www.youtube.com/watch?v=MGJy2Wo3cDg&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=13)                                    | Rune       |
-| 2022-08-24 | [DVC: Endgame v3 Review & Discussion](https://www.youtube.com/watch?v=1f9j65Xv2D8&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=12)                | Rune       |
-| 2022-08-24 | [DVC: Endgame v3 (continued)](https://www.youtube.com/watch?v=px6awzHdhJQ&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=11)                        | Rune       |
-| 2022-08-31 | [DVC: Endgame Approval MIP Set](https://www.youtube.com/watch?v=X9_KyQ07p1M&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=10)                      | Rune       |
-| 2022-09-14 | [DVC: Transition & Implementation](https://www.youtube.com/watch?v=GxhsmhUAxJw&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=9)                    | Rune       |
-| 2022-09-21 | [DVC: Transition & Endgame Equilibrium](https://www.youtube.com/watch?v=8rJFXtRCX1c&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=8)               | Rune       |
-| 2022-09-28 | [DVC: Metanomics Diagrams](https://www.youtube.com/watch?v=4XeKLEQTsJI&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=7)                            | Rune       |
-| 2022-10-05 | [DVC: Clusters & MetaDAOs](https://www.youtube.com/watch?v=fyCQ6VZOzC0&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=6)                            | Rune       |
-| 2022-10-16 | [DVC: Clusters & Next Steps](https://www.youtube.com/watch?v=JFZ5nTH8pe8&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=5)                          | Rune       |
-| 2022-10-26 | [DVC: Fixed Rate Strategies & Decentralized Scopes](https://www.youtube.com/watch?v=M9WX4QD1yEM&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=4)   | Rune       |
-| 2022-11-23 | [DVC: Practical Implementation of Endgame Governance](https://www.youtube.com/watch?v=J17mNQjq0Fg&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=3) | Rune       |
-| 2022-11-30 | [DVC: RWA Collateral Scope Framework](https://www.youtube.com/watch?v=c5kB10tN37A&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=2)                 | Rune       |
-| 2022-12-14 | [DVC: Endgame Constitution - P1](https://www.youtube.com/watch?v=hJSqYTzensQ&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=1)                      | Rune       |
-| 2022-12-21 | [DVC: Endgame Constitution - P2](https://www.youtube.com/watch?v=lRyrtDA1rBI&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=4)                      | Rune       |
-| 2023-01-04 | [DVC: Endgame Constitution - P3](https://www.youtube.com/watch?v=ncprL4iKE4Y&list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF&index=1)                      | Rune       |
-| 2023-01-11 | [DVC: Endgame Constitution - P4](https://www.youtube.com/watch?v=O5mBaVolIuU)                                                                      | Rune       |
-| 2023-01-18 | [DVC: Endgame Constitution - P5](https://www.youtube.com/watch?v=if9JoSEetvM)                                                                      | Rune       |
-| 2023-01-25 | [DVC: Endgame Constitution - P6](https://www.youtube.com/watch?v=HuAx6yvQ6vM)                                                                      | Rune       |
-| 2023-02-01 | [DVC: Endgame Constitution - P7](https://youtu.be/mIMaW-pJgkw?list=PLLzkWCj8ywWMJ8ImSqKaYf-87Mx7gOkaF)                                             | Rune       |
-| 2023-02-15 | [DVC: Real World Asset Scope Focus](https://www.youtube.com/watch?v=63wjw6ZVW3w)                                                                   | Rune       |
-| 2023-02-16 | [DVC: Decentralized Collateral Scope Focus](https://www.youtube.com/watch?v=5hNvX33Lx80)                                                           | Rune       |
-| 2023-02-21 | [DVC: Ecosystem Scope Focus](https://www.youtube.com/watch?v=iqo_QwdSyXw)                                                                          | Rune       |
-| 2023-02-28 | [DVC: Final March Cycle Edits](https://www.youtube.com/watch?v=y-nj7SUhkoQ)                                                                        | Rune       |
-| 2023-03-02 | [DVC: Endgame Updates and Branding](https://www.youtube.com/watch?v=__F6WzTeOQM)                                                                   | Rune       |
-| 2023-03-07 | [DVC: Governance Strategy](https://www.youtube.com/watch?v=hfXOWoW_KxQ)                                                                            | ACREInvest |
-| 2023-03-08 | [DVC: Endgame Skeptics Call](https://www.youtube.com/watch?v=sK1XcnbVC-U)                                                                          | Rune       |
+| 2023-03-14 | [Long Term Features and Product Changes](https://forum.makerdao.com/t/tuesdays-endgame-call-discussing-long-term-features-and-product-changes/20183)                                         | Rune   |
 
 ## Summaries
 

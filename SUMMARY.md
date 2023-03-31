@@ -13,22 +13,21 @@
 * [Constitution](maker-core/constitution.md)
 * [Scopes and Frameworks](maker-core/scopes-and-frameworks.md)
 * [List of Scopes](maker-core/list-of-scopes.md)
-* TBC - Governance
-    * [TBC - Constitutional Conservers](maker-core/constitutional-conservers.md)
-    * [TBC - CVCs](maker-core/cvc.md)
-    * [TBC - Delegates](maker-core/delegates.md)
+* Governance
+    * [Constitutional Conservers](maker-core/constitutional-conservers.md)
+    * [Constitutional Voter Committees](maker-core/cvc.md)
+    * [Constitutional Delegates](maker-core/delegates.md)
     * [TBC - Advisory Councils](maker-core/advisory-councils.md)
     * [Easy Governance Frontend](maker-core/easy-governance-frontend.md)
 * [TBC - Interactions](maker-core/interactions.md)
 
 ## SubDAOs
 
-* [TBC - Overview](subdaos/overview.md)
-* TBC - Classes
-    * [TBC - Governor](subdaos/facilitator.md)
-    * [TBC - Creator](subdaos/creator.md)
-    * [TBC - Protector](subdaos/protector.md)
-* [TBC - Clusters](subdaos/clusters.md)
+* [Overview](subdaos/overview.md)
+* Types
+    * [TBC - Facilitator](subdaos/facilitator.md)
+    * [Creator](subdaos/creator.md)
+    * [Protector](subdaos/protector.md)
 * [TBC - Interactions](subdaos/interactions.md)
 
 ## Tokenomics
@@ -39,7 +38,6 @@
 * [MKR Tokenomics](tokenomics/mkr-tokenomics.md)
 * [SubDAO Tokenomics](tokenomics/subdao-tokenomics.md)
 * [Endgame Launch Tokenomics](tokenomics/launch-tokenomics.md)
-* [Sagittarius Engine](tokenomics/sagittarius-engine.md)
 
 ## Concepts
 * [Collateral Breakdown](concepts/collateral-breakdown.md)
