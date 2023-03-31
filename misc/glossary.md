@@ -34,7 +34,7 @@
 
 **Decentralized Adopted Vault:** Vault with decentralized collateral that only pays a fixed part of their stability fee to Maker Core. A Creator SubDAO is responsible for liquidations and other losses before Maker Core in return for the remaining stability fees.
 
-**[Decentralized Collateral Scope](../maker-core/list-of-scopes.md):** Primary Scope that interacts with token asset exchanges. The following tokens are considered decentralized collateral: ETH, MKR, SubDAO, and other decentralized tokens.
+**[Decentralized Collateral Scope](../maker-core/list-of-scopes.md):** Primary Scope that interacts with token asset exchanges. The following tokens are considered decentralized collateral: ETH, Liquid Staking Tokens, and other decentralized tokens.
 
 **[Delegate](../maker-core/delegates.md):** Ecosystem Actor to whom regular MKR holders can safely delegate their MKR voting power without having to hand over the custody of the MKR itself. 
 
@@ -92,7 +92,7 @@
 
 **RWA Services:** External services that require interaction with the physical world in order to obtain assets.
 
-**[Sagittarius Engine](../tokenomics/sagittarius-engine.md):** Module that allows MKR delegators to farm SubDAO tokens and open vaults using delegated MKR as collateral.
+**[Sagittarius Engine](../tokenomics/sagittarius-engine.md):** Module that allows MKR delegators to farm SubDAO tokens.
 
 **[Scope](../maker-core/scopes-and-frameworks.md):** Broad focus area of work within which SubDAOs, Ecosystem Actors and Maker Governance operate.
 
