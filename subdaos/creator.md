@@ -12,5 +12,5 @@ Creator subDAOs can adopt existing or new vault types on the Maker Protocol Vaul
 
 Adopted vaults impose a first-loss position for the adopting creator subDAO on all downsides.
 
->Page last reviewed: 2023-03-22    
->Next review due: 2024-03-22    
+>Page last reviewed: 2023-03-30    
+>Next review due: 2024-06-30    

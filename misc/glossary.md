@@ -34,11 +34,9 @@
 
 **Decentralized Adopted Vault:** Vault with decentralized collateral that only pays a fixed part of their stability fee to Maker Core. A Creator SubDAO is responsible for liquidations and other losses before Maker Core in return for the remaining stability fees.
 
-**[Decentralized Collateral Scope](../maker-core/list-of-scopes.md):** Primary Scope that interacts with token asset exchanges. The following tokens are considered decentralized collateral: ETH, MKR, SubDAO, and other decentralized tokens.
+**[Decentralized Collateral Scope](../maker-core/list-of-scopes.md):** Primary Scope that interacts with token asset exchanges. The following tokens are considered decentralized collateral: ETH, Liquid Staking Tokens, and other decentralized tokens.
 
 **[Delegate](../maker-core/delegates.md):** Ecosystem Actor to whom regular MKR holders can safely delegate their MKR voting power without having to hand over the custody of the MKR itself. 
-
-**[Eagle Stance](../concepts/stances.md):** Endgame Stance where Dai becomes free floating with a potentially negative Target Rate.
 
 **[Easy Governance Frontend (EGF)](../maker-core/easy-governance-frontend.md):** Standardized and regulated application that most users will use to vote and access MKR voter incentives.
 
@@ -47,8 +45,6 @@
 **[Ecosystem Scope](../maker-core/list-of-scopes.md):** Primary Scope involved with governance process and communications. 
 
 **[Elixir](../tokenomics/elixir.md):** Balancer pool that consists of $1/2$ Dai and $1/2$ MKR.
-
-**[EtherDai](../tokenomics/etherdai.md):** Synthetic ETH token backed by staked ETH collateral.
 
 **[Facilitator DAO](../subdaos/facilitator.md):** Type of SubDAO that focuses on organizing the decentralized workforce of the Maker Core. 
 
@@ -78,13 +74,9 @@
 
 **Oracle Services:** Services related to the oracle interface that communicates real world data to smart contracts.
 
-**[Phoenix Stance](../concepts/stances.md):** Endgame Stance where Dai does not allow RWA except for Physically Resilient RWA.
-
 **[Physical Resilience Scope](../maker-core/list-of-scopes.md):** Scope that identifies and mitigates legal, legislative, and regulatory threats to the protocol.
 
 **[Physically Resilient RWA](../concepts/collateral-breakdown.md):** RWA Asset that cannot be easily seized via legal means.
-
-**[Pigeon Stance](../concepts/stances.md):** Endgame Stance that has no limit on RWA and where Dai remains pegged to 1 USD.
 
 **[Primary Scopes](../maker-core/list-of-scopes.md):** Scope Category that includes Stability and Liquidity, Decentralized Collateral, RWA Collateral, and Ecosystem Operations.
 
@@ -100,7 +92,7 @@
 
 **RWA Services:** External services that require interaction with the physical world in order to obtain assets.
 
-**[Sagittarius Engine](../tokenomics/sagittarius-engine.md):** Module that allows MKR delegators to farm SubDAO tokens and open vaults using delegated MKR as collateral.
+**[Sagittarius Engine](../tokenomics/sagittarius-engine.md):** Module that allows MKR delegators to farm SubDAO tokens.
 
 **[Scope](../maker-core/scopes-and-frameworks.md):** Broad focus area of work within which SubDAOs, Ecosystem Actors and Maker Governance operate.
 
@@ -110,11 +102,9 @@
 
 **Stability Fee Base Rate (SFBR):** Interest rate which is added to the stability fee rate of some or all vaults.
 
-**[Stance](../concepts/stances.md):** Set of rules during Endgame that determine the type of collateral backing Dai as well as the value of Dai.
-
 **[SubDAOs](../subdaos/overview.md):** Entity within the Maker Ecosystem that functions as self-sustaining DAOs. SubDAOs maintain a synergistic relationship with Maker Core.
 
-**SubDAO Farms:** Mechanism to distribute SubDAO tokens as rewards to Dai holders, Maker Governance participants, and EtherDai vault users.
+**SubDAO Farms:** Mechanism to distribute SubDAO tokens as rewards to Dai holders and Maker Governance participants.
 
 **SubDAO Frontends:** Frontends that allow users to interact with a SubDAO. The frontends include several standard functions and design elements.
 
@@ -146,6 +136,10 @@
 
 **Council:** See Advisory Council.
 
+**Eagle Stance** Deprecated Endgame Stance where Dai becomes free floating with a potentially negative Target Rate.
+
+**EtherDai:** Synthetic ETH token backed by staked ETH collateral.
+
 **MetaDAO:** See SubDAO.
 
 **MetaElixir:** See SubElixir.
@@ -154,7 +148,13 @@
 
 **Metanomics:** Tokenomics system that emits 50,000 MKR annually and is distributed towards Elixir and SubElixir Acquisition, SubDAO Incubation, and the Maker Workforce Bonus Pool.
 
+**Phoenix Stance:** Deprecated Endgame Stance where Dai does not allow RWA except for Physically Resilient RWA.
+
+**Pigeon Stance:** Deprecated Endgame Stance that has no limit on RWA and where Dai remains pegged to 1 USD.
+
 **Recognized Delegates:** Entities within Maker governance to whom MKR can be delegated and that receive compensation for their services. 
+
+**Stance:** A set of rules during Endgame that determine the type of collateral backing Dai as well as the value of Dai.
 
 **SubDAO Cluster:** Group headed by a Cluster Facilitator that launch SubDAO proposals.
 
