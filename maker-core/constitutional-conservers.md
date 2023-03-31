@@ -1,6 +1,6 @@
 # Constitutional Conservers
 
-A Constitutional Conserver (CC) is a guardian of the [Maker Constitution](https://mips.makerdao.com/mips/details/MIP101). They must preserve the Constitution and oppose any entities threatening it.
+A Constitutional Conserver (CC) is a guardian of the [Maker Constitution](constitution.md). They must preserve the Constitution and oppose any entities threatening it.
 
 {% hint style="warning" %}
 This documentation describes functionality and processes that MakerDAO is in the process of implementing. Be aware that parts may be inaccurate or out of date.
@@ -16,7 +16,7 @@ The Arbitration Scope gives recognition to each type of Constitutional Conserver
 
 The Maker Constitution is designed to safeguard the interests of MKR holders. By preserving and protecting the Constitution from changes, Constitutional Conservers function as guardians of MKR holders' interests.
 
-Constitutional Conservers may never change the Constitution or governance dynamics, unless they do it within the Constitution processes and frameworks. During Pregame, CVC Members are allowed and encouraged to help refine the Maker Constitution.
+Constitutional Conservers may never change the Constitution or governance dynamics unless they do it within the Constitution processes and frameworks. During Pregame, CVC Members are allowed and encouraged to help refine the Maker Constitution.
 
 ## Eligibility requirements
 To be eligible, Constitutional Conservers must make a public pledge committing to:

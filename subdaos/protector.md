@@ -12,7 +12,7 @@ Protector subDAOs can only adopt vaults that conform either to the cashlike RWA 
 
 RWA vault adoption must be ratified by Maker Governance through a vault adoption MIP, which sets the vault's debt ceiling and its capital cost &mdash;i.e., the minimum expected return&mdash;, which in turn defines how much of the Stability Fee for the adopted vault must go to Maker Core.
 
-Protector subDAOs can use its internal governance processes to allocate up to its vault adoption Debt Ceiling to its arrangers.
+Protector subDAOs can use their internal governance processes to allocate up to its vault adoption Debt Ceiling to its arrangers.
 
 Adopted vaults impose a first-loss position for the adopting protector subDAO on all downsides.
 
