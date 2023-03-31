@@ -39,7 +39,7 @@ Compensation is reduced with lower voting and communication activity, reaching z
 
 ## Visibility
 
-Constitutional Delegates are displayed prominently in the EGF as followers of a CVC's Strategy. When they receive delegated vote-weight through a CVCs Governance Strategy, they must vote according to that strategy.
+Constitutional Delegates are displayed prominently in the EGF as followers of a CVC's Strategy. When they receive delegated vote weight through a CVCs Governance Strategy, they must vote according to that strategy.
 
 >Page last reviewed: 2023-03-30    
 >Next review due: 2024-06-30    

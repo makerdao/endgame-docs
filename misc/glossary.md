@@ -10,7 +10,7 @@
 
 **Advisory Ecosystem Actors:** Ecosystem Actors that perform research and publish advice for the DAO to use in its governance process.
 
-**Alignment Engineering:** Practice of designing mechanisms, incentives and shared habits that benefit the organizational alignment of the entire ecosystem.
+**Alignment Engineering:** The practice of designing mechanisms, incentives, and shared habits that benefit the organizational alignment of the entire ecosystem.
 
 **[Arbitration Scope](../maker-core/list-of-scopes.md):** Governance Scope that determines how escalated disputes within the DAO are rectified. 
 
@@ -26,7 +26,7 @@
 
 **[Constitutional Voter Committee (CVC)](../maker-core/cvc.md):** Group of individuals with similar values and goals that delegate MKR for governance voting and have at least one Constitutional Conserver.
 
-**Core Unit:** Entity that is responsible for budget allocation for a particular scope and can fast track proposals within governance. This terms may also refer to existing [Core Units](https://mips.makerdao.com/mips/details/MIP39) in the current MakerDAO Governance system.
+**Core Unit:** Entity that is responsible for budget allocation for a particular scope and can fast-track proposals within governance. This term may also refer to existing [Core Units](https://mips.makerdao.com/mips/details/MIP39) in the current MakerDAO Governance system.
 
 **[Creator DAO](../subdaos/creator.md):** Type of SubDAO that focuses on decentralized collateral.
 
@@ -44,7 +44,7 @@
 
 **[Ecosystem Scope](../maker-core/list-of-scopes.md):** Primary Scope involved with governance process and communications. 
 
-**[Elixir](../tokenomics/elixir.md):** Balancer pool that consists of $1/2$ Dai and $1/2$ MKR.
+**[Elixir](../tokenomics/elixir.md):** The UniswapV2 liquidity pool token for the DAI-MKR pool. Consists of 50% Dai and 50% MKR.
 
 **[Facilitator DAO](../subdaos/facilitator.md):** Type of SubDAO that focuses on organizing the decentralized workforce of the Maker Core. 
 
@@ -58,7 +58,7 @@
 
 **Home Base:** L2 shard with an active Maker Vault Engine that Creator DAOs choose.
 
-**[Infrastructure Scope](../maker-core/list-of-scopes.md):** Supporting Scope that interacts with the most critical security aspects of the Maker Protocol. This includes smart contracts, the keepers, the oracles, and other node network infrastructure.
+**[Infrastructure Scope](../maker-core/list-of-scopes.md):** Supporting Scope that interacts with the most critical security aspects of the Maker Protocol. This includes smart contracts, keepers, oracles, and other node network infrastructure.
 
 **[Interface Scope](../maker-core/list-of-scopes.md):** Supporting Scope that regulates and develops the core elements of frontend concepts.
 
@@ -72,7 +72,7 @@
 
 **[Miscellaneous RWA](../concepts/collateral-breakdown.md):** Centralized on-chain RWA assets such as WBTC, cross-chain bridge tokens from L1s, and security token vaults.
 
-**Oracle Services:** Services related to the oracle interface that communicates real world data to smart contracts.
+**Oracle Services:** Services related to the oracle interface that communicates real-world data to smart contracts.
 
 **[Physical Resilience Scope](../maker-core/list-of-scopes.md):** Scope that identifies and mitigates legal, legislative, and regulatory threats to the protocol.
 
@@ -84,21 +84,21 @@
 
 **[Protocol Engineering Scope](../maker-core/list-of-scopes.md):** Supporting Scope that is responsible for the functionality and upgrades of the core protocol.
 
-**Protocol-Owned Vault:** Maker vault that can only be utilized by Maker Governance that uses decentralized collateral to generate Dai.
+**Protocol-Owned Vault:** Maker vault that can only be utilized by Maker Governance which uses decentralized collateral to generate Dai.
 
 **RWA Adopted Vault:** Vault with RWA collateral that only pays a fixed part of their stability fee to Maker Core. A Protector SubDAO is responsible for liquidations and other losses before Maker Core in return for the remaining stability fees.
 
-**[RWA Collateral Scope](../maker-core/list-of-scopes.md):** Primary Scope that interacts with real-world assets that include: cashlike (centralized stable coins & bonds), clean money (renewable energy projects), physically resilient, and miscellaneous (WBTC) assets.
+**[RWA Collateral Scope](../maker-core/list-of-scopes.md):** Primary Scope that interacts with real-world assets that include: cashlike (centralized stablecoins & bonds), clean money (renewable energy projects), physically resilient, and miscellaneous (WBTC) assets.
 
 **RWA Services:** External services that require interaction with the physical world in order to obtain assets.
 
-**[Sagittarius Engine](../tokenomics/sagittarius-engine.md):** Module that allows MKR delegators to farm SubDAO tokens.
+**Sagittarius Engine:** Module that allows MKR delegators to farm SubDAO tokens.
 
 **[Scope](../maker-core/scopes-and-frameworks.md):** Broad focus area of work within which SubDAOs, Ecosystem Actors and Maker Governance operate.
 
 **[Scope Framework](../maker-core/scopes-and-frameworks.md):** Set of regulations governing all activities under a Scope. 
 
-**[Stability and Liquidity Scope](../maker-core/list-of-scopes.md):** Secondary Scope that includes cashlike RWA portfolio management, target rate management, and protocol owned vault management.
+**[Stability and Liquidity Scope](../maker-core/list-of-scopes.md):** Secondary Scope that includes cashlike RWA portfolio management, target rate management, and protocol-owned vault management.
 
 **Stability Fee Base Rate (SFBR):** Interest rate which is added to the stability fee rate of some or all vaults.
 
@@ -112,7 +112,7 @@
 
 **[SubElixir](../tokenomics/subelixir.md):** Liquidity pool consisting of SubDAO tokens and MKR.
 
-**[Supporting Scopes](../maker-core/list-of-scopes.md):** Scope Category that includes Protocol Engineering, Growth, Physical Resilence, Infratructure, Interface, and Finance.
+**[Supporting Scopes](../maker-core/list-of-scopes.md):** Scope Category that includes Protocol Engineering, Growth, Physical Resilience, Infrastructure, Interface, and Finance.
 
 **Target Rate (TR):** Goal for the rate at which the target price of Dai changes over time. 
 
@@ -122,11 +122,11 @@
 
 **Workforce Bonus:** MKR that is utilized to compensate Delegates, Council, and Core Unit members.
 
-**Workforce Bonus Pool:** A pool initially consisting of SubDAO tokens that is distributed based upon SubDAO token governance to incentivize the creation and maintenance of SubDAOs.
+**Workforce Bonus Pool:** A pool initially consisting of SubDAO tokens that are distributed based upon SubDAO token governance to incentivize the creation and maintenance of SubDAOs.
 
 ## Deprecated terms
 
-**Administrative Team:** Team that directly interfaces with SubDAO governance, makes proposals, receives budgets and has governance privileges.
+**Administrative Team:** Team that directly interfaces with SubDAO governance, makes proposals, receives budgets, and has governance privileges.
 
 **Anti Reflexivity Mechanic:** System that sells a fixed amount of MKR or SubDAO tokens for Dai at fixed prices.  
 
@@ -136,7 +136,7 @@
 
 **Council:** See Advisory Council.
 
-**Eagle Stance** Deprecated Endgame Stance where Dai becomes free floating with a potentially negative Target Rate.
+**Eagle Stance** Deprecated Endgame Stance where Dai becomes free-floating with a potentially negative Target Rate.
 
 **EtherDai:** Synthetic ETH token backed by staked ETH collateral.
 
@@ -156,8 +156,8 @@
 
 **Stance:** A set of rules during Endgame that determine the type of collateral backing Dai as well as the value of Dai.
 
-**SubDAO Cluster:** Group headed by a Cluster Facilitator that launch SubDAO proposals.
+**SubDAO Cluster:** Group headed by a Cluster Facilitator that launches SubDAO proposals.
 
 **Tribunal:** Entity that is responsible for the creation and adherence to Supporting Scope Frameworks. See Advisory Council.
 
-**Unrecognized Delegates:** Delegates that are completely anonymous who do not receive compensation for governance voting.
+**Unrecognized Delegates:** Delegates that are completely anonymous that do not receive compensation for governance voting.

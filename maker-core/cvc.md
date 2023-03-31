@@ -8,9 +8,9 @@ This documentation describes functionality and processes that MakerDAO is in the
 
 ## Overview
 
-Each CVC produces Governance Strategy Position documents and Scope Framework Position Documents to update the [Scope Frameworks](list-of-scopes.md). This set of documents provide general guidelines for how [Constitutional Delegates (CDs)](delegates.md) that follow their governance strategy should vote.
+Each CVC produces Governance Strategy Position documents and Scope Framework Position Documents to update the [Scope Frameworks](list-of-scopes.md). This set of documents provides general guidelines for how [Constitutional Delegates (CDs)](delegates.md) that follow their governance strategy should vote.
 
-Position Documents abstract away the minutiae of day-to-day governance. Since Constitutional Delegates execute CVC strategies, they allow MKR Holders to be reasonably informed and secure with regards to the general direction of the chosen delegate.
+Position Documents abstract away the minutiae of day-to-day governance. Since Constitutional Delegates execute CVC strategies, they allow MKR Holders to be reasonably informed and secure with regard to the general direction of the chosen delegate.
 
 In order for a Voter Committee to be considered a CVC, it must have at least one member who is a [Constitutional Conserver (CC)](constitutional-conservers.md) and a verified MKR holder. CVCs are also subject to additional eligibility requirements, detailed below.
 
@@ -22,7 +22,7 @@ Voter Committees must meet certain requirements for at least a quarterly governa
    1. Create a Governance Strategy Position and 12 Scope Framework Position documents
    2. Hold one CVC Subcommittee meeting for each scope
 
-The [Arbitration Scope](https://mips.makerdao.com/mips/details/MIP113) recognises eligible CVCs. It can revoke this recognition anytime the CVC fails to meet all eligibility requirements.
+The [Arbitration Scope](https://mips.makerdao.com/mips/details/MIP113) recognizes eligible CVCs. It can revoke this recognition anytime the CVC fails to meet all eligibility requirements.
 
 ## Member Participation Rewards
 
@@ -34,7 +34,7 @@ CVC Members who fulfill these eligibility requirements and have the highest veri
 
 
 ## Visibility
-The [Easy Governance Frontend (EGF)](easy-governance-frontend.md) displays CVCs on a list that ranks them by their voter weight. The CVC with the highest voter weight being on top of it. The voter weight is calculated by adding the verified MKR holdings of members plus the MKR delegated to delegates that follow the CVC's Governance Strategy.
+The [Easy Governance Frontend (EGF)](easy-governance-frontend.md) displays CVCs on a list that ranks them by their voter weight. The voter weight is calculated by adding the verified MKR holdings of members plus the MKR delegated to delegates that follow the CVC's Governance Strategy.
 
 >Page last reviewed: 2023-03-30    
 >Next review due: 2024-06-30    

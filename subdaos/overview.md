@@ -10,7 +10,7 @@ This documentation describes planned functionality and processes that MakerDAO h
 
 SubDAOs have each their own unique governance token, governance processes, and workforce. They are driven by a self-determined, self-aware *meta* (understood as the non-quantifiable values, aspirations, and sensibilities within a human-operated organization - its ethos). 
 
-In most respects subDAOs are self-standing, unique DAOs. Their semi-independent nature helps segregate complexity from Maker Core, alleviate the cognitive load of governance, and derisk MakerDAO by sandboxing the effects of subDAO operations. However, subDAO governance processes run on top of MakerCore governance infrastructure and MKR holders retain control of many of the subDAOs assets.
+In most respects, subDAOs are self-standing, unique DAOs. Their semi-independent nature helps segregate complexity from Maker Core, alleviate the cognitive load of governance, and derisk MakerDAO by sandboxing the effects of subDAO operations. However, subDAO governance processes run on top of MakerCore governance infrastructure and MKR holders retain control of many of the subDAOs assets.
 
 ## SubDAO Types
 
