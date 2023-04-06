@@ -1,6 +1,12 @@
 # How to "Sign" a Message Using a Gnosis Safe Multisig
 
-{% hint style="warning" %} Signing messages from a multisig using the method in this guide requires submitting an on chain transaction and payment of gas fees. MakerDAO and GovAlpha will not take responsibility for any negative outcome experienced by people that are following this guide. You are responsible for your own funds. If you are uncomfortable or unsure of how to proceed, stop what you are doing and ask for help. {% endhint %}
+{% hint style="warning" %} **Signing messages from a multisig using the method in this guide requires submitting an on chain transaction and payment of gas fees.**
+
+**MakerDAO and GovAlpha will not take responsibility for any negative outcome experienced by people that are following this guide.** 
+
+**You are responsible for your own funds.**
+
+**If you are uncomfortable or unsure of how to proceed, stop what you are doing and ask for help.** {% endhint %}
 
 The Constitution and Arbitration Scopes require signed messaged from both CVC Members and Constitutional Delegates in order for them to be recognized. At present there is no easy-to-use method of signing a message from a Gnosis Safe, unlike with an EOA where multiple tools exist.
 
