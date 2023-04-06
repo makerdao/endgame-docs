@@ -83,7 +83,7 @@ If you see the Success message, then there are no issues with the data you enter
 
 ![](https://i.imgur.com/rINLpbJ.png)
 
-If you see the following message, the transaction will fail, and your gas will be wasted. It is most likely that the recipient address is not appropriate. Remember to enter an EOA address here, not a multisig or contract address.
+If you see the following message, the transaction will fail, and your gas will be wasted. It is most likely that the recipient address is not appropriate. Remember to enter an EOA, not a multisig or contract address.
 
 ![](https://i.imgur.com/g4Zd70y.png)
 
