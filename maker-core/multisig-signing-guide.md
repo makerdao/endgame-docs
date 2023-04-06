@@ -10,7 +10,7 @@
 
 **If you are uncomfortable or unsure of how to proceed, stop what you are doing and ask for help.** {% endhint %}
 
-The Constitution and Arbitration Scopes require signed messages from both CVC Members and Constitutional Delegates in order to be recognized. Currently, there is no easy-to-use method of signing a message from a Gnosis Safe, unlike with an EOA where multiple tools exist.
+The Constitution and Arbitration Scopes require signed messages from both CVC Members and Constitutional Delegates in order to become "recognized". Signed messages are also required for other actions such as CVC Decisions. Currently, there is no easy-to-use method of signing a message from a Gnosis Safe, unlike with an EOA where multiple tools exist.
 
 We understand that many participants prefer to use Gnosis Safes to manage addresses with multiple keys for either personal OpSec reasons or when more than one individual is responsible for the decisions being made by an address, such as a delegate contract that is controlled by a team rather than an individual.
 
