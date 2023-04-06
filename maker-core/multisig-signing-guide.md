@@ -59,12 +59,12 @@ Open the Transaction Builder App either by clicking the link on your Safe's home
 Please note the following important points. The above image should be used as a reference.
 
 1. **Ensure that Custom data is active.**
-2. **Enter the "receiving" Ethereum address**. This address *must* be an EOA, not a multisig or contract address.
+2. **Enter the "receiving" Ethereum address**. This address *must* be an EOA, not a multisig or contract address.  
     a. We *strongly recommend* that you use an address **that you control** in this section.
-3. **Enter the ETH value for the transaction.**
-    a.  We *strongly recommend* that you set this to **0**.
+3. **Enter the ETH value for the transaction.**  
+    a.  We *strongly recommend* that you set this to **0**.  
     b. If a non-zero value is selected and the transaction is executed, that amount of ETH will be sent from your multisig. **This could result in you losing your ETH, especially if you have not followed the advice in 2a.**
-4. **Paste your hexadecimal message into the Data field.**
+4. **Paste your hexadecimal message into the Data field.**  
     a. Make sure you have followed the instruction in section *3* of this guide.
 
 ### 7. Double Check Your Entries
