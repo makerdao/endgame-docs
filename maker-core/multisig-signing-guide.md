@@ -1,6 +1,7 @@
 # How to "Sign" a Message Using a Gnosis Safe Multisig
 
 {% hint style="warning" %} 
+
 **Signing messages from a multisig using the method in this guide requires submitting an on chain transaction and payment of gas fees.**
 
 **MakerDAO and GovAlpha will not take responsibility for any negative outcome experienced by people that are following this guide.** 
