@@ -7,6 +7,7 @@
 * [Overview](overview.md)
 * [Resources](misc/resources.md)
 * [Glossary](misc/glossary.md)
+* [Gnosis Safe Multisig Signing Guide](maker-core/multisig-signing-guide.md)
 
 ## Maker Core
 
