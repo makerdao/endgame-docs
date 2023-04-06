@@ -109,7 +109,7 @@ Once the transaction has executed the data can be accessed from the transaction 
 
 ![](https://i.imgur.com/3t4rNvr.png)
 
-- Your message data is in the `2 data` field.
+- Your message data is in the `2 data` field. There may be some extra `0`s on the end of the string - this is not a problem.
 
 ![](https://i.imgur.com/6ugZbEs.png)
 
