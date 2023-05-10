@@ -17,6 +17,7 @@ The following scopes are the primary scopes of the Endgame Constitution.
 ## Supporting Scopes
 
 The following scopes are the supporting scopes of the Endgame Constitution.
+
 5. **Protocol Engineering:** This scope covers all aspects of upgrading and maintaining the Maker Core protocol. It includes research, development, and deployment of protocol-level products, features, and upgrades. It also includes security-related work such as continuous audits of smart contracts, security research, and bug bounty programs.
 6. **Finance:** This scope covers the financial reporting processes and systems for the protocol. It also provides regular comprehensive updates and overviews of the state of the protocol's finances.
 7. **Physical Resilience:** This scope identifies and mitigates legal, legislative, and regulatory threats to the protocol.
