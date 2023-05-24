@@ -1,10 +1,10 @@
 # SubDAOs
 
-SubDAOs are semi-independent, specialized DAOs that are formed by MakerDAO and designed for protocol alignment. There are different types of subDAOs, and each type has a different role. 
-
 {% hint style="warning" %}
 This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
 {% endhint %}
+
+SubDAOs are semi-independent, specialized DAOs that are formed by MakerDAO and designed for protocol alignment. There are different types of subDAOs, and each type has a different role. 
 
 ## Overview
 
@@ -14,12 +14,15 @@ In most respects, subDAOs are self-standing, unique DAOs. Their semi-independent
 
 ## SubDAO Types
 
-SubDAOs are divided into two types:
+SubDAOs are divided into three types:
 
-- **[Facilitator subDAOs](facilitator.md)**: Facilitate governance for other subDAOs, for scope frameworks, and for arbitration.
-- **[Protector subDAOs](protector.md)**: Protect real-world collateral loans. They house RWA products and take on a first-loss position on all non-decentralized lending.
-- **[Creator subDAOs](creator.md)**: Further decentralized collateral revenue streams. They focus on revenue and product generation.
+- **[FacilitatorDAOs](facilitator.md)** are tasked with organizing the internal mechanisms of MakerDAO, allocatorDAOs, and miniDAOs.
+- **[AllocatorDAOs](allocator.md)** can generate Dai directly from MakerDAO and allocate it as they see fit across the broader DeFi ecosystem. They also manage public-facing entry points to the Maker Ecosystem and are able to spin off miniDAOs.
+- **[MiniDAOs](mini.md)** are spun off by allocatorDAOs as outgrowths of an idea or product they are interested in further decentralizing, promoting, or otherwise consolidating. MiniDAOs are experimental offshoots and may be very short-lived.
 
->Page last reviewed: 2023-03-30    
->Next review due: 2024-06-30    
+A further, higher-level division is drawn between miniDAOs and both facilitatorDAOs and allocatorDAOs, whereby the latter are Major SubDAOs (they are incubated directly by MakerDAO) and the former are Minor SubDAOs (they are incubated by allocatorDAOs) &mdash; i.e., facilitatorDAOs and allocatorDAOs are Major SubDAOs; miniDAOs are Minor SubDAOs.
+
+>Page last reviewed: 2023-05-25    
+>Next review due: 2023-07-25    
+
 
