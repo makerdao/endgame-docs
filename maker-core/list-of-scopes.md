@@ -1,5 +1,9 @@
 # List of Scopes
 
+{% hint style="warning" %}
+This documentation describes functionality and processes that MakerDAO is in the process of implementing. Be aware that parts may be inaccurate or out of date.
+{% endhint %}
+
 Here is a list of the five Scopes:
 
 {% hint style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% endhint %}
@@ -12,5 +16,7 @@ Here is a list of the five Scopes:
 4. **Governance:** This scope covers rules that regulate the critical balance of power, and adjudicate on appeals processes related to misalignment in the ecosystem.
 
 
->Page last reviewed: 2023-05-23
->Next review due: 2023-$$-$$
+
+
+>Page last reviewed: 2023-05-23     
+>Next review due: 2023-MM-DD

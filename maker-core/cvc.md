@@ -1,5 +1,9 @@
 # Constitutional Voter Committees (CVCs)
 
+{% hint style="warning" %}
+This documentation describes functionality and processes that MakerDAO is in the process of implementing. Be aware that parts may be inaccurate or out of date.
+{% endhint %}
+
 ## Overview
 
 Aligned Voter Committees (AVCs) are organized groups of MKR holders who have a shared vision. They form opinions on the direction of Maker Governance by producing and updating Position Documents.  
@@ -41,4 +45,4 @@ Through an AVC decision, AVCs can ban ADs from being displayed as followers of t
 
 
 >Page last reviewed: 2023-05-23     
->Next review due: 2023-$$-$$
+>Next review due: 2023-MM-DD
