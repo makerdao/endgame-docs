@@ -1,26 +1,35 @@
 # Constitutional Conservers
 
-## Overview
-Constitutional Conservers (CC) are the guardians of the [Maker Constitution](https://mips.makerdao.com/mips/details/MIP101). They must preserve the Constitution and fight against any threats to it.
+A Constitutional Conserver (CC) is a guardian of the [Maker Constitution](constitution.md). They must preserve the Constitution and oppose any entities threatening it.
 
-CC may never change the Constitution or governance dynamics, unless they do it within the Constitution processes and frameworks. Only during Pregame, CVC Members are allowed and encouraged to help refine the Maker Constitution.
+{% hint style="warning" %}
+This documentation describes functionality and processes that MakerDAO is in the process of implementing. Be aware that parts may be inaccurate or out of date.
+{% endhint %}
 
-There are many types of CCs. The Arbitration Scope gives recognition to each type of CC. CC may not assume multiple CC types simultaneously or any other ecosystem role. During Pregame, CC can be a [CVC](cvc.md) Member or a [Constitutional Delegate](delegates.md).
+## Types
 
+There are two types of Constitutional Conserver, a [CVC](cvc.md) Member and a [Constitutional Delegate](delegates.md).
+
+The Arbitration Scope gives recognition to each type of Constitutional Conserver if they meet the requirements. Ecosystem Actors that become recognized as a type of Constitutional Conserver may not assume any other ecosystem role, including that of a different type of Constitutional Conserver.
 
 ## Purpose
 
-The Constitution intends to represent MKR holders interests and safeguard them. CCs pledge to the Constitution and their role in it. They function as guardians of MKR holders' interests. They have the responsibility to follow the Constitution and to denounce any breach to it.
+The Maker Constitution is designed to safeguard the interests of MKR holders. By preserving and protecting the Constitution from changes, Constitutional Conservers function as guardians of MKR holders' interests.
 
+Constitutional Conservers may never change the Constitution or governance dynamics unless they do it within the Constitution processes and frameworks. During Pregame, CVC Members are allowed and encouraged to help refine the Maker Constitution.
 
 ## Eligibility requirements
-To be eligible, CC must make a public pledge committing to:
+To be eligible, Constitutional Conservers must make a public pledge committing to:
 - Preserve the Constitution
-- Fight against and publicly expose all forms of corruption, organizational drifts, and other threats to the Constitution
+- Oppose and publicly expose all forms of corruption, organizational drifts, and other threats to the Constitution
 
-CC must be anonymous. During Pregame, anonymity is encouraged but not required.
+Constitutional Conservers must be anonymous. During Pregame, anonymity is encouraged but not required.
 
-The CC status is **derecognized** when a CC acts against their pledge or against any of the requirements attached to their type. Failing to meet these requirements is also considered a breach to their pledge.
+A Constitutional Conserver can be **derecognized** if it acts against the pledge or against any of the requirements attached to their type. 
 
-When the breach is *mild*, CCs receive a warning, which is recorded by the Arbitration Scope Framework. There are no further consequences for *first-time* breaches. The CC does not lose their status.
-When the breach is *severe*, CC are derecognized and lose all *reputation* in the Ecosystem Scope Framework and the Physical Resilience Scope Framework.
+If the breach is *mild*, the Constitutional Conserver receives a warning, which is recorded by the Arbitration Scope Framework. There are no further consequences for *first-time* breaches.
+
+If the breach is *severe*, the Constitutional Conserver is derecognized and no longer receives the privileges attached to the Constitutional Conserver role.
+
+>Page last reviewed: 2023-03-30    
+>Next review due: 2024-06-30    

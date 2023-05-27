@@ -7,10 +7,6 @@ Collateral assets held by the Maker Protocol or its SubDAOs can be broken up int
 
 2. **Miscellaneous decentralized:** Examples include ERC-20 tokens such as UNI, LINK, etc. as well as liquidity pool tokens involving these assets. These make DAI as decentralized and unbiased as possible. However, they are rarely scalable enough to be useful as collateral directly in Maker Core. Vaults related to such tokens are managed by SubDAOs.
 
-3. **MKR:** The Endgame Plan significantly changes the tokenomics of MKR. The solvency backstop is no longer enforced and instead becomes optional. MKR can then be used as decentralized collateral to generate DAI through overcollateralized vaults. MKR can generate stability fees for the protocol, participate in governance, and farm SubDAO tokens. 
-
-4. **SubDAO tokens:** These tokens are a source of decentralized collateral that can be used in overcollateralized vaults to generate DAI. However, SubDAO tokens also provide a solvency backstop to the SubDAOs. As a result, the maximum exposure to SubDAO tokens via [SubElixir](../tokenomics/subelixir.md) must be kept limited. 
-
 ## Real-World Assets (RWA) 
 1. **Cashlike:** This refers to centralized stablecoins such as USDC and short-term government bonds. The role of these assets is to provide liquidity for DAI and enable its use as a currency. The major downside with Cashlike RWA is that they can be seized easily.
 

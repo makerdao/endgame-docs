@@ -1,35 +1,28 @@
 # SubDAOs
 
-SubDAOs are semi-independent, specialized DAOs that are formed by MakerDAO and designed for protocol alignment. They allocate Dai collateral through decentralized frontends and handle the associated operational efficiency risk and marginal decision making.
-
 {% hint style="warning" %}
 This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
 {% endhint %}
 
-## General Characteristics
+SubDAOs are semi-independent, specialized DAOs that are formed by MakerDAO and designed for protocol alignment. There are different types of subDAOs, and each type has a different role. 
 
-SubDAOs have each their own unique governance token, governance processes, and workforce. They are driven by a self-determined, self-aware *meta* (understood as the non-quantifiable values, aspirations, and sensibilities within a human-operated organization &mdash; its ethos). They are, in most respects, self-standing, unique DAOs. Their semi-independent nature helps segregate complexity from Maker Core, alleviate the cognitive load of governance, and derisk MakerDAO by sandboxing the effects of subDAO operations. However, subDAOs governance processes run on top of MakerCore governance infrastructure and MKR holders hold control of their treasury.
+## Overview
 
+SubDAOs have each their own unique governance token, governance processes, and workforce. They are driven by a self-determined, self-aware *meta* (understood as the non-quantifiable values, aspirations, and sensibilities within a human-operated organization - its ethos). 
 
-## SubDAO Classes
+In most respects, subDAOs are self-standing, unique DAOs. Their semi-independent nature helps segregate complexity from Maker Core, alleviate the cognitive load of governance, and derisk MakerDAO by sandboxing the effects of subDAO operations. However, subDAO governance processes run on top of MakerCore governance infrastructure and MKR holders retain control of many of the subDAOs assets.
 
-SubDAOs are classified into three classes:
+## SubDAO Types
 
-- **[Facilitator subDAOs](facilitator.md)**: Facilitate governance for other subDAOs, for scope frameworks, and for arbitration.
-- **[Protector subDAOs](protector.md)**: Protect real-world collateral loans. They house RWA products and take on a first-loss position on all non-decentralized lending.
-- **[Creator subDAOs](creator.md)**: Further decentralized collateral revenue streams. They focus on revenue and product generation.
+SubDAOs are divided into three types:
 
-## Easy Governance Frontends
+- **[FacilitatorDAOs](facilitator.md)** are tasked with organizing the internal mechanisms of MakerDAO, allocatorDAOs, and miniDAOs.
+- **[AllocatorDAOs](allocator.md)** can generate Dai directly from MakerDAO and allocate it as they see fit across the broader DeFi ecosystem. They also manage public-facing entry points to the Maker Ecosystem and are able to spin off miniDAOs.
+- **[MiniDAOs](mini.md)** are spun off by allocatorDAOs as outgrowths of an idea or product they are interested in further decentralizing, promoting, or otherwise consolidating. MiniDAOs are experimental offshoots and may be very short-lived.
 
-Easy Governance Frontends (EGF) are the outward-facing presentation of subDAOs. They serve three functions:
+A further, higher-level division is drawn between miniDAOs and both facilitatorDAOs and allocatorDAOs, whereby the latter are Major SubDAOs (they are incubated directly by MakerDAO) and the former are Minor SubDAOs (they are incubated by allocatorDAOs) &mdash; i.e., facilitatorDAOs and allocatorDAOs are Major SubDAOs; miniDAOs are Minor SubDAOs.
 
-1. Provide a place where subDAOs can express their brand and unique meta in order to connect with their community and funnel new users into using the protocol.
-2. Provide access to the services provided by the subDAO (vanilla Maker Vaults plus any additional services the subDAO may offer &mdash; e.g., RWA vaults).
-3. Provide governance tools for the subDAO and the broader MakerDAO.
-    - These include Dai generation via MKR delegation (effectively MKR Vaults), and Dai staking for subDAO token rewards.
+>Page last reviewed: 2023-05-25    
+>Next review due: 2023-07-25    
 
-More details can be found in the [EGF page](../maker-core/easy-governance-frontend.md).
-
->Page last reviewed: 2023-03-22    
->Next review due: 2024-03-22    
 
