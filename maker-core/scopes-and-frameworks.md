@@ -1,5 +1,9 @@
 # Scopes and Frameworks
 
+{% hint style="warning" %}
+This documentation describes functionality and processes that MakerDAO is in the process of implementing. Be aware that parts may be inaccurate or out of date.
+{% endhint %}
+
 ## Overview
 A Scope is a broad area of focus for products, protocol-related work, and/or governance in MakerDAO. All work done within the Maker Ecosystem must fall under one of the five Scopes.
 
@@ -27,5 +31,5 @@ The Stability Scope covers the management of the Dai Stablecoin. The Dai Stablec
 The Accessibility Scope covers accessibility and distribution efforts, and regulates user-facing frontends of MakerDAO Core and SubDAOs. Operational rules are defined in the Accessibility Scope Artifact.
 
 
->Page last reviewed: 2023-05-23  
->Next review due: 2023-$$-$$  
+>Page last reviewed: 2023-05-23     
+>Next review due: 2023-MM-DD
