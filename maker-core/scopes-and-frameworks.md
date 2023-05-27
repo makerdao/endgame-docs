@@ -1,21 +1,14 @@
 # Scopes and Frameworks
 
 ## Overview
-A Scope is a broad area of focus for products, protocol-related work, and/or governance in MakerDAO. All work done within the Maker Ecosystem must fall under one of the twelve Endgame Scopes.
+A Scope is a broad area of focus for products, protocol-related work, and/or governance in MakerDAO. All work done within the Maker Ecosystem must fall under one of the five Scopes.
 
-Every Scope has a Scope Framework. Scope Frameworks are modifiable subcomponents of the [Maker Constitution](constitution.md). They contain the rules for all work, governance, and other processes that take place under that Scope. 
+Every Scope has a Scope Bounded Mutable Aligment Artifact. These are frameworks that contain the rules for all work, governance, and other processes that take place under that Scope. Scope Artifacts can be amended through [MIP102c2 subproposals](https://mips.makerdao.com/mips/details/MIP102#MIP102c2).
 
-The Maker Constitution's Articles and twelve Scope Frameworks together contain all of the rules and processes of MakerDAO.
+## Modification of Scope Artifact
+Scope Artifacts are modifiable within the constraints of Aligned Boundaries that are immutably defined in the Maker Atlas. An ossification rule is also applied to elements of Scope Artifacts - broadly speaking, an element of a Scope Artifact cannot undergo large changes if it has been unchanged for a relatively long period of time. There exist soft clauses that are not required to follow the ossification rule.
 
-## Types of Scopes
-Scopes are divided into three categories: Primary, Supporting, and Governance. 
-
-Primary Scopes pertain to work done towards customer-facing products of MakerDAO e.g. vault-related work, SubDAO incubation, etc. Supporting Scopes pertain to work that improves Maker Core. Governance Scopes handle arbitration and governance security matters.
-
-## Modification of Scope Frameworks
-Scope Frameworks are modifiable within the constraints of Constitutional Boundaries that are immutably defined in the Maker Constitution. An ossification rule is also applied to elements of Scope Frameworks - broadly speaking, an element of a Scope Framework cannot undergo large changes if it has been unchanged for a relatively long period of time. There exist soft clauses that are not required to follow the ossification rule. 
-
-Any change made to a Scope Framework must aim to improve one or more of the following desirable features of the Maker Ecosystem.
+Any change made to a Scope Artifact must aim to improve one or more of the following desirable features of the Maker Ecosystem.
 - Decentralization
 - Autonomous operation
 - Future-proofing
@@ -24,14 +17,15 @@ Any change made to a Scope Framework must aim to improve one or more of the foll
 - Simplicity of protocol
 
 ## Governance
-Each Scope has an Advisory Council. This Council consists of members who must fulfill certain requirements and have been approved by Maker Governance. The Council carries out advisory work related to improving the content of the Scope Framework.
+Each Scope has a Scope Advisory Council. This Council consists of members who must fulfill certain requirements and have been approved by Maker Governance. The Council carries out advisory work related to improving the content of the Scope Artifact.
 
-The exception to this is the Arbitration Scope, which does not have an Advisory Council.
+The exception to this is the Governance Scope, which does not have a Scope Advisory Council.
 
 ## Example Scopes
-The Decentralized Collateral Scope covers any governance action or work pertaining to vaults holding decentralized collateral. Onboarding and offboarding, changing of parameters, research on collateral types, etc. would fall under this Scope. An example of an item that would belong to the Decentralized Collateral Scope Framework is a minimum liquidation threshold for decentralized collateral. Any SubDAO offering the use of vaults with decentralized collateral must ensure that the liquidation threshold parameter used is at least as large as the value allowed by the Framework.
+The Stability Scope covers the management of the Dai Stablecoin. The Dai Stablecoin must be a permissionless and useful currency available to anyone. Its stability and risk must be managed to generate as much value for MakerDAO and public good as possible.
 
-The Growth Scope covers any governance action or work pertaining to marketing, public relations, education, or awareness. An example of an item that would belong to the Growth Scope Framework is a budget for marketing in a specific geographical region. SubDAOs and Ecosystem Actors that are engaged in marketing initiatives in that region would be paid out of that budget.
+The Accessibility Scope covers accessibility and distribution efforts, and regulates user-facing frontends of MakerDAO Core and SubDAOs. Operational rules are defined in the Accessibility Scope Artifact.
 
->Page last reviewed: 2023-03-01  
->Next review due: 2023-06-01  
+
+>Page last reviewed: 2023-05-23  
+>Next review due: 2023-$$-$$  
