@@ -15,8 +15,5 @@ Here is a list of the five Scopes:
 3. **Accessibility:** This scope covers accessibility and distribution efforts, and regulates user-facing frontends of MakerDAO Core and SubDAOs.
 4. **Governance:** This scope covers rules that regulate the critical balance of power, and adjudicate on appeals processes related to misalignment in the ecosystem.
 
-
-
-
 >Page last reviewed: 2023-05-23     
 >Next review due: 2023-MM-DD
