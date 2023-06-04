@@ -1,19 +1,14 @@
 # List of Scopes
 
-{% hint style="warning" %}
-This documentation describes functionality and processes that MakerDAO is in the process of implementing. Be aware that parts may be inaccurate or out of date.
-{% endhint %}
+{% hint style="warning" %} This documentation describes ongoing changes in functionality and processes. Be aware that parts may be inaccurate or out of date. {% endhint %}
 
 Here is a list of the five Scopes:
 
-{% hint style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% endhint %}
+1. **Governance (GOV):** Codifies rules that regulate the critical balance of power processes defined in the Maker Atlas, and adjudicate on appeals processes related to misalignment in the ecosystem.
+2. **Support (SUP):** Codifies rules that regulate various tasks of ecosystem support, including governance process infrastructure and management, SubDAO ecosystem support, Public Good Purpose System.
+3. **Protocol (PRO):** Codifies rules related to the core technical MakerDAO protocol, the NewChain, and the Two-Stage Gravity Bridge.
+4. **Stability (STA)** Codifies the rules related to managing the core stablecoin product, Dai, and supporting factors related to financial stability, such as surplus buffer and decentralized asset reserve.
+5. **Accessibility (ACC):** Codifies rules related to accessibility and distribution efforts, and regulates user-facing frontends of MakerDAO Core and SubDAOs.
 
-
-1. **Stability** This scope covers the management of the Dai Stablecoin. The Dai Stablecoin must be a permissionless and useful currency available to anyone. Its stability and risk must be managed to generate as much value for MakerDAO and public good as possible.
-2. **Support:** This scope covers rules that regulate various tasks of ecosystem support, including governance process infrastructure and management, SubDAO and Ecosystem Actor support, Public Good Purpose System.
-3. **Protocol:** This scope covers technical rules and processes for the development, maintenance, and security of the Protocol.
-3. **Accessibility:** This scope covers accessibility and distribution efforts, and regulates user-facing frontends of MakerDAO Core and SubDAOs.
-4. **Governance:** This scope covers rules that regulate the critical balance of power, and adjudicate on appeals processes related to misalignment in the ecosystem.
-
->Page last reviewed: 2023-05-23     
->Next review due: 2023-MM-DD
+>Page last reviewed: 2023-06-05
+>Next review due: 2023-08-05
