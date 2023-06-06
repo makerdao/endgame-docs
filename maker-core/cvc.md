@@ -10,9 +10,9 @@ Each AVC produces Aligned Governance Strategy and Aligned Scope Artifact documen
 The documents produced by the AVCs abstract away the minutiae of day-to-day governance. Since Aligned Delegates execute AVC strategies, they allow MKR Holders to be reasonably informed and secure with regard to the general direction of the chosen delegate.
 
 According to their own strategy, AVCs fall somewhere in the spectrum that goes from **Hawk** to **Dove**:
-    - Hawkish AVCs focus more on short-term income and asset accumulation, tending to prefer higher spreads and lower budgets
-    - Dovish AVCs focus more on long-term growth and innovation, tending to prefer lower spreads and higher budgets
-    - Balanced AVCs try to find a middle ground between the two.
+  - Hawkish AVCs focus more on short-term income and asset accumulation, tending to prefer higher spreads and lower budgets
+  - Dovish AVCs focus more on long-term growth and innovation, tending to prefer lower spreads and higher budgets
+  - Balanced AVCs try to find a middle ground between the two.
 The Hawk, Dove, Balanced is a continuous spectrum, so many different hawkish or dovish AVCs can exist that are more or less Balanced.
 
 
@@ -20,8 +20,8 @@ The Hawk, Dove, Balanced is a continuous spectrum, so many different hawkish or 
 In order for a voter committee to be considered an AVC, it must have at least one member who is an [Alignment Conserver (AC)](constitutional-conservers.md) and a verified MKR holder.
 
 To become Active AVCs, AVCs are subject to additional eligibility requirements. For each quarterly governance cycle they must:
-   1. Create one Aligned Governance Strategy document and five Aligned Scope Proposals
-   2. Hold two AVC Subcommittee meetings for each scope
+   - Create one Aligned Governance Strategy document and five Aligned Scope Proposals
+   - Hold two AVC Subcommittee meetings for each scope
 
 The [Governance Scope](https://mips.makerdao.com/mips/details/MIP113) recognizes Active AVCs. It can revoke this recognition anytime the AVC fails to meet all eligibility requirements.
 
