@@ -12,7 +12,8 @@ The documents produced by the AVCs abstract away the minutiae of day-to-day gove
 According to their own strategy, AVCs fall somewhere in the spectrum that goes from **Hawk** to **Dove**:
   - Hawkish AVCs focus more on short-term income and asset accumulation, tending to prefer higher spreads and lower budgets
   - Dovish AVCs focus more on long-term growth and innovation, tending to prefer lower spreads and higher budgets
-  - Balanced AVCs try to find a middle ground between the two.
+  - Balanced AVCs try to find a middle ground between the two
+
 The Hawk, Dove, Balanced is a continuous spectrum, so many different hawkish or dovish AVCs can exist that are more or less Balanced.
 
 
@@ -30,7 +31,8 @@ Member Participation Rewards is a compensation scheme available to AVC members. 
 To be eligible for compensation, AVC members must:
  - Attend the two AVC Subcommittee Meetings
  - Co-author the Aligned Governance Strategy
-AVC Members who fulfill these eligibility requirements and have the highest verified MKR ownership are eligible for compensation.
+
+ AVC Members who fulfill these eligibility requirements and have the highest verified MKR ownership are eligible for compensation.
 
 
 ## Visibility
