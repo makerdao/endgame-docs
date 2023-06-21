@@ -16,9 +16,9 @@
 * [List of Scopes](maker-core/list-of-scopes.md)
 * Governance
     * [Constitutional Conservers](maker-core/constitutional-conservers.md)
-    * [Constitutional Voter Committees](maker-core/cvc.md)
+    * [Aligned Voter Committees](maker-core/avc.md)
     * [Constitutional Delegates](maker-core/delegates.md)
-    * [TBC - Advisory Councils](maker-core/advisory-councils.md)
+    * [TBC - Scope Advisory Councils](maker-core/scope-advisory-councils.md)
     * [Easy Governance Frontend](maker-core/easy-governance-frontend.md)
 * [TBC - Interactions](maker-core/interactions.md)
 
