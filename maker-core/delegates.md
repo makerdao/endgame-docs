@@ -8,7 +8,7 @@ This documentation describes functionality and processes that MakerDAO is in the
 
 ## Overview
 
-Unlike ordinary delegates, CDs are eligible for compensation and are subject to certain restrictions. In particular, CDs must execute governance strategies defined by [Constitutional Voter Committees](cvc.md).
+Unlike ordinary delegates, CDs are eligible for compensation and are subject to certain restrictions. In particular, CDs must execute governance strategies defined by [Constitutional Voter Committees](avc.md).
 
 CDs do not take part in the creation of CVC strategies, they only execute them. This helps to mitigate the risk of a delegate's misalignment with MKR holders.  
 

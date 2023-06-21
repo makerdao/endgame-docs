@@ -8,7 +8,7 @@ This documentation describes functionality and processes that MakerDAO is in the
 
 ## Types
 
-There are two types of Constitutional Conserver, a [CVC](cvc.md) Member and a [Constitutional Delegate](delegates.md).
+There are two types of Constitutional Conserver, a [CVC](avc.md) Member and a [Constitutional Delegate](delegates.md).
 
 The Arbitration Scope gives recognition to each type of Constitutional Conserver if they meet the requirements. Ecosystem Actors that become recognized as a type of Constitutional Conserver may not assume any other ecosystem role, including that of a different type of Constitutional Conserver.
 
@@ -25,7 +25,7 @@ To be eligible, Constitutional Conservers must make a public pledge committing t
 
 Constitutional Conservers must be anonymous. During Pregame, anonymity is encouraged but not required.
 
-A Constitutional Conserver can be **derecognized** if it acts against the pledge or against any of the requirements attached to their type. 
+A Constitutional Conserver can be **derecognized** if it acts against the pledge or against any of the requirements attached to their type.
 
 If the breach is *mild*, the Constitutional Conserver receives a warning, which is recorded by the Arbitration Scope Framework. There are no further consequences for *first-time* breaches.
 
