@@ -6,13 +6,13 @@
 
 **Active Ecosystem Actors:** Ecosystem Actors that work according to the specifications of Scope Frameworks and receive funding for performing specific projects.
 
-**[Advisory Council](../maker-core/advisory-councils.md):** Entity that is responsible for the creation and adherence to Scope Frameworks.
-
 **Advisory Ecosystem Actors:** Ecosystem Actors that perform research and publish advice for the DAO to use in its governance process.
+
+**[Aligned Voter Committee (AVC)](../maker-core/avc.md):** Group of individuals with similar values and goals that delegate MKR for governance voting and have at least one Constitutional Conserver.
 
 **Alignment Engineering:** The practice of designing mechanisms, incentives, and shared habits that benefit the organizational alignment of the entire ecosystem.
 
-**[Arbitration Scope](../maker-core/list-of-scopes.md):** Governance Scope that determines how escalated disputes within the DAO are rectified. 
+**[Arbitration Scope](../maker-core/list-of-scopes.md):** Governance Scope that determines how escalated disputes within the DAO are rectified.
 
 **Arranger:** Ecosystem Actor that source, structure, and attest RWA Collateral for a Protector SubDAO.
 
@@ -22,9 +22,7 @@
 
 **[Constitutional Conserver](../maker-core/constitutional-conservers.md):** Entity that facilitates and protects Maker Governance processes by ensuring it follows the rules of the Maker Constitution.
 
-**[Constitutional Delegate](../maker-core/delegates.md):** Constitutional Conserver that additionally operates as a Delegate. 
-
-**[Constitutional Voter Committee (CVC)](../maker-core/cvc.md):** Group of individuals with similar values and goals that delegate MKR for governance voting and have at least one Constitutional Conserver.
+**[Constitutional Delegate](../maker-core/delegates.md):** Constitutional Conserver that additionally operates as a Delegate.
 
 **Core Unit:** Entity that is responsible for budget allocation for a particular scope and can fast-track proposals within governance. This term may also refer to existing [Core Units](https://mips.makerdao.com/mips/details/MIP39) in the current MakerDAO Governance system.
 
@@ -36,17 +34,17 @@
 
 **[Decentralized Collateral Scope](../maker-core/list-of-scopes.md):** Primary Scope that interacts with token asset exchanges. The following tokens are considered decentralized collateral: ETH, Liquid Staking Tokens, and other decentralized tokens.
 
-**[Delegate](../maker-core/delegates.md):** Ecosystem Actor to whom regular MKR holders can safely delegate their MKR voting power without having to hand over the custody of the MKR itself. 
+**[Delegate](../maker-core/delegates.md):** Ecosystem Actor to whom regular MKR holders can safely delegate their MKR voting power without having to hand over the custody of the MKR itself.
 
 **[Easy Governance Frontend (EGF)](../maker-core/easy-governance-frontend.md):** Standardized and regulated application that most users will use to vote and access MKR voter incentives.
 
 **Ecosystem Actors:** External entity that offers services to Maker Core and SubDAOs. Divided into Advisory Ecosystem Actors and Active Ecosystem Actors.
 
-**[Ecosystem Scope](../maker-core/list-of-scopes.md):** Primary Scope involved with governance process and communications. 
+**[Ecosystem Scope](../maker-core/list-of-scopes.md):** Primary Scope involved with governance process and communications.
 
 **[Elixir](../tokenomics/elixir.md):** The UniswapV2 liquidity pool token for the DAI-MKR pool. Consists of 50% Dai and 50% MKR.
 
-**[Facilitator DAO](../subdaos/facilitator.md):** Type of SubDAO that focuses on organizing the decentralized workforce of the Maker Core. 
+**[Facilitator DAO](../subdaos/facilitator.md):** Type of SubDAO that focuses on organizing the decentralized workforce of the Maker Core.
 
 **[Finance Scope](../maker-core/list-of-scopes.md):** Supporting Scope that interacts with the financial reporting processes and provides updates on the protocol’s financial situation.
 
@@ -62,7 +60,7 @@
 
 **[Interface Scope](../maker-core/list-of-scopes.md):** Supporting Scope that regulates and develops the core elements of frontend concepts.
 
-**Maker Core:** Core protocol with minimal governance upon which the Maker Ecosystem is built. 
+**Maker Core:** Core protocol with minimal governance upon which the Maker Ecosystem is built.
 
 **Maker Ecosystem:** Ecosystem consisting of SubDAOs, governance, ecosystem actors, and users.
 
@@ -96,7 +94,9 @@
 
 **[Scope](../maker-core/scopes-and-frameworks.md):** Broad focus area of work within which SubDAOs, Ecosystem Actors and Maker Governance operate.
 
-**[Scope Framework](../maker-core/scopes-and-frameworks.md):** Set of regulations governing all activities under a Scope. 
+**[Scope Advisory Council](../maker-core/scope-advisory-councils.md):** Entity that is responsible for the creation and adherence to Scope Frameworks.
+
+**[Scope Framework](../maker-core/scopes-and-frameworks.md):** Set of regulations governing all activities under a Scope.
 
 **[Stability and Liquidity Scope](../maker-core/list-of-scopes.md):** Secondary Scope that includes cashlike RWA portfolio management, target rate management, and protocol-owned vault management.
 
@@ -114,7 +114,7 @@
 
 **[Supporting Scopes](../maker-core/list-of-scopes.md):** Scope Category that includes Protocol Engineering, Growth, Physical Resilience, Infrastructure, Interface, and Finance.
 
-**Target Rate (TR):** Goal for the rate at which the target price of Dai changes over time. 
+**Target Rate (TR):** Goal for the rate at which the target price of Dai changes over time.
 
 **Unified Coordination Toolkit (UCT):** Open-source software that is utilized as a transparency and governance reporting tool as well as a collaboration tool.
 
@@ -152,7 +152,7 @@
 
 **Pigeon Stance:** Deprecated Endgame Stance that has no limit on RWA and where Dai remains pegged to 1 USD.
 
-**Recognized Delegates:** Entities within Maker governance to whom MKR can be delegated and that receive compensation for their services. 
+**Recognized Delegates:** Entities within Maker governance to whom MKR can be delegated and that receive compensation for their services.
 
 **Stance:** A set of rules during Endgame that determine the type of collateral backing Dai as well as the value of Dai.
 
