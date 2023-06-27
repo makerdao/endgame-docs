@@ -26,9 +26,9 @@
 
 * [Overview](subdaos/overview.md)
 * Types
-    * [TBC - Facilitator](subdaos/facilitator.md)
-    * [Creator](subdaos/creator.md)
-    * [Protector](subdaos/protector.md)
+    * [TBC - FacilitatorDAOs](subdaos/facilitator.md)
+    * [TBC - AllocatorDAOs](subdaos/allocator.md)
+    * [TBC - MiniDAOs](subdaos/mini.md)
 * [TBC - Interactions](subdaos/interactions.md)
 
 ## Tokenomics
@@ -43,5 +43,6 @@
 ## Concepts
 * [Collateral Breakdown](concepts/collateral-breakdown.md)
 * [Peg Stability Mechanisms](concepts/peg-stability-mechanisms.md)
+
 
 
