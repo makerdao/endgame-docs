@@ -12,10 +12,10 @@ The Endgame Plan was [introduced](https://forum.makerdao.com/t/decentralized-vot
 ## Goals
 
 The Endgame Plan has many goals which come together to create the Endgame State. A list of these goals is below:
-- Providing access to an Unbiased World Currency in the form of the decentralized stablecoin Dai.
+- Provide access to an Unbiased World Currency in the form of the decentralized stablecoin Dai.
 - Ensure that Maker Core is more resilient to external risks such as regulatory action.
 - Ensure that the Maker Ecosystem can scale in a decentralized manner.
-- Alignment engineering for all participants in the Maker Ecosystem resulting in positive community culture and engagement.
+- Align incentives for all participants in the Maker Ecosystem resulting in positive community culture and engagement.
 - Reduce governance overhead for MKR holders and Maker delegates.
 - Cut scope creep in Maker Core.
 - Ensure that Maker has a meaningful charitable impact.
@@ -44,23 +44,23 @@ Maker Core will consist of [five Scopes](maker-core/list-of-scopes.md). A Scope 
 
 The goal of introducing Scopes is to limit scope creep and ensure that any work done aligns with Maker Core's goals.
 
-Scope Artifacts define the rules that SubDAOs must adhere to. Scope Artifacts will be refined over time to maximize profit and minimize risk to Maker Core.
+Each Scope has a set of Scope Artifacts that define the rules that SubDAOs must adhere to. Scope Artifacts will be refined over time to maximize profit and minimize risk to Maker Core.
 
 Scope Artifacts limit the governance overhead by ensuring that Maker Core only focuses on high-level decisions. They also encourage innovation among SubDAOs without allowing them to take excessive risks that may damage Maker Core. 
 
 ### [Aligned Voter Committees](maker-core/avc.md)
 
-Aligned Voter Committees (AVCs) are groups of voters with aligned values and views. CVCs engage in the important high-level questions of Maker Governance. Every AVC must include a [Aligned Conserver](maker-core/aligned-conservers.md), an entity that has pledged to support the Atlas. 
+Aligned Voter Committees (AVCs) are groups of voters with aligned values and views. AVCs engage in the important high-level questions of Maker Governance. Every AVC must include an [Alignment Conserver](maker-core/alignment-conservers.md), an entity that has pledged to support the Atlas. 
 
 The objective of AVCs is to ensure that they represent MKR voters that are aligned with the values of that AVC. Members of AVCs will be compensated for their engagement under certain conditions, thereby incentivizing active governance. 
 
-AVCs work together with [Aligned Delegates](maker-core/delegates.md) as well as [Advisory Councils](maker-core/advisory-councils.md) to implement specific governance changes.
+AVCs work together with [Aligned Delegates](maker-core/delegates.md) and [Advisory Councils](maker-core/advisory-councils.md) to implement specific governance changes.
 
 ### [Tokenomics](tokenomics/launch-tokenomics.md)
 
 The Endgame Plan has several major tokenomics updates. 
 
-First, the Endgame Plan introduces strategies to purchase liquidity pool tokens representing liquidity pools holding various combinations of MKR, Dai and SubDAO governance tokens with profits from the protocol. The aim of these token purchases is to ensure alignment of interests between Maker Core and SubDAOs.
+First, the Endgame Plan introduces strategies to purchase liquidity pool tokens with profits from the protocol. These tokens represent liquidity pools holding various combinations of MKR, Dai and SubDAO governance tokens. The aim of these token purchases is to ensure alignment of interests between Maker Core and SubDAOs.
 
 Second, annual MKR minting will be used to incubate SubDAOs, fund AVCs, and incentivize the workforce. These emissions counteract the MKR burn and reduce the likelihood of MKR becoming concentrated in the hands of large holders. 
 
