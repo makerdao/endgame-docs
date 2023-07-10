@@ -12,7 +12,6 @@ The Endgame Plan was [introduced](https://forum.makerdao.com/t/decentralized-vot
 ## Goals
 
 The Endgame Plan has many goals which come together to create the Endgame State. A list of these goals is below:
-- Provide access to an Unbiased World Currency in the form of the decentralized stablecoin Dai.
 - Ensure that Maker Core is more resilient to external risks such as regulatory action.
 - Ensure that the Maker Ecosystem can scale in a decentralized manner.
 - Align incentives for all participants in the Maker Ecosystem resulting in positive community culture and engagement.
@@ -60,13 +59,13 @@ AVCs work together with [Aligned Delegates](maker-core/delegates.md) and [Adviso
 
 The Endgame Plan has several major tokenomics updates. 
 
-First, the Endgame Plan introduces strategies to purchase liquidity pool tokens with profits from the protocol. These tokens represent liquidity pools holding various combinations of MKR, Dai and SubDAO governance tokens. The aim of these token purchases is to ensure alignment of interests between Maker Core and SubDAOs.
+First, the Endgame Plan modifies the MKR burn mechanism. The protocol uses profits to purchase liquidity pool tokens represent liquidity pools holding various combinations of MKR, Dai, and SubDAO governance tokens. The aim of these token purchases is to ensure alignment of interests between Maker Core and SubDAOs. The accumulated liquidity pool tokens are then used to buy and burn MKR at suitable opportunities. 
 
-Second, annual MKR minting will be used to incubate SubDAOs, fund AVCs, and incentivize the workforce. These emissions counteract the MKR burn and reduce the likelihood of MKR becoming concentrated in the hands of large holders. 
+Second, annual MKR minting will be used to incubate SubDAOs, fund AVCs, and incentivize the workforce. These emissions counteract the burn mechanism and reduce the likelihood of MKR becoming concentrated in the hands of large holders. 
 
-Third, MKR holders may lock up their MKR and use it to participate in governance. Such locked-up MKR is eligible for Dai and SubDAO token farming rewards. 
+Third, users may lock up their MKR in a new module but continue to use it to participate in governance. Such locked-up MKR is eligible for Dai and SubDAO token farming rewards. When users wish to unlock their MKR from this module, a percentage of their initial deposit is burned. 
 
-Maker Governance no longer guarantees that the new governance token will function as a backstop in the event that Maker becomes insolvent. Governance may instead choose to adjust the Target Price of Dai which would result in a loss in value for Dai holders.
+Maker Governance no longer guarantees that MKR will function as a backstop in the event that Maker becomes insolvent. Governance may instead choose to adjust the Target Price of Dai which would result in a loss in value for Dai holders.
 
 
 >Page last reviewed: 2023-07-06    
