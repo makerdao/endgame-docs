@@ -8,7 +8,10 @@ AllocatorDAOs are one of the three types of [SubDAOs](overview.md) in the Maker 
 
 ## Overview
 
-AllocatorDAOs serve three main functions: 1) Generating Dai from MakerDAO and allocate it to profitable opportunities within the DeFi ecosystem; 2) Providing an entry point to the Maker ecosystem; 3) Spining off [MiniDAOs](mini.md).
+AllocatorDAOs serve three main functions: 
+1. Generating Dai from MakerDAO and allocate it to profitable opportunities within the DeFi ecosystem
+2. Providing an entry point to the Maker ecosystem
+3. Spining off [MiniDAOs](mini.md).
 
 AllocatorDAOs must allocate their generated Dai in accordance to broad objectives defined by the Stability Scope. These objectives are further defined and restricted by Maker Governance.
 
