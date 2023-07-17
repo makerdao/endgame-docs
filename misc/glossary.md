@@ -4,6 +4,8 @@
 
 ## Current terms
 
+**[Accessibility Scope (ACC)](../maker-core/list-of-scopes.md)**: Scope that codifies rules related to accessibility and distribution efforts, and regulates user-facing frontends of MakerDAO Core and SubDAOs.
+
 **Active Ecosystem Actors:** Ecosystem Actors that work according to the specifications of Scope Frameworks and receive funding for performing specific projects.
 
 **[Advisory Council](../maker-core/advisory-councils.md):** Entity that is responsible for the creation and adherence to Scope Frameworks.
@@ -20,15 +22,15 @@
 
 **[Clean Money RWA](../concepts/collateral-breakdown.md):** RWA assets made up of renewable energy and sustainable agricultural assets.
 
-**[Constitutional Conserver](../maker-core/constitutional-conservers.md):** Entity that facilitates and protects Maker Governance processes by ensuring it follows the rules of the Maker Constitution.
+**[Alignment Conserver](../maker-core/constitutional-conservers.md):** Entity that facilitates and protects Maker Governance processes by ensuring it follows the rules of the Maker Constitution.
 
-**[Constitutional Delegate](../maker-core/delegates.md):** Constitutional Conserver that additionally operates as a Delegate. 
+**[Aligned Delegate](../maker-core/delegates.md):** Alignment Conserver that additionally operates as a Delegate. 
 
-**[Constitutional Voter Committee (CVC)](../maker-core/cvc.md):** Group of individuals with similar values and goals that delegate MKR for governance voting and have at least one Constitutional Conserver.
+**[Aligned Voter Committee (AVC)](../maker-core/cvc.md):** Group of individuals with similar values and goals that delegate MKR for governance voting and have at least one Alignment Conserver.
 
 **Core Unit:** Entity that is responsible for budget allocation for a particular scope and can fast-track proposals within governance. This term may also refer to existing [Core Units](https://mips.makerdao.com/mips/details/MIP39) in the current MakerDAO Governance system.
 
-**[Creator DAO](../subdaos/creator.md):** Type of SubDAO that focuses on decentralized collateral.
+**[AllocatorDAO](../subdaos/allocator.md):** Type of SubDAO that focuses on generating Dai and allocating it to profitable opportunities in the DeFi ecosystem. They can spin off [MiniDAOs](../subdaos/mini.md).
 
 **[DAI Saving Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate):** Module that allows users to earn yield from Dai. The term may also refer to the current APY of the DSR module.
 
@@ -46,19 +48,13 @@
 
 **[Elixir](../tokenomics/elixir.md):** The UniswapV2 liquidity pool token for the DAI-MKR pool. Consists of 50% Dai and 50% MKR.
 
-**[Facilitator DAO](../subdaos/facilitator.md):** Type of SubDAO that focuses on organizing the decentralized workforce of the Maker Core. 
+**[FacilitatorDAO](../subdaos/facilitator.md):** Type of SubDAO that focuses on organizing the decentralized workforce of the Maker Core. 
 
 **[Finance Scope](../maker-core/list-of-scopes.md):** Supporting Scope that interacts with the financial reporting processes and provides updates on the protocol’s financial situation.
 
-**[Governance Scopes](../maker-core/list-of-scopes.md):** Scope Category that includes Governance Security and Arbitration.
-
-**[Governance Security Scope](../maker-core/list-of-scopes.md):** Governance Scope which ensures that smart contracts, spells, or other product code are safe from attacks and bugs.
-
-**[Growth Scope](../maker-core/list-of-scopes.md):** Primary Scope that interacts with the growth increasing the demand of Dai and all of the distribution channels in the Maker protocol that deploy human and financial capital to achieve said demand.
+**[Governance Scope (GOV)](../maker-core/list-of-scopes.md)**: Scope that codifies rules that regulate the critical balance of power processes defined in the Maker Atlas, and adjudicate on appeals processes related to misalignment in the ecosystem.
 
 **Home Base:** L2 shard with an active Maker Vault Engine that Creator DAOs choose.
-
-**[Infrastructure Scope](../maker-core/list-of-scopes.md):** Supporting Scope that interacts with the most critical security aspects of the Maker Protocol. This includes smart contracts, keepers, oracles, and other node network infrastructure.
 
 **[Interface Scope](../maker-core/list-of-scopes.md):** Supporting Scope that regulates and develops the core elements of frontend concepts.
 
@@ -68,27 +64,19 @@
 
 **Maker Teleport:** Module that allows users to instantly transfer Dai from the Ethereum Mainnet to L2s or from one L2 to another L2.
 
-**Meta:** Concept describing the second-order and contextual effects surrounding a particular subject.
-
 **[Miscellaneous RWA](../concepts/collateral-breakdown.md):** Centralized on-chain RWA assets such as WBTC, cross-chain bridge tokens from L1s, and security token vaults.
 
 **Oracle Services:** Services related to the oracle interface that communicates real-world data to smart contracts.
 
-**[Physical Resilience Scope](../maker-core/list-of-scopes.md):** Scope that identifies and mitigates legal, legislative, and regulatory threats to the protocol.
-
 **[Physically Resilient RWA](../concepts/collateral-breakdown.md):** RWA Asset that cannot be easily seized via legal means.
-
-**[Primary Scopes](../maker-core/list-of-scopes.md):** Scope Category that includes Stability and Liquidity, Decentralized Collateral, RWA Collateral, and Ecosystem Operations.
 
 **[Protector DAO](../subdaos/protector.md):** Type of SubDAO responsible for real-world assets.
 
-**[Protocol Engineering Scope](../maker-core/list-of-scopes.md):** Supporting Scope that is responsible for the functionality and upgrades of the core protocol.
+**[Protocol Scope (PRO)](../maker-core/list-of-scopes.md)**: Scope that codifies rules related to the core technical MakerDAO protocol, the NewChain, and the Two-Stage Gravity Bridge.
 
 **Protocol-Owned Vault:** Maker vault that can only be utilized by Maker Governance which uses decentralized collateral to generate Dai.
 
 **RWA Adopted Vault:** Vault with RWA collateral that only pays a fixed part of their stability fee to Maker Core. A Protector SubDAO is responsible for liquidations and other losses before Maker Core in return for the remaining stability fees.
-
-**[RWA Collateral Scope](../maker-core/list-of-scopes.md):** Primary Scope that interacts with real-world assets that include: cashlike (centralized stablecoins & bonds), clean money (renewable energy projects), physically resilient, and miscellaneous (WBTC) assets.
 
 **RWA Services:** External services that require interaction with the physical world in order to obtain assets.
 
@@ -98,7 +86,7 @@
 
 **[Scope Framework](../maker-core/scopes-and-frameworks.md):** Set of regulations governing all activities under a Scope. 
 
-**[Stability and Liquidity Scope](../maker-core/list-of-scopes.md):** Secondary Scope that includes cashlike RWA portfolio management, target rate management, and protocol-owned vault management.
+**[Stability Scope (STA)](../maker-core/list-of-scopes.md)**: Scope that codifies the rules related to managing the core stablecoin product, Dai, and supporting factors related to financial stability, such as surplus buffer and decentralized asset reserve.
 
 **Stability Fee Base Rate (SFBR):** Interest rate which is added to the stability fee rate of some or all vaults.
 
@@ -112,7 +100,7 @@
 
 **[SubElixir](../tokenomics/subelixir.md):** Liquidity pool consisting of SubDAO tokens and MKR.
 
-**[Supporting Scopes](../maker-core/list-of-scopes.md):** Scope Category that includes Protocol Engineering, Growth, Physical Resilience, Infrastructure, Interface, and Finance.
+**[Support Scope (SUP)](../maker-core/list-of-scopes.md)**: Scope that codifies rules that regulate various tasks of ecosystem support, including governance process infrastructure and management, SubDAO ecosystem support, Public Good Purpose System.
 
 **Target Rate (TR):** Goal for the rate at which the target price of Dai changes over time. 
 
@@ -123,41 +111,3 @@
 **Workforce Bonus:** MKR that is utilized to compensate Delegates, Council, and Core Unit members.
 
 **Workforce Bonus Pool:** A pool initially consisting of SubDAO tokens that are distributed based upon SubDAO token governance to incentivize the creation and maintenance of SubDAOs.
-
-## Deprecated terms
-
-**Administrative Team:** Team that directly interfaces with SubDAO governance, makes proposals, receives budgets, and has governance privileges.
-
-**Anti Reflexivity Mechanic:** System that sells a fixed amount of MKR or SubDAO tokens for Dai at fixed prices.  
-
-**Cluster Facilitator:** Individual that leads a SubDAO cluster.
-
-**Contribution Team:** Team that is funded by Administrative Teams and focuses on specialized work.
-
-**Council:** See Advisory Council.
-
-**Eagle Stance** Deprecated Endgame Stance where Dai becomes free-floating with a potentially negative Target Rate.
-
-**EtherDai:** Synthetic ETH token backed by staked ETH collateral.
-
-**MetaDAO:** See SubDAO.
-
-**MetaElixir:** See SubElixir.
-
-**MetaEngineering:** See Alignment Engineering.
-
-**Metanomics:** Tokenomics system that emits 50,000 MKR annually and is distributed towards Elixir and SubElixir Acquisition, SubDAO Incubation, and the Maker Workforce Bonus Pool.
-
-**Phoenix Stance:** Deprecated Endgame Stance where Dai does not allow RWA except for Physically Resilient RWA.
-
-**Pigeon Stance:** Deprecated Endgame Stance that has no limit on RWA and where Dai remains pegged to 1 USD.
-
-**Recognized Delegates:** Entities within Maker governance to whom MKR can be delegated and that receive compensation for their services. 
-
-**Stance:** A set of rules during Endgame that determine the type of collateral backing Dai as well as the value of Dai.
-
-**SubDAO Cluster:** Group headed by a Cluster Facilitator that launches SubDAO proposals.
-
-**Tribunal:** Entity that is responsible for the creation and adherence to Supporting Scope Frameworks. See Advisory Council.
-
-**Unrecognized Delegates:** Delegates that are completely anonymous that do not receive compensation for governance voting.
