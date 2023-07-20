@@ -1,4 +1,4 @@
-# Table of contents
+# Table of Contents
 
 * [Maker Endgame Documentation](README.md)
 
@@ -6,7 +6,6 @@
 
 * [Overview](overview.md)
 * [Resources](misc/resources.md)
-* [Glossary](misc/glossary.md)
 * [Gnosis Safe Multisig Signing Guide](maker-core/multisig-signing-guide.md)
 
 ## Maker Core
@@ -43,6 +42,7 @@
 ## Concepts
 * [Collateral Breakdown](concepts/collateral-breakdown.md)
 * [Peg Stability Mechanisms](concepts/peg-stability-mechanisms.md)
+
 
 
 
