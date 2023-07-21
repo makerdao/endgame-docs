@@ -33,7 +33,6 @@
 
 ## Tokenomics
 
-* [EtherDai](tokenomics/etherdai.md)
 * [Elixir](tokenomics/elixir.md)
 * [SubElixir](tokenomics/subelixir.md)
 * [MKR Tokenomics](tokenomics/mkr-tokenomics.md)
