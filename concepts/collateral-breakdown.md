@@ -3,7 +3,7 @@
 Collateral assets held by the Maker Protocol or its SubDAOs can be broken up into the following categories.
 
 ## Decentralized 
-1. **Ether:** Examples include Ether, Liquid Staking Derivatives such as stETH or rETH, ETH/DAI liquidity pool tokens or [EtherDAI](../tokenomics/etherdai.md). These are assets that are guaranteed to be truly decentralized and resilient at scale. The Endgame plan incentivizes increasing ETH-based collateral through the SubDAO yield farming for EtherDAI. It also uses the Protocol-Owned Vault to accumulate more EtherDAI over time.
+1. **Ether:** Examples include Ether, Liquid Staking Derivatives such as stETH or rETH, or ETH/DAI liquidity pool tokens. These are assets that are guaranteed to be truly decentralized and resilient at scale. The Endgame plan incentivizes increasing ETH-based collateral through the SubDAO yield farming for EtherDAI. It also uses the Protocol-Owned Vault to accumulate more EtherDAI over time.
 
 2. **Miscellaneous decentralized:** Examples include ERC-20 tokens such as UNI, LINK, etc. as well as liquidity pool tokens involving these assets. These make DAI as decentralized and unbiased as possible. However, they are rarely scalable enough to be useful as collateral directly in Maker Core. Vaults related to such tokens are managed by SubDAOs.
 

@@ -16,7 +16,7 @@ There are multiple goals that Maker intends to meet via the new MKR tokenomics.
 
 ## MKR Utility
 
-SubDAO tokens will be farmable using delegated MKR.
+SubDAO tokens will be farmable using MKR locked up in the [Sagittarius Engine](sagittarius-engine.md).
 
 ## MKR Emissions
 
@@ -34,9 +34,7 @@ Additionally, Maker Governance may now opt to interrupt the automatic use of MKR
 
 ## MKR Burns
 
-The Endgame plan introduces the Maker Burn Engine. The Maker Burn Engine accumulates Elixir using Maker Core protocol surplus. This accumulation of Elixir benefits Dai and MKR liquidity.
-
-The Maker Burn Engine uses its accumulated Elixir to burn MKR when MKR is judged to be undervalued according to a valuation model.
+The Endgame plan introduces the Maker Smart Burn Engine. The Smart Burn Engine accumulates Elixir using Maker Core protocol surplus. This accumulation of Elixir benefits Dai and MKR liquidity. The Reverse Burn Engine uses its accumulated Elixir to buy and burn MKR when MKR is judged to be undervalued according to a valuation model.
 
 ## Launch Overview
 
