@@ -12,7 +12,7 @@ Withdrawing MKR from the Sagittarius Engine burns part of the deposited MKR.
 {% hint style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% endhint %}
 
 ## Entry and Exit
-When users deposit MKR into the Sagittarius Engine, they must delegate the deposited MKR through the [Easy Governance Frontend (EGF)](../maker-core/easy-governance-frontend.md). Depositors must specify a delegate's strategy smart contract when making their deposit.
+When users deposit MKR into the Sagittarius Engine, they must delegate the deposited MKR through an [Easy Governance Frontend (EGF)](../maker-core/easy-governance-frontend.md). Depositors must specify a delegate's strategy smart contract when making their deposit.
 
 When a user withdraws their MKR from the Sagittarius Engine, 15% of the deposited MKR is burned.
 
