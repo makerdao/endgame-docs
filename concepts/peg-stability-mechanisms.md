@@ -28,15 +28,15 @@ For example, a TR of -5% implies that the protocol aims to decrease the Target P
 
 The TR is an extremely powerful tool as it accomplishes several goals, especially when it is negative.
  - It enables Maker to withstand a regulatory crackdown that seizes RWA collateral. The target rate may become more negative to reflect a higher risk of RWA collateral being seized.
- - It encourages Dai generation by ordinary users from decentralized collateral such as EtherDai. This is because of the expectation that Dai price will be lower when repaying the loan than it was when the vault was opened. 
+ - It encourages Dai generation by ordinary users from decentralized collateral. This is because of the expectation that Dai price will be lower when repaying the loan than it was when the vault was opened. 
 
 Despite these benefits, the cost of breaking from the USD peg is also very high. Once the peg has been broken, the expectation that 1 Dai is always worth 1 USD can never be regained.
 
 ## Protocol-Owned Vault
 
-The Protocol-Owned Vault is a special Maker Vault only usable by Maker Governance. It holds [EtherDai](../tokenomics/etherdai.md) and potentially other decentralized assets as collateral. Governance can mint Dai against the collateral held in this vault. Note that this vault cannot be automatically liquidated and has no Stability Fee.
+The Protocol-Owned Vault is a special Maker Vault only usable by Maker Governance. It holds decentralized assets such as staked ETH tokens as collateral. Governance can mint Dai against the collateral held in this vault. Note that this vault cannot be automatically liquidated and has no Stability Fee.
 
-Maker Governance may then purchase more EtherDai with Dai minted from the Protocol-Owned Vault. This puts the protocol in a leveraged long position on EtherDai and slightly increases the supply of Dai. This action also slightly increases the share of Dai backed by decentralized collateral. 
+Maker Governance may then purchase more staked ETH tokens with Dai minted from the Protocol-Owned Vault. This puts the protocol in a leveraged long position on the staked ETH tokens and slightly increases the supply of Dai. This action also slightly increases the share of Dai backed by decentralized collateral. 
 
 Finally, a leveraged long position using the Protocol-Owned Vault is synergistic with a negative Target Rate. This is because debt denominated in Dai becomes cheaper to repay as the Target Price of Dai decreases.
 
