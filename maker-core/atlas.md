@@ -1,10 +1,10 @@
 # Atlas Immutable Alignment Artifact
 
+{% hint style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% endhint %}
+
 The [Atlas Immutable Alignment Artifact (Atlas)](https://mips.makerdao.com/mips/details/MIP101) is the foundational set of rules that govern MakerDAO. It provides a high-level description of the DAO, its actors, incentives, and work areas. Together with the [Scope Bounded Mutable Alignment Artifacts (Scope Artifacts)](scopes-and-frameworks.md), the Atlas defines the operational framework of the DAO.
 
 The Atlas is currently unfinished but active. Once the Endgame State is reached, the Atlas will become immutable.
-
-{% hint style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% endhint %}
 
 ## Structure
 
