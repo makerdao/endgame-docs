@@ -28,7 +28,7 @@ If the total Sagittarius Engine debt is less than the Soft Debt Ceiling, this is
 #### Price Oracle
 The oracle for MKR price uses [Elixir](elixir.md) as the primary data source. 
 
-A "sticky price" feature limits upward movement of the price within a fixed time period. That is, Maker Governance can choose to limit the speed at which the reported price of MKR increases, regardless of how fast the Elixir price is increasing. This constraint does not apply to downward price movement. 
+A "sticky price" feature can be activated to limit the upward movement of the price within a fixed time period. That is, Maker Governance can choose to limit the speed at which the reported price of MKR increases, regardless of how fast the Elixir price is increasing. This constraint does not apply to downward price movement. 
 
 #### [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio)
 The Liquidation Ratio is set to 200%. If a vault falls below this collateralization ratio, it is liquidated completely using Elixir order books.
