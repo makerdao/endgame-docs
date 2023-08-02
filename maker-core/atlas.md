@@ -10,26 +10,13 @@ The Atlas is currently unfinished but active. Once the Endgame State is reached,
 
 The Atlas comprises seven broad thematic sections further broken down into articles. The list below contains a very brief summary of the contents of each section.
 
-**[0: Definitions](https://mips.makerdao.com/mips/details/MIP101#0-definitions)**  
-Lists the main terms used within the Atlas and across the Scope Artifacts.
-
-**[1: The Atlas](https://mips.makerdao.com/mips/details/MIP101#1-the-atlas)**  
-Will contain the Atlas Preamble in the near future.
-
-**[2: The Governance Scope](https://mips.makerdao.com/mips/details/MIP101#2-the-governance-scope-gov)**  
-Defines the overall rules for the Governance Scope, further defined under [MIP113: Governance Scope Bounded Mutable Alignment Artifact](https://mips.makerdao.com/mips/details/MIP113).
-
-**[3: The Support Scope](https://mips.makerdao.com/mips/details/MIP101#3-the-support-scope)**  
-Defines the overall rules for the Support Scope, further defined under [MIP106: Support Scope Bounded Mutable Alignment Artifact](https://mips.makerdao.com/mips/details/MIP106).
-
-**[4: The Protocol Scope](https://mips.makerdao.com/mips/details/MIP101#4-the-protocol-scope)**  
-Defines the overall rules for the Protocol Scope, further defined under [MIP107: Protocol Scope Bounded Mutable Alignment Artifact](https://mips.makerdao.com/mips/details/MIP107).
-
-**[5: The Stability Scope](https://mips.makerdao.com/mips/details/MIP101#6-constitutional-delegates-cds-)**  
-Defines the overall rules for the Stability Scope, further defined under [MIP104: Stability Scope Bounded Mutable Alignment Artifact](https://mips.makerdao.com/mips/details/MIP104).
-
-**[6: The Accessibility Scope](https://mips.makerdao.com/mips/details/MIP101#6-the-accessibility-scope)**  
-Defines the overall rules for the Accessibility Scope, further defined under [MIP106: Support Scope Bounded Mutable Alignment Artifact](https://mips.makerdao.com/mips/details/MIP106).
+- [0: Definitions](https://mips.makerdao.com/mips/details/MIP101#0-definitions)  
+- [1: The Atlas](https://mips.makerdao.com/mips/details/MIP101#1-the-atlas)  
+- [2: The Governance Scope](https://mips.makerdao.com/mips/details/MIP101#2-the-governance-scope-gov), further defined in [MIP113: Governance Scope Bounded Mutable Alignment Artifact](https://mips.makerdao.com/mips/details/MIP113).
+- [3: The Support Scope](https://mips.makerdao.com/mips/details/MIP101#3-the-support-scope), further defined in [MIP106: Support Scope Bounded Mutable Alignment Artifact](https://mips.makerdao.com/mips/details/MIP106).
+- [4: The Protocol Scope](https://mips.makerdao.com/mips/details/MIP101#4-the-protocol-scope), further defined in [MIP107: Protocol Scope Bounded Mutable Alignment Artifact](https://mips.makerdao.com/mips/details/MIP107).
+**[5: The Stability Scope](https://mips.makerdao.com/mips/details/MIP101#6-constitutional-delegates-cds-), further defined in [MIP104: Stability Scope Bounded Mutable Alignment Artifact](https://mips.makerdao.com/mips/details/MIP104).
+- [6: The Accessibility Scope](https://mips.makerdao.com/mips/details/MIP101#6-the-accessibility-scope), further defined in [MIP106: Support Scope Bounded Mutable Alignment Artifact](https://mips.makerdao.com/mips/details/MIP106).
 
 ## Interactions
 
