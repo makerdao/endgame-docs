@@ -12,5 +12,5 @@ Unlike the other SubDAO types, MiniDAOs are experimental SubDAOs that do not hav
 
 MiniDAOs are by design easy for AllocatorDAOs to spin off.
 
->Page last reviewed: 2023-06-26    
->Next review due: 2023-07-26    
+>Page last reviewed: 2023-08-03    
+>Next review due: 2023-11-03    

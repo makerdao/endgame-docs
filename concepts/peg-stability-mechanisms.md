@@ -41,5 +41,5 @@ Maker Governance may then purchase more staked ETH tokens with Dai minted from t
 Finally, a leveraged long position using the Protocol-Owned Vault is synergistic with a negative Target Rate. This is because debt denominated in Dai becomes cheaper to repay as the Target Price of Dai decreases.
 
 
->Page last reviewed: 2023-02-03    
->Next review due: 2023-05-03  
+>Page last reviewed: 2023-08-03    
+>Next review due: 2023-11-03  

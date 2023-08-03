@@ -24,8 +24,8 @@ SubDAOs are divided into three types:
 
 FacilitatorDAOs and AllocatorDAOs are incubated directly by MakerDAO and are called Major SubDAOs while MiniDAOs are incubated by AllocatorDAOs and are called Minor SubDAOs.
 
->Page last reviewed: 2023-06-15    
->Next review due: 2023-07-25    
+>Page last reviewed: 2023-08-03    
+>Next review due: 2023-11-03    
 
 
 

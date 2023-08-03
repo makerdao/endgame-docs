@@ -18,7 +18,7 @@ FacilitatorDAOs may engage one or more anonymous [Alignment Conservers]() known 
 
 FacilitatorDAOs are rewarded through a tokenomic system called *FacilitatorDAO Responsibility Rewards*. In this scheme, Scopes are assigned specific weights which are then used to reward the FacilitatorDAOs responsible for them.
 
->Page last reviewed: 2023-06-24    
->Next review due: 2023-07-24    
+>Page last reviewed: 2023-08-03    
+>Next review due: 2023-11-03    
 
 

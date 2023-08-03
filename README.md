@@ -16,6 +16,6 @@ This documentation describes planned functionality and processes that MakerDAO h
 * [MIPs Portal](https://mips.makerdao.com/) @ mips.makerdao.com
 * [Endgame](https://endgame.makerdao.com/) @ endgame.makerdao.com **<-- You are here**
 
->Page last reviewed: 2023-01-09    
->Next review due: 2023-04-09    
+>Page last reviewed: 2023-08-03    
+>Next review due: 2023-11-03    
 

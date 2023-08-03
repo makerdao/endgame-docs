@@ -19,6 +19,6 @@ The amounts of Dai that AllocatorDAOs can generate depends on whether the Dai wi
 
 AllocatorDAOs are subject to capitalization requirements and penalties when these are not met.
 
->Page last reviewed: 2023-07-06    
->Next review due: 2023-08-06    
+>Page last reviewed: 2023-08-03    
+>Next review due: 2023-11-03    
 
