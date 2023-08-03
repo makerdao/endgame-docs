@@ -44,8 +44,8 @@ This functionality will initially allow MKR depositors to only farm Dai. 25% of 
 
 Maker Governance can later add farmable SubDAO governance tokens, making the first version of the Sagittarius Engine compatible with the launch of SubDAOs.
 
->Page last reviewed: 2023-07-21    
->Next review due: 2023-10-21
+>Page last reviewed: 2023-08-03    
+>Next review due: 2023-11-03
 
 
 
