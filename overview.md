@@ -53,7 +53,7 @@ Aligned Voter Committees (AVCs) are groups of voters with aligned values and vie
 
 The objective of AVCs is to ensure that they represent MKR voters that are aligned with the values of that AVC. Members of AVCs will be compensated for their engagement under certain conditions, thereby incentivizing active governance. 
 
-AVCs work together with [Aligned Delegates](maker-core/delegates.md) and [Advisory Councils](maker-core/advisory-councils.md) to implement specific governance changes.
+AVCs work together with [Aligned Delegates](maker-core/aligned-delegates.md) and [Advisory Councils](maker-core/scope-advisory-councils.md) to implement specific governance changes.
 
 ### [Tokenomics](tokenomics/launch-tokenomics.md)
 
@@ -68,5 +68,5 @@ Third, users may lock up their MKR in a new module but continue to use it to par
 Maker Governance no longer guarantees that MKR will function as a backstop in the event that Maker becomes insolvent. Governance may instead choose to adjust the Target Price of Dai which would result in a loss in value for Dai holders.
 
 
->Page last reviewed: 2023-07-06    
->Next review due: 2023-10-06  
+>Page last reviewed: 2023-08-03    
+>Next review due: 2023-11-03  
