@@ -26,5 +26,5 @@ The EGF will access required data in a decentralized way using the IPFS protocol
 
 At the start of early-game, SubDAOs will each host separate but identical versions of the EGF app to improve accessibility.
 
->Page last reviewed: 2023-08-03    
+>Page last reviewed: 2023-08-03      
 >Next review due: 2023-11-03    
