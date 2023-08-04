@@ -10,5 +10,5 @@ The Maker Protocol has five Scopes. They are:
 4. **Stability (STA)** Codifies the rules related to managing the core stablecoin product, Dai, and supporting factors related to financial stability, such as surplus buffer and decentralized asset reserve.
 5. **Accessibility (ACC):** Codifies rules related to accessibility and distribution efforts, and regulates user-facing frontends of MakerDAO Core and SubDAOs.
 
->Page last reviewed: 2023-06-21
->Next review due: 2023-08-21
+>Page last reviewed: 2023-08-03
+>Next review due: 2023-11-03
