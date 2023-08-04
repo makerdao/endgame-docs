@@ -49,5 +49,5 @@ While the third and fourth requirements, when not fully met, may result in reduc
     
 More details on compensation and eligibility can be found in [Article 2.6.3 in the Maker Atlas](https://mips.makerdao.com/mips/details/MIP101#2-6-3-aligned-delegate-income-and-participation-requirements).
     
->Page last reviewed: 2023-03-30    
->Next review due: 2024-06-30    
+>Page last reviewed: 2023-08-03    
+>Next review due: 2023-11-03    

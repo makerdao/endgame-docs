@@ -4,8 +4,6 @@
 
 The Endgame Plan introduces new mechanisms to complement existing mechanisms in the Maker Protocol to dynamically impact the supply and demand of Dai. These mechanisms are called Peg Stability Mechanisms. Note that this term should not be confused with the similarly-named [Peg Stability Modules (PSMs)](https://manual.makerdao.com/module-index/module-psm).
 
-{% hint style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% endhint %}
-
 ## Dai Savings Rate (DSR)
 
 The [Dai Savings Rate](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate) already exists in Maker and remains unchanged in Endgame. It allows Dai holders to deposit Dai into the DSR contract and earn yield at a rate known as the DSR. The yield is paid from the protocol's system surplus. 
@@ -41,5 +39,5 @@ Maker Governance may then purchase more staked ETH tokens with Dai minted from t
 Finally, a leveraged long position using the Protocol-Owned Vault is synergistic with a negative Target Rate. This is because debt denominated in Dai becomes cheaper to repay as the Target Price of Dai decreases.
 
 
->Page last reviewed: 2023-02-03    
->Next review due: 2023-05-03  
+>Page last reviewed: 2023-08-03    
+>Next review due: 2023-11-03  
