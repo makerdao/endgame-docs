@@ -1,10 +1,10 @@
 # Easy Governance Frontend
 
-The Easy Governance Frontend (EGF) is a standardized and regulated web application for MKR delegation.
-
 {% hint style="warning" %}
 This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
 {% endhint %}
+
+The Easy Governance Frontend (EGF) is a standardized and regulated web application for MKR delegation.
 
 ## Usability Goals
 

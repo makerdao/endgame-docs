@@ -2,12 +2,11 @@
 
 ## The Endgame Plan
 
+{% hint style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% endhint %}
+
 The Endgame Plan is a proposal to overhaul and improve the governance and tokenomics of the Maker Ecosystem. Its primary aim is for the ecosystem to reach a self-sustainable equilibrium called the Endgame State. In this state, the ecosystem is resilient, and the scope and complexity of Maker Core will no longer change.
 
 The Endgame Plan was [introduced](https://forum.makerdao.com/t/decentralized-voter-committee-on-tuesday-5pm-cest-all-mkr-holders-welcome/15166) by Rune Christensen, the co-founder of Maker. After a series of initial discussions, Maker Governance accepted the [MIP set](https://vote.makerdao.com/polling/QmTmS5Nf) ratifying this plan on 24 October 2022. The Endgame Plan remains in active development, led by Rune Christensen. The latest complete and published description of the Endgame Plan is available [here](https://forum.makerdao.com/t/endgame-plan-v3-complete-overview/17427). Note that some parts are now out of date.  
-
-
-{% hint style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% endhint %}
 
 ## Goals
 
