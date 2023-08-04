@@ -16,5 +16,5 @@ Collateral assets held by the Maker Protocol or its SubDAOs can be broken up int
 
 4. **Physically Resilient:** The Endgame Plan assumes that at a point in the future, there will be a severe crackdown on use of RWA in crypto. Anything that can be seized by global powers may be at risk of seizure through legal means. Physically Resilient RWA are real-world assets that cannot easily be seized. A DAO like Maker can retain some level of technical sovereignty over such assets. 
 
->Page last reviewed: 2023-01-27   
->Next review due: 2023-04-27   
+>Page last reviewed: 2023-08-03   
+>Next review due: 2023-11-03   

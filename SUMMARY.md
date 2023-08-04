@@ -11,8 +11,8 @@
 
 ## Maker Core
 
-* [Constitution](maker-core/constitution.md)
-* [Scopes and Frameworks](maker-core/scopes-and-frameworks.md)
+* [Constitution](maker-core/atlas.md)
+* [Scopes and Frameworks](maker-core/scopes-and-artifacts.md)
 * [List of Scopes](maker-core/list-of-scopes.md)
 * Governance
     * [Alignment Conservers](maker-core/alignment-conservers.md)

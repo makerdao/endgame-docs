@@ -120,3 +120,6 @@ Use a hexadecimal to text tool such as [this one](https://www.rapidtables.com/co
 The tool should reveal text that is identical to your input text from *1* and has been verifiably sent from your multisig wallet.
 
 ![](https://i.imgur.com/o9T24m1.png)
+
+>Page last reviewed: 2023-08-03
+>Next review due: 2023-11-03
