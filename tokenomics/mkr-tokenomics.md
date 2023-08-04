@@ -1,10 +1,10 @@
 # MKR Tokenomics
 
-MKR (Maker) is the preexisting governance token for the Maker Protocol. Under the Endgame Plan MKR is emitted and burned in various circumstances. 
-
 {% hint style="warning" %}
 This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
 {% endhint %}
+
+MKR (Maker) is the preexisting governance token for the Maker Protocol. Under the Endgame Plan MKR is emitted and burned in various circumstances. 
 
 ## Stated Goals
 
