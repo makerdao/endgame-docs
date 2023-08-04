@@ -40,5 +40,5 @@ The Endgame plan introduces the Maker Smart Burn Engine. The Smart Burn Engine a
 
 ![Maker Core Tokenomics](../assets/images/core-tokenomics.png)
 
->Page last reviewed: 2023-02-13    
->Next review due: 2023-05-13   
+>Page last reviewed: 2023-08-03    
+>Next review due: 2023-11-03   
