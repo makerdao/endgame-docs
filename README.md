@@ -5,9 +5,9 @@ description: >-
 
 # Maker Endgame Documentation
 
-{% hint style="warning" %}
-This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
-{% endhint %}
+<div style="padding: 1em; color: red; border: solid 1px red; border-radius: 3px;">
+<strong>Warning:</strong> This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
+</div>
 
 ## More MakerDAO Documentation
 * [Governance](https://manual.makerdao.com/) @ manual.makerdao.com
@@ -16,6 +16,6 @@ This documentation describes planned functionality and processes that MakerDAO h
 * [MIPs Portal](https://mips.makerdao.com/) @ mips.makerdao.com
 * [Endgame](https://endgame.makerdao.com/) @ endgame.makerdao.com **<-- You are here**
 
->Page last reviewed: 2023-01-09    
->Next review due: 2023-04-09    
+>Page last reviewed: 2023-08-04    
+>Next review due: 2023-11-04    
 
