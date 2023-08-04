@@ -10,5 +10,5 @@ This documentation describes planned functionality and processes that MakerDAO h
 
 ![Endgame Launch Target Tokenomics](../assets/images/earlygame-tokenomics.png)
 
->Page last reviewed: 2023-02-13    
->Next review due: 2023-05-13   
+>Page last reviewed: 2023-08-03    
+>Next review due: 2023-11-03   
