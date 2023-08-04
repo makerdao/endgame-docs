@@ -1,6 +1,7 @@
 # Sagittarius Engine
 
-## Introduction
+{% hint style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% endhint %}
+
 The Sagittarius Engine is a module that incentivizes MKR holders to lock their MKR tokens up for long periods of time. The locked-up MKR is required to participate in Maker Governance via delegation. 
 
 The incentives for locking up MKR in the Sagittarius Engine are:
@@ -8,8 +9,6 @@ The incentives for locking up MKR in the Sagittarius Engine are:
 - Dai generation through vaults with MKR as collateral
 
 Withdrawing MKR from the Sagittarius Engine burns part of the deposited MKR.
-
-{% hint style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% endhint %}
 
 ## Entry and Exit
 When users deposit MKR into the Sagittarius Engine, they must delegate the deposited MKR through an [Easy Governance Frontend (EGF)](../maker-core/easy-governance-frontend.md). Depositors must specify a delegate's strategy smart contract when making their deposit.

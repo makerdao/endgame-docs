@@ -1,10 +1,10 @@
 # SubDAO Tokenomics
 
-Each Maker SubDAO has its own SubDAO token. Each SubDAO token is a new token that is minted by Maker Core and distributed widely via token farming initiatives.
-
 {% hint style="warning" %}
 This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
 {% endhint %}
+
+Each Maker SubDAO has its own SubDAO token. Each SubDAO token is a new token that is minted by Maker Core and distributed widely via token farming initiatives.
 
 ## Stated Goals
 
