@@ -24,10 +24,9 @@
 
 * [Overview](subdaos/overview.md)
 * Types
-    * [TBC - FacilitatorDAOs](subdaos/facilitator.md)
-    * [TBC - AllocatorDAOs](subdaos/allocator.md)
-    * [TBC - MiniDAOs](subdaos/mini.md)
-* [TBC - Interactions](subdaos/interactions.md)
+    * [FacilitatorDAOs](subdaos/facilitator.md)
+    * [AllocatorDAOs](subdaos/allocator.md)
+    * [MiniDAOs](subdaos/mini.md)
 
 ## Tokenomics
 
