@@ -56,5 +56,5 @@ SubDAOs use locked [Elixir](elixir.md) to burn a small percentage of their gover
 
 ![SubDAO Tokenomics](../assets/images/subdao-tokenomics.png)
 
->Page last reviewed: 2023-01-30    
->Next review due: 2023-04-30   
+>Page last reviewed: 2023-08-03    
+>Next review due: 2023-11-03   
