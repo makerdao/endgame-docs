@@ -27,5 +27,5 @@ Any change made to a Scope Artifact must aim to improve one or more of the follo
 
 Each Scope has a [Scope Advisory Council](scope-advisory-councils.md).  Councils carry out advisory work related to improving the content of the Scope Artifacts. Councils consist of members who must fulfill certain requirements and have been approved by Maker Governance.
 
->Page last reviewed: 2023-08-03
+>Page last reviewed: 2023-08-03  
 >Next review due: 2023-11-03
