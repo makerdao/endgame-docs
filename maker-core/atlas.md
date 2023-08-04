@@ -26,5 +26,5 @@ Alignment Conservers (i.e., Aligned Voter Committee Members, Aligned Delegates, 
 
 Each Scope Artifact must adhere to the Scope Boundaries defined in the Atlas.
 
->Page last reviewed: 2023-08-03   
->Next review due: 2023-11-03  
+>Page last reviewed: 2023-08-04   
+>Next review due: 2023-11-04  
