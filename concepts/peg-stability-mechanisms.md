@@ -2,9 +2,9 @@
 
 ## Introduction
 
-The Endgame Plan introduces new mechanisms to complement existing mechanisms in the Maker Protocol to dynamically impact the supply and demand of Dai. These mechanisms are called Peg Stability Mechanisms. Note that this term should not be confused with the similarly-named [Peg Stability Modules (PSMs)](https://manual.makerdao.com/module-index/module-psm).
+{% hint style="warning" %} This documentation describes ongoing changes in functionality and processes. Be aware that parts may be inaccurate or out of date. {% endhint %}
 
-{% hint style="warning" %} This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date. {% endhint %}
+The Endgame Plan introduces new mechanisms to complement existing mechanisms in the Maker Protocol to dynamically impact the supply and demand of Dai. These mechanisms are called Peg Stability Mechanisms. Note that this term should not be confused with the similarly-named [Peg Stability Modules (PSMs)](https://manual.makerdao.com/module-index/module-psm).
 
 ## Dai Savings Rate (DSR)
 
