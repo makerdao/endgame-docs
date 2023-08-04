@@ -5,9 +5,9 @@ description: >-
 
 # Maker Endgame Documentation
 
-{% hint style="warning" %}
-This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
-{% endhint %}
+<div style="padding: 1em; color: red; border: solid 1px red; border-radius: 3px;">
+<strong>Warning:</strong> This documentation describes planned functionality and processes that MakerDAO has not yet implemented. Be aware that parts may be inaccurate or out of date.
+</div>
 
 ## More MakerDAO Documentation
 * [Governance](https://manual.makerdao.com/) @ manual.makerdao.com
