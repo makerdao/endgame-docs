@@ -19,7 +19,6 @@
     * [Aligned Delegates](maker-core/aligned-delegates.md)
     * [TBC - Scope Advisory Councils](maker-core/scope-advisory-councils.md)
     * [Easy Governance Frontend](maker-core/easy-governance-frontend.md)
-* [TBC - Interactions](maker-core/interactions.md)
 
 ## SubDAOs
 
