@@ -8,7 +8,7 @@ The Atlas is currently unfinished but active. Once the Endgame State is reached,
 
 ## Structure
 
-The Atlas comprises seven broad thematic sections further broken down into articles. The list below contains a very brief summary of the contents of each section.
+The Atlas comprises seven broad thematic sections further broken down into articles and subarticles:
 
 - [0: Definitions](https://mips.makerdao.com/mips/details/MIP101#0-definitions)  
 - [1: The Atlas](https://mips.makerdao.com/mips/details/MIP101#1-the-atlas)  
