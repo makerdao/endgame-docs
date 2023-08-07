@@ -20,7 +20,7 @@ By changing the Stability Fee Base Rate, Maker Governance can make it more or le
 
 ## Target Rate (TR)
 
-Certain [Stances](stances.md) in the Endgame Plan allow Dai to depeg from the US Dollar. The Target Rate determines the rate at which the Target Price of Dai changes over time. 
+Under certain circumstances, the Endgame Plan allows Dai to depeg from the US Dollar. The Target Rate determines the rate at which the Target Price of Dai changes over time. 
 
 A positive TR increases demand for Dai and reduces the supply of Dai while a negative TR has the opposite effect.
 
