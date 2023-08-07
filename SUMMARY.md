@@ -1,11 +1,10 @@
-# Table of contents
+# Table of Contents
 
 * [Maker Endgame Documentation](README.md)
 
 ## Endgame
 
 * [Overview](overview.md)
-* [Glossary](misc/glossary.md)
 * [Gnosis Safe Multisig Signing Guide](maker-core/multisig-signing-guide.md)
 
 ## Maker Core
