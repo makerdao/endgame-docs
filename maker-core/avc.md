@@ -2,10 +2,10 @@
 
 {% hint style="warning" %} This documentation describes ongoing changes in functionality and processes. Be aware that parts may be inaccurate or out of date. {% endhint %}
 
-Aligned Voter Committees (AVCs) are organized groups of MKR holders who have a shared strategic vision for the Maker protocol. Its members must be [Alignment Conservers](constitutional-conservers.md).
+Aligned Voter Committees (AVCs) are organized groups of MKR holders who have a shared strategic vision for the Maker protocol. Its members must be [Alignment Conservers](alignment-conservers.md).
 
 AVCs have two main tasks in governance:
-1. To propose modifications to the [Scope Artifacts](scopes-and-frameworks.md) to strengthen them over time.
+1. To propose modifications to the [Scope Artifacts](scopes-and-artifacts.md) to strengthen them over time.
 2. To ensure that all [Aligned Delegates (ADs)](delegates.md) that are affiliated with them, execute the AVC's strategic vision when voting on governance issues.   
 
 ## Overview
