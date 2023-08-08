@@ -10,11 +10,11 @@
 
 **If you are uncomfortable or unsure of how to proceed, stop what you are doing and ask for help.** {% endhint %}
 
-The Constitution and Arbitration Scopes require signed messages from both CVC Members and Constitutional Delegates in order to become "recognized". Signed messages are also required for other actions such as CVC Decisions. Currently, there is no easy-to-use method of signing a message from a Gnosis Safe, unlike with an EOA where multiple tools exist.
+The Atlas and Governance Scope require signed messages from both AVC Members and Aligned Delegates in order to become "recognized". Signed messages are also required for other actions such as AVC Decisions. Currently, there is no easy-to-use method of signing a message from a Gnosis Safe, unlike with an EOA where multiple tools exist.
 
 We understand that many participants prefer to use Gnosis Safes to manage addresses with multiple keys for either personal OpSec reasons or when more than one individual is responsible for the decisions being made by an address, such as a delegate contract that is controlled by a team rather than an individual.
 
-After consulting with the DUX team, we recommend the following process for multisig users to send messages using a Gnosis Safe Multisig. Please follow the instructions as written, as we cannot take any responsibility for any adverse outcomes if people do not follow the instructions verbatim. A worked example is provided as a demonstration. Please note that sending messages using this method will require a gas fee. This is due to limitations of Gnosis Safes and is not in the control of MakerDAO.
+After consulting with Jetstream, we recommend the following process for multisig users to send messages using a Gnosis Safe Multisig. Please follow the instructions as written, as we cannot take any responsibility for any adverse outcomes if people do not follow the instructions verbatim. A worked example is provided as a demonstration. Please note that sending messages using this method will require a gas fee. This is due to limitations of Gnosis Safes and is not in the control of MakerDAO.
 
 *Note that adding message signing functionality to Safes is actively being worked on, and this will hopefully be a short-term solution only.*
 
@@ -22,7 +22,7 @@ After consulting with the DUX team, we recommend the following process for multi
 
 ### 1. Determine the Text of the Message You Want to Send
 
-Are you communicating a CVC Decision, or simply verifying control of an address? Make sure the message text contains all of the required information for your use case. You will need to provide the exact text that you have included in your message for verification, so make sure you keep it safe.
+Are you communicating a AVC Decision, or simply verifying control of an address? Make sure the message text contains all of the required information for your use case. You will need to provide the exact text that you have included in your message for verification, so make sure you keep it safe.
 
 For our example, we will be sending a message that contains the following text:
 
